@@ -1,0 +1,323 @@
+{
+  "yesterday": null,
+  "tomorrow": {
+    "dateRange": [
+      "2023-09-10",
+      "2023-09-10"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.5,
+        "content": "q"
+      },
+      "taurus": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.4,
+        "content": "q"
+      },
+      "gemini": {
+        "love": 0.1,
+        "health": 0.1,
+        "money": 0.3,
+        "content": "q"
+      },
+      "cancer": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "e"
+      },
+      "leo": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "e"
+      },
+      "virgo": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "e"
+      },
+      "libra": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "r"
+      },
+      "scorpio": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "t"
+      },
+      "sagittarius": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "y"
+      },
+      "capricorn": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.4,
+        "content": "qqwe"
+      },
+      "aquarius": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.5,
+        "content": "eqw"
+      },
+      "pisces": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "eqwe"
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2023-09-09",
+      "2023-09-09"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.5,
+        "content": "q"
+      },
+      "taurus": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.4,
+        "content": "q"
+      },
+      "gemini": {
+        "love": 0.1,
+        "health": 0.1,
+        "money": 0.3,
+        "content": "q"
+      },
+      "cancer": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "e"
+      },
+      "leo": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "e"
+      },
+      "virgo": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "e"
+      },
+      "libra": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "r"
+      },
+      "scorpio": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "t"
+      },
+      "sagittarius": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "y"
+      },
+      "capricorn": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.4,
+        "content": "qqwe"
+      },
+      "aquarius": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.5,
+        "content": "eqw"
+      },
+      "pisces": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "eqwe"
+      }
+    }
+  },
+  "weekly": {
+    "dateRange": [
+      "2023-09-09",
+      "2023-09-15"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.5,
+        "content": "q"
+      },
+      "taurus": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.4,
+        "content": "q"
+      },
+      "gemini": {
+        "love": 0.1,
+        "health": 0.1,
+        "money": 0.3,
+        "content": "q"
+      },
+      "cancer": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "e"
+      },
+      "leo": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "e"
+      },
+      "virgo": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "e"
+      },
+      "libra": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "r"
+      },
+      "scorpio": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "t"
+      },
+      "sagittarius": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "y"
+      },
+      "capricorn": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.4,
+        "content": "qqwe"
+      },
+      "aquarius": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.5,
+        "content": "eqw"
+      },
+      "pisces": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "eqwe"
+      }
+    }
+  },
+  "monthly": {
+    "dateRange": [
+      "2023-09-01",
+      "2023-09-30"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.5,
+        "content": "q"
+      },
+      "taurus": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.4,
+        "content": "q"
+      },
+      "gemini": {
+        "love": 0.1,
+        "health": 0.1,
+        "money": 0.3,
+        "content": "q"
+      },
+      "cancer": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "e"
+      },
+      "leo": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "e"
+      },
+      "virgo": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "e"
+      },
+      "libra": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "r"
+      },
+      "scorpio": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "t"
+      },
+      "sagittarius": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.3,
+        "content": "y"
+      },
+      "capricorn": {
+        "love": 0.1,
+        "health": 0.3,
+        "money": 0.4,
+        "content": "qqwe"
+      },
+      "aquarius": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.5,
+        "content": "eqw"
+      },
+      "pisces": {
+        "love": 0.1,
+        "health": 0.2,
+        "money": 0.4,
+        "content": "eqwe"
+      }
+    }
+  }
+}
