@@ -1,6 +1,5 @@
 {
-  "yesterday": null,
-  "daily": {
+  "yesterday": {
     "dateRange": [
       "2023-10-02",
       "2023-10-02"
@@ -77,6 +76,86 @@
         "health": 0.8,
         "money": 0.7,
         "content": "\u0130\u00e7inizden gelmeyen hi\u00e7bir \u015feyi yapmak zorunda de\u011filsiniz. Ba\u015flang\u0131\u00e7lar i\u00e7in iyi bir g\u00fcn olmayabilir, biraz daha beklemeniz size iyi gelecektir. "
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2023-10-03",
+      "2023-10-03"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.9,
+        "content": "G\u00fcn\u00fc sevdi\u011finiz insanlarla ge\u00e7irirken, \u00f6nemsedi\u011finiz bir i\u015finizle ilgili de g\u00fczel haberler alabilirsiniz. Enerjiniz y\u00fcksek ve mutlulu\u011funuz katlanarak artacak gibi g\u00f6r\u00fcn\u00fcyor. "
+      },
+      "taurus": {
+        "love": 1,
+        "health": 1,
+        "money": 0.9,
+        "content": "\u0130li\u015fkisi olmayanlar i\u00e7in a\u015fk kap\u0131n\u0131z\u0131 \u00e7alacak, ili\u015fkisi olanlar ad\u0131na bir a\u015fama yukar\u0131 g\u00fczel haberlerle ta\u00e7lanacak hayatlar\u0131. Ayr\u0131ca akrabalar\u0131n\u0131zla olan ili\u015fkileriniz de ekstra g\u00fc\u00e7leniyor. "
+      },
+      "gemini": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 1,
+        "content": "D\u00fcn almad\u0131\u011f\u0131n\u0131z maddi riskleri bug\u00fcn alabilirsiniz. Halihaz\u0131rda yapt\u0131\u011f\u0131n\u0131z i\u015fin \u00e7\u0131rakl\u0131k a\u015famas\u0131 tamamlanm\u0131\u015f, kariyerinizde bir ad\u0131m daha \u00f6ne \u00e7\u0131kman\u0131n zaman\u0131 gelmi\u015f. Yeteneklerinizi geli\u015ftirmek ad\u0131na da ekstra bir hobi edinebilirsiniz."
+      },
+      "cancer": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "\u00dczerinizde kara bulutlar dola\u015f\u0131yor hissi tan\u0131d\u0131k gelecek size. Zihniniz bulan\u0131k hedef belirleyemiyor gibi hissedebilirsiniz. Kederiniz elbette ge\u00e7ecek, i\u015fsizlik varsa i\u015f, hayat\u0131n\u0131zda biri yoksa a\u015fk, sa\u011fl\u0131k sorunlar\u0131n\u0131z varsa \u015fifa elbette gelecek, sadece sab\u0131rl\u0131 olmaya gayret edin."
+      },
+      "leo": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Hayat g\u00f6r\u00fc\u015f\u00fcn\u00fczde de\u011fi\u015fiklikler meydana gelecek. Kaderde yeni bir d\u00f6nem sizi bekliyor, bunun fark\u0131ndas\u0131n\u0131z, bu sebepten de birtak\u0131m i\u015flerinizi ask\u0131ya alabilirsiniz. Sonras\u0131nda ise sizi b\u00fcy\u00fck bir s\u0131\u00e7rama bekliyor gibi."
+      },
+      "virgo": {
+        "love": 0.5,
+        "health": 0.8,
+        "money": 0.6,
+        "content": "\u015e\u00fcpheci taraf\u0131n\u0131z a\u011f\u0131r bas\u0131yor bug\u00fcn. Kar\u015f\u0131n\u0131zdaki insanlar gizemli tav\u0131rlar\u0131yla bu etkiyi yarat\u0131yor. Objektif olun ve sebebini bulmaya \u00e7al\u0131\u015f\u0131n. Sert bir yakla\u015f\u0131mdan uzak durup anlay\u0131\u015fl\u0131 bir izlenim yakalarsan\u0131z, kar\u015f\u0131n\u0131zdaki insanlar t\u00fcm s\u0131rlar\u0131n\u0131 a\u00e7\u0131k edecektir. "
+      },
+      "libra": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Bug\u00fcn \u00e7ok g\u00fc\u00e7l\u00fc ve cesursunuz. Deneyimleriniz ve bilginizle insanlara \u00f6nderlik edebilirsiniz. Risk al\u0131p giri\u015fim ba\u015flatabilirsiniz. Ba\u015far\u0131 sizi bekliyor ve di\u011fer insanlar bilsinler ki bu s\u00fcre\u00e7te size hata yapanlara sizden af yok. Ba\u015far\u0131n\u0131z\u0131 sizi sevenlerle kutlayacaks\u0131n\u0131z."
+      },
+      "scorpio": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 1,
+        "content": "\u00c7ok \u00e7al\u0131\u015ft\u0131n, \u00e7ok \u00e7abalad\u0131n ve ba\u015fard\u0131n, zafer senindir. Kendinle gurur duyabilirsin. Rakiplerinizin g\u00f6z\u00fcn\u00fc korkutmu\u015f olabilirsiniz. Ba\u015far\u0131lar\u0131n\u0131n devam\u0131 gelecek ayr\u0131ca bug\u00fcn bir iyi haber daha alacaks\u0131n."
+      },
+      "sagittarius": {
+        "love": 0.5,
+        "health": 0.8,
+        "money": 0.6,
+        "content": "Sab\u0131rs\u0131zl\u0131\u011f\u0131n\u0131z bug\u00fcn sizi \u00fczebilir. Kay\u0131plar ya\u015fayabilirsiniz. Halbuki tamamen enerjik g\u00f6r\u00fcn\u00fcyor ve \u00f6yle de hissediyorsunuz; lakin tahamm\u00fcls\u00fcz taraf\u0131n\u0131z bug\u00fcn yolunda giden i\u015fleri sekteye u\u011fratabilir, dikkatli olmakta fayda var."
+      },
+      "capricorn": {
+        "love": 0.8,
+        "health": 0.9,
+        "money": 1,
+        "content": "Bug\u00fcn elinize sizi rahatlatacak bir miktar para ge\u00e7ebilir. Hem kendinize hem de ba\u015fkas\u0131na bu parayla yard\u0131mc\u0131 olabilirsiniz. \u00d6\u011frenmeyi de \u00f6\u011fretmeyi de seviyorsunuz. \u00c7ok faydal\u0131 etkinlikler i\u00e7inde kendinizi bulabilir ve keyifli bir g\u00fcn ge\u00e7irebilirsiniz."
+      },
+      "aquarius": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Sa\u011fl\u0131\u011f\u0131n\u0131z \u00fcst d\u00fczey, enerjiniz tavan, hayattan keyif alaca\u011f\u0131n\u0131z bir g\u00fcne haz\u0131r olun. \u015ea\u015f\u0131rt\u0131c\u0131 ani kararlar alarak etraf\u0131n\u0131zdaki insanlar\u0131 \u015fa\u015f\u0131rtabilirsiniz; ama siz kendinizden eminsiniz. Cesur bir \u015fekilde bir at\u0131l\u0131m yapacak ve istedi\u011finizi de elde edeceksiniz. \u015eans sizden yana hem de."
+      },
+      "pisces": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "\u0130li\u015fkilerde kar\u015f\u0131 taraf\u0131 senin kadar d\u00fc\u015f\u00fcnen ba\u015fka kimse var m\u0131? \u00d6ncelikle dengeyi yakalam\u0131\u015fs\u0131n. Hem ili\u015fkilerde uyumu koruyor hem de maddi konularda bug\u00fcn harikalar yarat\u0131yorsun. Baz\u0131 ad\u0131mlar\u0131 atmak i\u00e7in ne kadar da muhte\u015fem bir g\u00fcn olsa gerek."
       }
     }
   },
