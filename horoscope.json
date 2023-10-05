@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2023-10-04",
-      "2023-10-04"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.8,
-        "health": 0.7,
-        "money": 0.6,
-        "content": "G\u00fcn i\u00e7inde yeterince \u00e7al\u0131\u015f\u0131p yoruldu\u011funuz i\u00e7in kendinizi \u00f6d\u00fcllendirebilir, etkinliklere kat\u0131labilir ve orada yeni insanlarla tan\u0131\u015fabilirsiniz."
-      },
-      "taurus": {
-        "love": 0.8,
-        "health": 0.7,
-        "money": 0.5,
-        "content": "\u00c7ok \u00e7al\u0131\u015f\u0131p \u00e7ok \u00e7abalad\u0131n\u0131z; ama hak etti\u011finiz kar\u015f\u0131l\u0131\u011f\u0131 almam\u0131\u015f gibi hissetmi\u015f olabilirsiniz. \u00d6zellikle de maddi konularda ya\u015fad\u0131\u011f\u0131n\u0131z s\u0131k\u0131nt\u0131lardan dolay\u0131 bu olay\u0131 g\u00f6z\u00fcn\u00fczde biraz daha b\u00fcy\u00fctme olas\u0131l\u0131\u011f\u0131n\u0131z var g\u00f6r\u00fcn\u00fcyor."
-      },
-      "gemini": {
-        "love": 0.9,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "M\u00fcmk\u00fcn g\u00f6rmedi\u011finiz bir i\u015f ger\u00e7ekle\u015febilir ve sizde s\u00fcrpriz bir etki yaratabilir. Bu s\u00fcrpriz ho\u015f olmakla birlikte, g\u00f6nl\u00fcn\u00fczden ge\u00e7en neyse o olacak \u015fekilde ger\u00e7ekle\u015fmesi de muhtemel g\u00f6r\u00fcn\u00fcyor. A\u015fk, i\u015f, sa\u011fl\u0131k konular\u0131ndan hangisine olmaz bu i\u015f ya diyorsan\u0131z, asl\u0131nda olaca\u011f\u0131n\u0131 g\u00f6rebilirsiniz."
-      },
-      "cancer": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.7,
-        "content": "Enerjik hissetmenize ra\u011fmen bug\u00fcn tahamm\u00fcl s\u0131n\u0131rlar\u0131n\u0131z a\u015f\u0131ld\u0131\u011f\u0131 i\u00e7in hi\u00e7bir \u015feyi tamamlayacak motivasyonu yakalayam\u0131yor olabilirsiniz. Bug\u00fcn olmad\u0131ysa yar\u0131n olsun, stresten uzak durmak en iyi se\u00e7enek gibi g\u00f6r\u00fcn\u00fcyor."
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 0.9,
-        "content": "Eskilerden bir tan\u0131d\u0131\u011f\u0131n\u0131z ile kar\u015f\u0131la\u015f\u0131p g\u00fczel g\u00fcnleri yad ederken kendinizi mutlu hissedebilirsiniz. Bu mutluluk enerjisiyle beraber a\u015fkta cesur ad\u0131mlar atabilirsiniz. Hislerinizi \u00e7evrenizle payla\u015fmak da size ayr\u0131ca huzur getirebilir."
-      },
-      "virgo": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Olas\u0131 m\u00fcnaka\u015falardan uzak durmak ili\u015fkilerinizdeki dengeyi koruyabilir. Gereksiz z\u0131tla\u015fmalardan dolay\u0131 i\u015f yerinizde karma\u015fa \u00e7\u0131kabilir, olay\u0131 b\u00fcy\u00fctmek maddi olarak bir tak\u0131m kay\u0131plara sebep olabilir. Dikkatli olun."
-      },
-      "libra": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "K\u00fc\u00e7\u00fck \u015feylerden bile mutlu olabilmeniz size farkl\u0131 bak\u0131\u015f a\u00e7\u0131lar\u0131 kat\u0131yor. Vicdan\u0131n\u0131z\u0131n her konuda rahat olmas\u0131 keyfinizi per\u00e7inleyen durumlardan biri ayr\u0131ca. \u00c7abalar\u0131n\u0131z\u0131n sonu\u00e7 verece\u011fi bir g\u00fcne giriyorsunuz."
-      },
-      "scorpio": {
-        "love": 0.9,
-        "health": 1,
-        "money": 0.9,
-        "content": "Sevdi\u011finiz insanlar ge\u00e7irece\u011finiz bir g\u00fcn. M\u00fcjdeli haberler alabilirsiniz ve bug\u00fcn\u00fc kutlama ile ta\u00e7land\u0131rabilirsiniz. \u0130lham ve yeni fikirler \u00fcretebilece\u011finiz anlar ya\u015fayabilirsiniz."
-      },
-      "sagittarius": {
-        "love": 0.8,
-        "health": 0.6,
-        "money": 0.6,
-        "content": "Emek verdi\u011finiz i\u015flerin kar\u015f\u0131l\u0131\u011f\u0131n\u0131 alamaman\u0131z stresli durumlar ya\u015faman\u0131za sebebiyet verebilir. Belki de yeni ba\u015flang\u0131\u00e7lar yapman\u0131n zaman\u0131 gelmi\u015ftir."
-      },
-      "capricorn": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "K\u00fcsk\u00fcn oldu\u011funuz insanlarla bar\u0131\u015f\u0131yor, huzurlu bir ortama giri\u015f yap\u0131yorsunuz. A\u015fk ve i\u015f konusunda baht\u0131n\u0131z a\u00e7\u0131k ikisi i\u00e7in de tam g\u00fcn\u00fcn\u00fczdesiniz."
-      },
-      "aquarius": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "\u0130hanete u\u011frayabilirsiniz, endi\u015felenmeyin, size zarardan \u00e7ok fayda getirecek bir hayata giri\u015f yapacaks\u0131n\u0131z demektir. Bilinmeyenlere kar\u015f\u0131 daha tedbirli ve risk almadan yolunuza devam edebilirsiniz bir s\u00fcre."
-      },
-      "pisces": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Ba\u015far\u0131lar\u0131n\u0131zda yan\u0131n\u0131zda size destek olan insanlar\u0131 ihmal etmemek i\u00e7in onlara k\u00fc\u00e7\u00fck s\u00fcrprizler yapmay\u0131 d\u00fc\u015f\u00fcnebilirsiniz. Ele\u015ftiri alabilirsiniz bug\u00fcn, her ele\u015ftiri k\u00f6t\u00fc de\u011fildir. Bu ele\u015ftiriler sizi daha ileri ta\u015f\u0131mak i\u00e7in yap\u0131lmas\u0131 gereken ufak d\u00fczeltmeleri size hat\u0131rlatmak i\u00e7in olabilir."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2023-10-05",
       "2023-10-05"
     ],
@@ -156,6 +76,86 @@
         "health": 0.4,
         "money": 0.7,
         "content": "Fiziksel olarak olduk\u00e7a y\u0131prand\u0131n\u0131z. Ba\u015fkalar\u0131 i\u00e7in fazlas\u0131yla \u00e7al\u0131\u015ft\u0131n\u0131z. Yorgunlu\u011fa \u00e7are iyi bir tatil olacakt\u0131r. Sizi ba\u015f tac\u0131 etmiyorlarsa, siz kendinizi ba\u015f tac\u0131 edin. Aile i\u00e7inde ileti\u015fim sorunlar\u0131n\u0131z\u0131 bir anda \u00e7\u00f6zmeyi de beklemeyin. S\u0131n\u0131r \u00e7izmezseniz, her \u015feye evet demek zorunda kalabilirsiniz. L\u00fctfen dinlenmeyi ihmal etmeyin."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2023-10-06",
+      "2023-10-06"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.9,
+        "health": 1,
+        "money": 1,
+        "content": "Kendinize olan g\u00fcveniniz, g\u00fc\u00e7l\u00fc yap\u0131n\u0131z, d\u00fcr\u00fcstl\u00fc\u011f\u00fcn\u00fcz ve cesaretiniz hayranl\u0131k uyand\u0131r\u0131c\u0131. Sad\u0131k bir arkada\u015f\u0131n\u0131z\u0131n size bir daveti olabilir g\u00fcn i\u00e7erisinde. Aileye verdi\u011finiz \u00f6nem ve i\u015f arkada\u015flar\u0131n\u0131zla olan aile ba\u011f\u0131n\u0131z kariyerinizde iyi bir d\u00f6n\u00fcm noktas\u0131 olabilir."
+      },
+      "taurus": {
+        "love": 0.6,
+        "health": 0.6,
+        "money": 0.6,
+        "content": "\u015eanss\u0131z ba\u015flad\u0131 diye g\u00fcn b\u00f6yle devam edecek de\u011fil. Her \u015feyin bir anlam\u0131 olmal\u0131. Ba\u015f\u0131m\u0131za gelen olaylardan dersler \u00e7\u0131karmal\u0131y\u0131z. Bug\u00fcn ya\u015fayaca\u011f\u0131n\u0131z \u015fanss\u0131z durumlar size en hay\u0131rl\u0131 olan\u0131 getirmek i\u00e7in olabilir, bak\u0131\u015f a\u00e7\u0131n\u0131zda bu de\u011fi\u015fime ihtiya\u00e7 var."
+      },
+      "gemini": {
+        "love": 0.8,
+        "health": 1,
+        "money": 1,
+        "content": "\u0130leri g\u00f6r\u00fc\u015fl\u00fcl\u00fc\u011f\u00fcn\u00fcz ve zekan\u0131z i\u015f ve para durumlar\u0131nda size f\u0131rsatlar\u0131n kap\u0131s\u0131n\u0131 a\u00e7abilir. Tutumluluk yapar dikkatli harcama yoluna girerseniz, hedeflerinize daha h\u0131zl\u0131 ula\u015fabilirsiniz. Enerjiniz y\u00fcksek oldu\u011fu i\u00e7in vaktinizi dolu dolu ve e\u011flenceli ge\u00e7irmeniz olas\u0131."
+      },
+      "cancer": {
+        "love": 0.5,
+        "health": 0.5,
+        "money": 0.5,
+        "content": "Kafan\u0131z\u0131 kar\u0131\u015ft\u0131ran bir\u00e7ok mevzu olabilir. Etraf\u0131n\u0131zdaki insanlar\u0131n sizi anlamad\u0131\u011f\u0131n\u0131 d\u00fc\u015f\u00fcnebilirsiniz. Sakin olun, derin bir nefes al\u0131n ve olaylara en ba\u015ftan objektif olarak bak\u0131n. Ne g\u00f6r\u00fcyorsunuz? Her \u015feyi ayn\u0131 anda \u00e7\u00f6zmenin karma\u015f\u0131k oldu\u011funu. Kolaydan ba\u015flayarak s\u0131rayla \u00e7\u00f6z\u00fcme ula\u015fmak bug\u00fcn sizi olduk\u00e7a rahatlatabilir."
+      },
+      "leo": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Bug\u00fcn sizi \u00e7ok \u015fa\u015f\u0131rtacak bilgiler edinebilirsiniz. \u015ea\u015fk\u0131nl\u0131\u011f\u0131n\u0131z ge\u00e7tikten sonra sevdiklerinizle durumu payla\u015fabilirsiniz. Nihayet \u00e7ok uzun zamand\u0131r kafan\u0131z\u0131 me\u015fgul eden bir sorundan ar\u0131nd\u0131\u011f\u0131n\u0131z\u0131 hissedece\u011finiz bug\u00fcnde huzur sizinle olacak."
+      },
+      "virgo": {
+        "love": 0.6,
+        "health": 0.8,
+        "money": 0.5,
+        "content": "Hayallerden ar\u0131n\u0131p ger\u00e7eklerle y\u00fczle\u015fme zaman\u0131. Vizyonunuzu geni\u015fletmek bu s\u00fcre\u00e7te iyi gelecektir. Zararlar, kay\u0131plar, engeller olabilir. Bunlar kimin ba\u015f\u0131na gelmiyor ki? M\u00fchim olan hemen toparlanabilmek. Sizde de bu g\u00fc\u00e7 var."
+      },
+      "libra": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Yeni i\u015flere giri\u015fim yapabilirsiniz, t\u00fcm risklerin de fark\u0131ndas\u0131n\u0131z. Bu konuda uzmanl\u0131\u011f\u0131 olan ki\u015filerden faydalanabilirsiniz. Ayr\u0131ca maneviyata verdi\u011finiz \u00f6nem ruhsal sa\u011fl\u0131\u011f\u0131n\u0131za faydalar getirmi\u015f ve dinamik olarak her \u015feye haz\u0131r hissediyorsunuz."
+      },
+      "scorpio": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.9,
+        "content": "Kayg\u0131l\u0131 yan\u0131n\u0131z risk almaktan ka\u00e7\u0131nabilir. Hatta olas\u0131 riskler i\u00e7in de bol bol \u00f6nlem alabilirsiniz. Tetikte duruyor ve uykunuzdan bile taviz veriyorsunuz. G\u00fc\u00e7l\u00fc ve dirayetli yap\u0131n\u0131z sayesinde ama istedi\u011finizi de elde etme potansiyeliniz olduk\u00e7a y\u00fcksek g\u00f6r\u00fcn\u00fcyor."
+      },
+      "sagittarius": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Bug\u00fcn kar\u015f\u0131n\u0131za iyi bir r\u00fcya tabircisi \u00e7\u0131ksa ne g\u00fczel olurdu. R\u00fcyan\u0131zdan size mesajlar var. A\u015fkta, kariyerde, sa\u011fl\u0131kta zirve noktada oldu\u011funuz bug\u00fcn herkese \u0131\u015f\u0131k sa\u00e7\u0131yorsunuz adeta."
+      },
+      "capricorn": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Her \u015fey m\u00fckemmel bir dizayn i\u00e7inde d\u00f6rt d\u00f6rtl\u00fck olsun diye \u00e7\u0131rp\u0131n\u0131rken \u00e7\u0131kan aksiliklere ne kadar az odaklan\u0131rsan\u0131z o kadar rahat hissedebilirsiniz. Aksi halde tek bir s\u0131k\u0131nt\u0131 y\u00fcz\u00fcnden di\u011fer m\u00fckemmellikleri g\u00f6z ard\u0131 edebilirsiniz. "
+      },
+      "aquarius": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.5,
+        "content": "\u00c7evrenizde gizemli g\u00f6r\u00fcnen; ama kaba s\u00f6zleri ve davran\u0131\u015flar\u0131yla size s\u0131k\u0131nt\u0131 \u00e7\u0131karan birtak\u0131m kimseler moralinizi hi\u00e7 bozmas\u0131n. Sizin g\u00fcc\u00fcn\u00fcz i\u00e7inizden geliyor. Kimse de \u00f6zg\u00fcrl\u00fc\u011f\u00fcn\u00fcze k\u0131s\u0131t koyamaz. Bug\u00fcn sordu\u011funuz sorular\u0131n do\u011fru cevaplar\u0131n\u0131 i\u00e7 sesiniz yan\u0131tlayabilir."
+      },
+      "pisces": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Daha \u00f6nce ileti\u015fimi kesti\u011finiz bir kimseyle bug\u00fcn yeniden ileti\u015fime ge\u00e7ebilirsiniz. Aran\u0131zdaki yanl\u0131\u015f anla\u015f\u0131lmalar\u0131 d\u00fczeltebilirsiniz. Anlamaya ve anla\u015f\u0131lmaya olan ihtiyac\u0131n\u0131z bug\u00fcn kar\u015f\u0131lan\u0131yor. G\u00fcn\u00fc huzur i\u00e7inde ge\u00e7irmeniz olas\u0131 g\u00f6r\u00fcn\u00fcyor."
       }
     }
   },
