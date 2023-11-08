@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2023-11-07",
-      "2023-11-07"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "Bug\u00fcn elde edece\u011finiz ba\u015far\u0131lar takdire \u015fayan olacak. G\u00fc\u00e7l\u00fc ve kontrol sahibi olarak ama\u00e7lar\u0131n\u0131za ula\u015fabilir ve \u00e7evrenizdeki insanlara da bu konuda ilham olabilirsiniz. Ba\u015faraca\u011f\u0131n\u0131za inand\u0131\u011f\u0131n\u0131z zaman her \u015feyin yolunda gitmesi bir tesad\u00fcf de\u011fil. Ayr\u0131ca \u015fansl\u0131 yan\u0131n\u0131z\u0131n da etkisiyle riskli giri\u015fimlere girme konusunda kendinizi daha rahat hissedebilirsiniz."
-      },
-      "taurus": {
-        "love": 0.5,
-        "health": 0.6,
-        "money": 0.7,
-        "content": "Baz\u0131 i\u015fleriniz umdu\u011funuz gibi yolunda gitmeyebilir. Yolunuza ta\u015f koyanlar y\u00fcz\u00fcnden gecikmeler ya\u015fanabilir. Yine de g\u00fc\u00e7l\u00fc bir irade g\u00f6stererek, \u00e7abalad\u0131\u011f\u0131n\u0131z s\u00fcrece ge\u00e7 olsa da nihayete erecektir. Aile ili\u015fkilerinizde baz\u0131 s\u0131k\u0131nt\u0131lar boy g\u00f6sterebilir ayr\u0131ca, sakince dinleyip iyi bir ileti\u015fim kurmak arada olu\u015fan gerilimi yok edecektir."
-      },
-      "gemini": {
-        "love": 0.9,
-        "health": 1,
-        "money": 0.9,
-        "content": "Sevdi\u011finiz insanlarla aran\u0131zdaki ba\u011f g\u00fc\u00e7lenebilir, birbirinizi daha iyi anlayabilirsiniz. Sevecen tavr\u0131n\u0131z ile ileti\u015fime ge\u00e7ti\u011finiz herkes size hayranl\u0131k duyabilir. Ayr\u0131ca sa\u011fl\u0131\u011f\u0131n\u0131z\u0131 \u00f6nemsemeye ba\u015flayarak kendinizde olumlu geli\u015fmeler g\u00f6rece\u011finiz bir s\u00fcrece ad\u0131m atabilirsiniz."
-      },
-      "cancer": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.2,
-        "content": "Finansal a\u00e7\u0131dan baz\u0131 s\u0131k\u0131nt\u0131lar ya\u015fansa da ge\u00e7ici olduklar\u0131n\u0131 s\u00f6ylemeliyim. Biraz l\u00fcks ve konfor isterken \u00f6deme g\u00fc\u00e7l\u00fc\u011f\u00fc \u00e7ekebilirsiniz bir s\u00fcre. Ama ihtiya\u00e7lar\u0131n giderilmi\u015f olmas\u0131 sa\u011fl\u0131\u011f\u0131n\u0131za, psikolojinize yarad\u0131\u011f\u0131 i\u00e7in genel anlamda huzurlu bir g\u00fcn ge\u00e7irece\u011finizi belirtmeliyim."
-      },
-      "leo": {
-        "love": 0.9,
-        "health": 1,
-        "money": 0.9,
-        "content": "Kendinize yeni bir d\u00fcnya, yeni bir bak\u0131\u015f a\u00e7\u0131s\u0131 ar\u0131yor olabilirsiniz. Var olan hayat \u015fartlar\u0131 sizi mutlu etmeye yetmiyor olabilir. Bak\u0131\u015f a\u00e7\u0131n\u0131zda olu\u015facak bu de\u011fi\u015fimler k\u00f6kl\u00fc de\u011fi\u015fiklikleri yan\u0131nda getiriyor. Ataca\u011f\u0131n\u0131z ad\u0131mlar\u0131n sizi en iyi sonuca g\u00f6t\u00fcrece\u011fi ise a\u015fikar. Alaca\u011f\u0131n\u0131z kararlar sizi hi\u00e7 \u00fczmeyecek."
-      },
-      "virgo": {
-        "love": 0.6,
-        "health": 0.3,
-        "money": 0.5,
-        "content": "Sa\u011fl\u0131\u011f\u0131n\u0131z\u0131 ihmal ediyor olabilirsiniz. Tak\u0131nt\u0131 yapt\u0131\u011f\u0131n\u0131z baz\u0131 durumlar varsa, o durumlar\u0131 d\u00fc\u015f\u00fcnerek ge\u00e7irdi\u011finiz zaman diliminde eyleme ge\u00e7mekten ka\u00e7\u0131nm\u0131\u015f olabilirsiniz. Hi\u00e7bir \u015fey yapmadan mucize beklemek zor bir i\u015f. Bu sebepten dolay\u0131 elinizi ta\u015f\u0131n alt\u0131na koymal\u0131 ve baz\u0131 sorumluluklar\u0131 zor da olsa almal\u0131s\u0131n\u0131z ki hem kafan\u0131z rahatlas\u0131n hem bedeniniz ihtiyac\u0131 olan harekete kavu\u015fsun."
-      },
-      "libra": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "\u00c7ok \u00e7al\u0131\u015f\u0131p \u00e7abalamak size bir sonu\u00e7 getirmiyor olabilir. Siz kendinizi heder ederken, di\u011fer herkes bu durumun meyvesini yiyor ve size yard\u0131mc\u0131 olmuyorlar belki de. Dengenin \u00f6nemini en iyi siz biliyorsunuz. Denge yoksa herkes mutsuz olmaya ba\u015flar. \u0130steseniz hi\u00e7bir \u00e7abaya girmeyerek dengeyi kurabilirsiniz; ama siz di\u011fer insanlar\u0131n da \u00e7abalamas\u0131n\u0131 bekledi\u011finiz i\u00e7in bu durum zorla\u015f\u0131yor. Zira di\u011fer insanlar\u0131 ikna etmek kolay de\u011fil. Ama onlarla do\u011fru ileti\u015fimi kurabilirseniz belki i\u015fler sizin lehinize geli\u015febilir."
-      },
-      "scorpio": {
-        "love": 0.8,
-        "health": 0.9,
-        "money": 0.8,
-        "content": "\u00c7ok aceleci kararlar alarak, fevri davran\u0131\u015flarda bulunarak baz\u0131 \u015feyleri d\u00fczetmek isterken bozabilirsiniz. Sab\u0131rla hareket etmek size fayda sa\u011flarken, \u015funu bilmek belki size iyi gelir. Siz g\u00fc\u00e7l\u00fcs\u00fcn\u00fcz ve \u00e7evrenizdeki insanlar da bunun fark\u0131nda. Hatta g\u00fc\u00e7l\u00fc karakterinizden dolay\u0131 sizden \u00e7ekiniyor ya da korkuyor bile olabilirler. \u0130\u015flerin tam olarak istedi\u011finiz gibi devam etmesini istiyorsan\u0131z anlay\u0131\u015f g\u00f6sterin ve acele etmeyin derim."
-      },
-      "sagittarius": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Dilediklerinize kavu\u015fmak i\u00e7in epey uzun zamand\u0131r bekliyorsunuz. Bug\u00fcn bu konuda bir geli\u015fmeye tan\u0131k olabilirsiniz. Tam olarak sonu\u00e7lanmasa da olumlu anlamda ilk g\u00fczel haberinizi al\u0131yorsunuz. \u015eimdi ise yapman\u0131z gereken ad\u0131m ad\u0131m ileriye gitmek. Ekstra bir hamle yapman\u0131za gerek yok sadece beklemeniz yeterli. \u0130lerleyen g\u00fcnlerde o g\u00fczel haberi almak i\u00e7in biraz daha dayanman\u0131z gerekiyor sadece."
-      },
-      "capricorn": {
-        "love": 0.9,
-        "health": 1,
-        "money": 0.8,
-        "content": "Sa\u011fl\u0131\u011f\u0131n\u0131za gereken \u00f6nemi vererek zinde hissediyorsunuz ve bu zindelik sizi hayat\u0131n\u0131z\u0131n di\u011fer alanlar\u0131nda da ba\u015far\u0131l\u0131 k\u0131lmaya ba\u015fl\u0131yor. \u0130\u015f-e\u011fitim alan\u0131nda \u00f6zellikle tam size uygun bir gidi\u015fat s\u00f6z konusu oldu\u011fu i\u00e7in i\u00e7sel huzurunuz artarken, ikili ili\u015fkilerinizden edindi\u011finiz tecr\u00fcbelerle kendinize en g\u00fczel yolu \u00e7izmeye ba\u015flayabilirsiniz."
-      },
-      "aquarius": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.7,
-        "content": "Her \u015fey hemen ve \u015fu an olsun derken baz\u0131 aksiliklerle kar\u015f\u0131la\u015fabilirsiniz. Evet her istedi\u011finiz hemen olmasa da k\u00f6t\u00fc bir durumdan bahsetmiyorum. S\u0131ra ile oluyor yaln\u0131zca. \u00d6nce biri sonra bir di\u011feri. Yaln\u0131z dikkat etmeniz gereken bir \u015fey var ki, istediklerinize ge\u00e7 kavu\u015fuyorsunuz diye sitem edip durmay\u0131n. Her \u015fey en do\u011fru zamanda en do\u011fru anda oluyor. Bu s\u00fcre\u00e7te kendinizi g\u00f6zlemlerseniz k\u00f6t\u00fc gibi g\u00f6r\u00fcnen olaylar\u0131n bile sizin iyili\u011finize yarad\u0131\u011f\u0131n\u0131 fark edebilirsiniz."
-      },
-      "pisces": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Baz\u0131 \u00f6fke problemleriyle u\u011fra\u015fman\u0131z gerekebilir. Ge\u00e7mi\u015fe \u00f6zlem dolu bir g\u00fcn ge\u00e7irebilirsiniz. Ge\u00e7mi\u015fin \u00f6zlemi ve ge\u00e7mi\u015fe geri d\u00f6nememenin ger\u00e7ekli\u011fi ise sizi \u00f6fkelendirebilir. Baz\u0131 ger\u00e7ekler ac\u0131 oldu\u011fu i\u00e7in her zaman oldu\u011fu gibi g\u00fc\u00e7l\u00fc hayal d\u00fcnyan\u0131za s\u0131\u011f\u0131nmak isteyebilirsiniz. Bilmelisiniz ki bazen ger\u00e7ekler ac\u0131tsa da insan her duyguyu \u00f6yle ya da b\u00f6yle biraz tadar. Ve sonra de\u011fi\u015fim ba\u015flar. Sizin i\u00e7inizde de bug\u00fcn b\u00fcy\u00fck bir de\u011fi\u015fimin  ba\u015flad\u0131\u011f\u0131n\u0131n i\u015fareti var."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2023-11-08",
       "2023-11-08"
     ],
@@ -156,6 +76,86 @@
         "health": 0.7,
         "money": 0.7,
         "content": "Hayat\u0131n\u0131za baz\u0131 spesifik konularda komple bir yenilik getirebilirsiniz. Belki ba\u015ftan sona k\u0131yafet tarz\u0131n\u0131z\u0131 de\u011fi\u015ftirecek belki de oturdu\u011funuz evi komple de\u011fi\u015ftireceksiniz. Konu her ne ise buna ihtiyac\u0131n\u0131z oldu\u011funu d\u00fc\u015f\u00fcn\u00fcyorsunuz ve de\u011fi\u015fimin size iyi gelece\u011fini biliyorsunuz. Bu yenilik hayat\u0131n\u0131zda bamba\u015fka bir sayfa a\u00e7arak, size huzur ve mutluluk getiriyor."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2023-11-09",
+      "2023-11-09"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 1,
+        "content": "Me\u015fguliyetleriniz artabilir. Dikkatiniz ve enerjiniz size faydas\u0131 olmayan i\u015flere daha \u00e7ok odaklanmaya meyilli. Finansal hayat\u0131n\u0131zda hangi ad\u0131m\u0131 atarsan\u0131z at\u0131n hi\u00e7 beklemedi\u011finiz g\u00fczel s\u00fcrprizlerle kar\u015f\u0131la\u015fabilirsiniz. Kendinizi bir sonraki ad\u0131ma haz\u0131rlayabilirsiniz. Her \u015feyin yolunda gitmesi \u00e7ok olas\u0131."
+      },
+      "taurus": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Ne demi\u015fler s\u00fctten a\u011fz\u0131 yanan yo\u011furdu \u00fcfleyerek yer. Kimi ac\u0131 verici tecr\u00fcbeleriniz, olaylara bak\u0131\u015f a\u00e7\u0131n\u0131z\u0131 komple de\u011fi\u015ftirmi\u015f olabilir. Daha \u00e7ekingen, daha \u00fcrkek hissediyor olabilirsiniz, k\u0131sacas\u0131 normalde oldu\u011funuz halin tam tersi gibi. Deneyimler elbette \u00f6nemlidir; ama her insan bir de\u011fildir. Belki de ortada \u00e7ekinmenize sebep olacak hi\u00e7bir \u015fey yoktur."
+      },
+      "gemini": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.9,
+        "content": "Hayat\u0131n\u0131zdaki durgun s\u00fcrecin yerini hareketli ve heyecanl\u0131 bir d\u00f6nem alabilir. \u0130li\u015fkisi olmayanlar\u0131 kar\u015f\u0131l\u0131kl\u0131 a\u015fk bekliyor, ili\u015fkisi olanlar ise bekledikleri mutlu haberi al\u0131yor. Para ya da i\u015f teklifi bekleyen varsa \u015fans onlardan yana ayr\u0131ca. Cesaretiniz ise g\u00fcne damgas\u0131n\u0131 vurabilir."
+      },
+      "cancer": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.5,
+        "content": "Zaten cebinizdeki para ucu ucuna yeterken, g\u00fcvendi\u011finiz-sevdi\u011finiz insanlar\u0131n sizden bor\u00e7 para isteyebilece\u011fi durumlar meydana gelebilir. Bug\u00fcn cebinizden \u00e7\u0131kan paralar\u0131n ayn\u0131 \u015fekilde bir geri d\u00f6n\u00fc\u015f\u00fc olmayabilir. Ve tutar\u0131n b\u00fcy\u00fckl\u00fc\u011f\u00fcne g\u00f6re arkada\u015flar\u0131n\u0131zla aran\u0131zda kimi s\u0131k\u0131nt\u0131lar meydana gelebilir. Dikkat etmekte fayda var o y\u00fczden."
+      },
+      "leo": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Her \u015feyin g\u00fczel devam etmesi i\u00e7in daha ne yapmal\u0131s\u0131n\u0131z? Siz kendinizden \u00f6d\u00fcn verirken, fazlas\u0131yla \u00e7abalarken; kar\u015f\u0131 taraftan en ufak bir kar\u015f\u0131l\u0131k g\u00f6remeyebilirsiniz. \u0130li\u015fkilerinizde uyumun ve dengenin bozulmas\u0131yla i\u00e7inizdeki heveslerin yava\u015f yava\u015f kayboldu\u011funa da \u015fahit olabilirsiniz. Kar\u015f\u0131l\u0131ks\u0131z \u00e7aban\u0131n verdi\u011fi yorgunluk sizde b\u00fcy\u00fck de\u011fi\u015fimler ortaya \u00e7\u0131karabilir."
+      },
+      "virgo": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.2,
+        "content": "Ya \u00e7ok b\u00fcy\u00fck bir yat\u0131r\u0131m yap\u0131yorsunuz ya da y\u00fckl\u00fc bir borcun alt\u0131na giriyorsunuz diyebilirim. G\u00fcn i\u00e7inde riskli finansal kararlar vermeniz \u00e7ok olas\u0131 g\u00f6r\u00fcn\u00fcyor. Bir bilene dan\u0131\u015fmak her zaman kurtar\u0131c\u0131 rol oynayabilir. \u00c7evrenizde illa ki ilgilendi\u011finiz alan\u0131n uzmanlar\u0131 vard\u0131r. \u00c7ekinmeyin ve i\u015fin en ince detaylar\u0131na kadar \u00f6\u011frenin. Bilmek rahatlat\u0131r, bilmek do\u011fru hamleleri yapma ihtimalinizi artt\u0131r\u0131r."
+      },
+      "libra": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Her sorumlulu\u011fu hemen \u00fczerinize alman\u0131z, iyi niyetinizin suistimal edilmesine neden olabilir. Siz yard\u0131m etmek isterken, niyeti k\u00f6t\u00fc insanlar taraf\u0131ndan kullan\u0131labilirsiniz. Yeri gelir en sevdi\u011finiz insan\u0131n bile kendi \u00e7\u0131kar\u0131 i\u00e7in sizi kulland\u0131\u011f\u0131na \u015fahit olabilirsiniz. O y\u00fczden b\u0131rak\u0131n herkes kendi i\u015fini, kendi sorumlulu\u011funu kendisi yaps\u0131n. "
+      },
+      "scorpio": {
+        "love": 0.8,
+        "health": 0.9,
+        "money": 1,
+        "content": "Alt\u0131n madeni bulmu\u015f\u00e7as\u0131na bir sevin\u00e7 r\u00fczg\u00e2r\u0131na kap\u0131labilirsiniz. Hep bekledi\u011finiz, g\u00f6n\u00fclden diledi\u011finiz isteklerinizin bug\u00fcn ger\u00e7ek olmas\u0131na \u015fahit olabilirsiniz. \u00d6n\u00fcn\u00fcze bir\u00e7ok \u015fans ve f\u0131rsat \u00e7\u0131kacak. \u0130\u00e7lerinden diledi\u011finizi de\u011ferlendirebilirsiniz. Yaln\u0131z bu f\u0131rsatlar evinizde otururken gelmiyor size, sosyal hayata kat\u0131lmay\u0131 unutmay\u0131n. "
+      },
+      "sagittarius": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "\u0130\u00e7inizde b\u00fcy\u00fcye b\u00fcy\u00fcye kocaman bir da\u011fa d\u00f6nm\u00fc\u015f k\u00fc\u00e7\u00fcc\u00fck bir s\u0131r bug\u00fcn s\u00f6ylenmesi gereken ki\u015fiye s\u00f6ylenebilir. Cesur, heyecanl\u0131, belki biraz panik bir \u015fekilde i\u00e7inizde tuttu\u011funuz co\u015fkulu duygular\u0131 payla\u015fmak nihayetinde rahatlaman\u0131z\u0131 sa\u011flayacakt\u0131r. Ayr\u0131ca g\u00fcn i\u00e7inde \u015fans\u0131n\u0131z her konuda y\u00fcksek g\u00f6r\u00fcn\u00fcyor. "
+      },
+      "capricorn": {
+        "love": 0.4,
+        "health": 0.6,
+        "money": 0.7,
+        "content": "Aile \u00fcyelerinden biriyle baz\u0131 anla\u015fmazl\u0131klara d\u00fc\u015febilirsiniz ve bu anla\u015fmazl\u0131klar\u0131 hemen \u00e7\u00f6zmektense sorunlar\u0131 g\u00f6rmezden gelme yolunu se\u00e7ebilirsiniz. Bu da sorunlar\u0131n daha da \u00e7ok b\u00fcy\u00fcmesine sebep olarak olaylar\u0131 \u00e7\u00f6z\u00fclemez noktalara ta\u015f\u0131yabilir. Sezgilerinizi dinlemek yerine, var olan ger\u00e7eklere odaklanmak en do\u011fru sonuca sizi ta\u015f\u0131yabilir. "
+      },
+      "aquarius": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Bir\u00e7ok hayaliniz var, kimi olabilir stat\u00fcs\u00fcnde kimi zor; ama imk\u00e2ns\u0131z de\u011fil s\u0131n\u0131r\u0131nda. Siz kendinize iyi bakt\u0131k\u00e7a, sevdi\u011finiz insanlara vakit ay\u0131rd\u0131k\u00e7a, b\u00fct\u00e7enizi g\u00fczel y\u00f6nettik\u00e7e hayalleriniz ger\u00e7ek olmaya daha da \u00e7ok yakla\u015f\u0131yor hep. Hatta bug\u00fcn sizi mutlu edecek s\u00fcrpriz bir yolculuk meydana gelebilir."
+      },
+      "pisces": {
+        "love": 0.8,
+        "health": 0.9,
+        "money": 0.8,
+        "content": "Yan\u0131n\u0131zda sevdi\u011finiz insanlar olduk\u00e7a mutlulu\u011funuza diyecek yok ve sevdi\u011finiz insanlar hep yan\u0131n\u0131zda. Ayr\u0131ca a\u015fk hayat\u0131n\u0131zda da her \u015feyin yolunda gitmesi ve sizi ekstra mutlu edecek bir haber alman\u0131z g\u00fcn\u00fc kutlama havas\u0131nda ge\u00e7irmenizi sa\u011flayabilir. "
       }
     }
   },
