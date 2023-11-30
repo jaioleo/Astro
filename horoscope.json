@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2023-11-29",
-      "2023-11-29"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.7,
-        "health": 0.6,
-        "money": 0.5,
-        "content": "Bütün işleri tek başınıza yapmaya çalışarak kendinize haksızlık ediyorsunuz. İş paylaşımı yapabilecek durumda iken gurur yaparak ben hallederim tavrınızla sağlığınızı hiçe sayabilirsiniz. Bırakın yardım etmek isteyenler etsinler. Zaten hedeflerinize ulaşmak adına çok az bir yolunuz kalmış. Daha zinde ve dinç bir halde başarıya ulaşmak istemez misiniz? "
-      },
-      "taurus": {
-        "love": 1,
-        "health": 1,
-        "money": 0.9,
-        "content": "Güne pozitif başmanın etkileri gün içinde olumlu haberlerin de eşlik etmesiyle artarak devam edecek ve başta aşk hayatınız olmak üzere hayatınızdaki her alanda her şey tam istediğiniz gibi devam edecek görünüyor. En büyük şans aşktan yana olmakla birlikte sevdiğiniz insanlarla bir arada olmak sizi çok mutlu kılabilir."
-      },
-      "gemini": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Bağımsızlığınız hat safhada, ne istediğinizden tam olarak emin olduğunuz bir gün. Ertelediğiniz tüm işleri bugün bitirebilirsiniz. Akşama doğru ise hiç ummadığınız romantik adımlar görebilirsiniz. Hayatınızdaki her şeyi yoluna koymuş hissini tam anlamıyla tadabilirsiniz."
-      },
-      "cancer": {
-        "love": 0.5,
-        "health": 0.5,
-        "money": 0.5,
-        "content": "Bugün işleriniz biraz aksi gidebilir. Anlaşılmadığınızı düşünebilirsiniz. Kendinizi anlatacak dermanı da bulamayabilirsiniz. Bırakın akışına gitsin olaylar. Siz de sizin için kimlerin çabaladığına tanık olmuş olursunuz. Değeri hak edene vermeli. Kötü hissettiğiniz anlarda kimler yanınızda mühim olan bu."
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Kendinize yeni rotalar çizme düşüncenizi eyleme dökebilirsiniz. Çok daha iyilerini hak ederken, hak etmediğiniz tavırların da gayet farkındasınız. Yeni planlar çizilmeye başlanıyor ve bundan sonra da fikrinizi kimse kolay kolay değiştiremez diyebiliriz. Bu yeni planlar ise size her alanda şans getiriyor. Ne diliyorsanız o gerçek olacak gibi."
-      },
-      "virgo": {
-        "love": 0.9,
-        "health": 1,
-        "money": 1,
-        "content": "Maddi anlamda çok şanslı bir gündesiniz. Fikirleriniz bol kazançlı işlere dönüşebilir. Hayal ettiklerinizi gerçek kılmaya çok yakınsınız. Şans bugün sizlere maddi anlamda geliyor. Bunun dışında ise spor etkinliklerine vakit ayırabilir ya da bu tarz etkinliklere katılabilirsiniz."
-      },
-      "libra": {
-        "love": 0.5,
-        "health": 0.8,
-        "money": 0.5,
-        "content": "En sinir olduğunuz davranışla adaletsizlikle karşı karşıya gelebilirsiniz. Gözünüzü yumacak değilsiniz, kulağınızı kapatacak da değilsiniz. Mücadeleci kişiliğinizi sanırım hafife alıyorlar. Gün içinde bu tarz konular sebebiyle biraz gergin zamanlarınız geçse de doğru olanı yapmanın verdiği gurur ile günü huzurla kapatabilirsiniz."
-      },
-      "scorpio": {
-        "love": 0.2,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Çok sevdiğiniz bir insanla aranızda tartışmalar ya da küslükler söz konusu olabilir. Tarafların birbirlerini anlamadan, dinlemeden vereceği fevri tepkiler bu küslüğü uzatabilir. Anlayışla bir yaklaşım sergilenirse küslük hiç olmadan çözüme de kavuşabilirsiniz. Kısacası ikili ilişkilerinizde olası tartışmalardan kaçınarak zamana sığınmak kurtarıcı rol oynayabilir."
-      },
-      "sagittarius": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.9,
-        "content": "Aile içinde meydana gelen sorunlara hızlı çözüm yolları bularak birçok sıkıntıyı daha gerçekleşmeden halledebilirsiniz. Zihniniz çok parlak ve enerjiniz yerinde olmasına rağmen bazı sorumluluklarınızı erteleyebilirsiniz. Zira her şey ne kadar iyi gitse de eski hevesiniz bugün yerinde görünmüyor. Biraz dinlenmek size çok iyi gelebilir."
-      },
-      "capricorn": {
-        "love": 0.4,
-        "health": 0.6,
-        "money": 0.5,
-        "content": "Etrafınızda sizi negatif enerjisiyle zihnen yoran birileri olabilir. Bu insanlarla aynı ortamı paylaşmak zorunda değilseniz uzak kalmanız hayatınızın gidişatı için faydalı olacaktır; ama uzak kalma gibi bir durum söz konusu değilse, onların düşüncelerini dikkate almamayı seçebilirsiniz ya da dikkatinizi başka yerlere verebilirsiniz."
-      },
-      "aquarius": {
-        "love": 1,
-        "health": 1,
-        "money": 0.9,
-        "content": "Çok beklediğiniz müjdeli bir haber bugün kapınızı çalıyor. Bu sevinçli haberi aileniz ve sevdiklerinizle birlikte kutlamak adına planlar yapabilirsiniz. Olumlu gidişat sağlığınıza da pozitif etki sağlayarak size şifa veriyor. Ayrıca yakın bir dönem için bir yolculuk planı gündeminize gelebilir."
-      },
-      "pisces": {
-        "love": 0.6,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Kendinize yakın dost olarak gördüğünüz insanların desteklerine ihtiyacınız olduğunda onları yanınızda bulamayabilirsiniz. Yanınızda olan insanlar çoğunlukla aileniz olabilir. Gün içinde moralinizi bozan bir durumdan kaynaklı neşeli olmayabilirsiniz belki; ama sizi seven insanlar sizin yanınızdan ayrılıp da hiçbir yere gitmiyor. Onların varlığı iyi hissetmenizi sağlayabilir."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2023-11-30",
       "2023-11-30"
     ],
@@ -156,6 +76,86 @@
         "health": 1,
         "money": 1,
         "content": "Çok önemli kararlarla karşı karşıya kalabilirsiniz. Bütün hayatınızı şekillendirecek bir karar almanın arifesindesiniz. Bu özel hayatınız, işiniz, aileniz, yaşadığınız yer gibi çok önemli bir konuda olabilir. Şansınızın çok yüksek olduğu bugün gönül rahatlığı ile bu kararları alabilirsiniz. Sizin için en iyisi ne olacaksa, sezgileriniz o karara kendiliğinden çekiliyor zaten."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2023-12-01",
+      "2023-12-01"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.9,
+        "content": "Hayatınızda yeni sayfalar açabilirsiniz. Başlangıçlar için harika bir gün. Karşınıza değerlendirebileceğiniz fırsatlar çıkabilir. Fırsatlara siz de bir adım atarak geleceğinizde olumlu değişimler oluşturabilirsiniz. Kendinizi zinde hissetmeniz yaratıcı fikirler ortaya atmanızı sağlayabilir. Aile hayatınızda huzurun sağlanması ise günün ekstrası."
+      },
+      "taurus": {
+        "love": 0.8,
+        "health": 1,
+        "money": 1,
+        "content": "Bitirdiğiniz bir ilişki ya da arkadaşlık yeniden gündeminize gelebilir, barışmak amacıyla karşınıza çıkabilirler. Siz yeni bir sayfa açarak yeni bir düzen kurmuşken eskiye tahammül gösteremeyebilirsiniz. İhtiyacınız varken yanınızda olmayan insanlara şu an her şeyiniz harika giderken gerek de duymayacaksınız. Özgüvenli ve kendinizden emin bir gün sizleri bekliyor."
+      },
+      "gemini": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Duygularınız sizden daha büyük değil, hangi düşüncelerle hareket etmeniz gerektiğini fark edeceğiniz bir gün. Siz isterseniz doğaüstü deyin isterseniz tesadüf. Bakış açınızdaki bu ufak değişimle birlikte hayatınızın her alanında harika gelişmelere tanık olacağınız bir gün yaşayabilirsiniz. Gün sizin için bir milat niteliği taşıyor."
+      },
+      "cancer": {
+        "love": 0.7,
+        "health": 0.9,
+        "money": 0.8,
+        "content": "Korkularınızın üzerine gitmeye dair çekinceleriniz olabilir. Size destek olan birileri olmadığı sürece tek başınıza hareket etmek mantığınıza yatmadığı için bazı adımları atmayı erteleyebilirsiniz. Planlarınız da dolayısıyla ertelenmiş olacaktır. Halbuki tek başınıza da her şeyin üstesinden gelebilirsiniz. Bu güç zaten sizde mevcut."
+      },
+      "leo": {
+        "love": 0.9,
+        "health": 1,
+        "money": 1,
+        "content": "Güzel haberleriniz yolda. Yeteneklerinizi göstereceğiniz bir gün ayrıca. Herkes tarafından takdir görebilirsiniz. İlginin sizde olmasına alışık olduğunuzdan sizin için sıradan bir gün gibi olabilir. Planlarınız yolunda giderken, özlemini çektiğiniz bir kişiyle de dışarıda bir etkinliğe katılabilirsiniz. Gün duygularınıza sesleniyor adeta. İçinizden geldiği gibi yaşıyorsunuz."
+      },
+      "virgo": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.9,
+        "content": "Dünyevi dertleri bir kenara bırakıp içsel huzurunuzu sağlamak adına meditasyon benzeri etkinlikler yapabilirsiniz. Bilgelik yolunda ilk adımlar diyebiliriz. Aradığınız tüm cevapların içinizde yattığını biliyorsunuz. Huzurun içten gelen bir duygu olduğunu da. Bu da sizi her şey için hazır konuma getiriyor. Her türlü mücadeleye tamamen hazır hissediyor ve elinizden gelenin en iyisini yapmaya çalışıyorsunuz."
+      },
+      "libra": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Güveninizi sarsan insanlar karşınıza gelip yalvarsa da geçit vermiyorsunuz. Birçok kere şans verdiğiniz bu insanlar için artık elinizden bir şey gelmez. Onlara karşı herhangi bir duygu içinizde kalmamış. Bunu iyiye yorarak geleceğe ve önünüze bakmanız size yeni sayfalar açabilir. Aksi halde kısır döngü devam ederek, iç dünyanızda var olan huzuru yok edebilir."
+      },
+      "scorpio": {
+        "love": 0.7,
+        "health": 0.4,
+        "money": 0.4,
+        "content": "Fiziksel olarak çok çalışıp kendinizi çok yoracağınız bir gün geçirebilirsiniz. Üstelik maddi anlamda da borç ve benzeri ödemeleriniz sizi zorlayabilir. Günün sonunda yalnızca dinlenmek isterken bazı kişiler sizi, size fayda sağlamayacak etkinlikler için davet edebilir. Burada sağlığınızı ön plana almanız gerekiyor. Kafa dağıtmak hoş olabilir; ama vücudunuzun dinlenmeye ihtiyacı varsa önceliği buna vermelisiniz."
+      },
+      "sagittarius": {
+        "love": 0.8,
+        "health": 0.9,
+        "money": 0.8,
+        "content": "Özgürlüğünüze olan düşkünlüğünüz çevrenizdekiler tarafından bilinen bir gerçek; ama bugün bu sınırları aşabileceğini düşünen biriyle olası bir tartışma yaşamanız muhtemel görünüyor. Sizi sınırlamaya çalışan bu kişiyle tartışma yaşamak yerine, duymazlıktan gelseniz huzurunuzu da boşuna kaçırmamış olursunuz. Kendinizi yeniye çok hazır hissedeceğiniz için de bugün hayatınıza ekstra bir yenilik katabilirsiniz."
+      },
+      "capricorn": {
+        "love": 0.5,
+        "health": 0.8,
+        "money": 0.6,
+        "content": "Aşk hayatınızda yolunda gitmeyen durumlar sebebiyle canınız biraz sıkılabilir. Bu duruma sebep olanı düşünmek yerine çözüme odaklanmanız size hem zaman kazandırabilir hem de can sıkıntınızı bir nebze giderebilir. Sağlığınız gayet yerinde. Harcamalarınızda ise bütçe açığı verme ihtimaliniz var."
+      },
+      "aquarius": {
+        "love": 0.8,
+        "health": 1,
+        "money": 1,
+        "content": "Dışarıdan nasıl görünüyorsanız içeride de aynen öylesiniz demek isterdim; ama dışarıdan güçlü orduların komutanı duruşunuz dikkat çekerken içeride dokuz sekizlik roman havası mevcut gibi. Bunun dışında ise normalde hemen yapılabilir işleri ertelemekten yana iken bugün her şeyi büyük bir sorumlulukla yapmanız sizdeki bazı değişimlerin ipuçlarını veriyor. Kendinize yeni hedefler belirliyorsunuz gibi. "
+      },
+      "pisces": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Geleneklerin, eskinin pek size göre olmadığını düşünebilirsiniz. Zengin hayal gücünüz size zengin bir bakış açısı katıyor. Öğrenmek adına kiminiz kitap okuyabilir kiminiz gezmeyi tercih edebilir. Bugün ise farklı kültürlere ve farklı yaşam tarzlarına ilgi duyabilirsiniz. Hayatınıza heyecan katmak istemenizin bir getirisi olarak öğrenme isteğinizin artması gayet hoş bir durum diyebiliriz."
       }
     }
   },
@@ -241,81 +241,81 @@
   },
   "monthly": {
     "dateRange": [
-      "2023-11-01",
-      "2023-11-30"
+      "2023-12-01",
+      "2023-12-31"
     ],
     "horoscopes": {
       "aries": {
-        "love": 0.8,
+        "love": 0.7,
         "health": 0.8,
-        "money": 0.7,
-        "content": "Hayatınızda heyecan, coşku ve güvenin yer alacağı bir ay sizleri bekliyor. Yeni başlangıçların haberi müjdeleniyor adeta. Önünüze büyük fırsatlar çıkacak, bu fırsatları değerlendirebilirseniz mutluluğunuz da katlanarak artabilir. Kararsızlık yaşadığınız konuların bitişiyle parlak fikirlerinizi de hayata geçirebilirsiniz.\n\nDikkat etmeniz gereken unsurlardan bahsedelim biraz da. Sahip olduğunuz potansiyelin farkına varmanız gerek. Çevrenizdeki insanlar kendi çıkarları için sizi sabote etmeye çalışabilir. Aslında hiç aceleniz yokken ve sakin sakin planlarınıza uyarken bir anda aceleci bir tavır takınmanıza sebep olabilirler, bu da işlerinizi aksatabilir.\n\nAnlayışlı olmak ve gerginlik verici durumlardan kaçınmak adına kendinize ayrı bir zaman ayırıp hobilerinizle ilgilenebilirsiniz. Aşk hayatınızda genel anlamda her şey yolundayken, kariyer-eğitim hayatınızda iletişim dilinde göstereceğiniz herhangi bir küçük asabiyet düzeninize zarar verebilir. Ayrıca çevredekilerin gazına gelmez, kendi rutin hayatınıza devam ederseniz de genel sağlığınızda huzurunuzu korumuş olursunuz. "
+        "money": 0.5,
+        "content": "Finansal açıdan yıpratılabileceğiniz zor bir ay var önünüzde. Ödemeler ve ihtiyaçların ardı sıra gelmesi, beklenmedik masrafların gün yüzüne çıkması, kimseden destek göremeyişiniz derken kendinizi bu konuda çok yalnız bırakılmış hissedebilirsiniz. Ne olursa olsun ama odaklanmanız gereken nokta kimseye muhtaç olmayışınız. Buna da şükür diyerek, kimse yoksa bile kendinize güvenerek yola devam edebilirsiniz. \n\nKendinize olan inancınız ve çekirdek ailenizin varlığı ile büyük adımlar atarak bazı girişimlerde bulunabilirsiniz. Büyük adımlar büyük riskler almak demektir aynı zamanda. Ay genelinde bu arzu ve inançla çalışıp alacağınız riskler ayın ortalarına doğru size fırsatlar ve zafer olarak geri dönüş sağlayabilir. Tam olarak toparlanmak için ise bir süre daha zaman var önünüzde. \n\nGenel sağlığınız ise fiziksel açıdan iyi olsa da ruh halinize göre değişkenlik gösterebilir. Stresli zamanlarınızda kemik ağrıları hissedebilirsiniz. Moralinizi yüksek tutmak adına olası tartışmalardan kaçınmak sağlığınız adına fayda sağlayabilir. Özel hayatınızda ise güven sorunları yaşamanız muhtemel görünüyor. Yalnız burada sorunun kaynağı sizin karşı taraftan gizlediğiniz finansal durumlar olabilir. Açık  bir iletişim dili belki de sağlam bir destek almanızı sağlayabilir. Gizlemeniz gerekmiyordur belki de ihtiyacınız olan desteği alabilmek adına."
       },
       "taurus": {
         "love": 0.7,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Melankoli ve karanlıkta hapsolmuş gibi hissedebilirsiniz. Sebebi problemlerinizi çözümsüz sanmanızdan kaynaklanıyor. Halbuki gerçekte ortada bir problem varsa makul bir çözümü de illa ki çıkacaktır. Umut ışığınızı başkasında aramak yerine, kendinize odaklanarak, kendinizi geliştirerek ayın sonlarına doğru güneş gibi parlayabilirsiniz. \n\nDuygularınız ve mantığınız arasında bir orta yol bulup keskin kararlar verebilirsiniz. İçinize kapanık yanınızı bir kenara bırakıp daha hareketli bir döneme başlamak adına adımlar atmaya başlıyorsunuz. Bu süreçte odağınızı faydalı işlere vererek ertelediğiniz işlerinizi de tamamlayabilirsiniz. Bu size ekstra bir huzur verecektir.\n\nBu ay içerisinde eski bir tanıdığınıza rast gelip beraber planlar yapabilirsiniz. Sosyal aktiviteler ve eğlence için harika bir fırsat olsa da, finansal açıdan bir ortaklık işi söz konusu olursa acele etmeyin. Maddi konularda yatırım yaparken kendi fikirlerinizi önceliğiniz haline getirin. Size tavsiye veren insanlar sizden daha mı başarılı bunu gözlemleyerek kararlar almanız faydalı olacaktır."
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Ayın başlarında gönlünüzü yaralayan olaylarla uğraşırken ortalarında ve sonlarına doğru müjdeli haberler almanız söz konusu. İlk haftalarda sıkıntılar hiç bitmeyecek gibi gelse de unutmayın ki her şerde bir hayır vardır. Üzüntü ve stres çok kısa sürebilir ve 2023 yılının bitişine doğru beklenmedik sürprizler ile hayatınızda büyük ve güzel değişimler meydana gelebilir.\n\nSıkıntılar geçip de güzellikler hayatınıza girmeye başladıktan sonra çok radikal değişimlere imza atabilirsiniz. Bu değişimler yaşadığınız bölgeyi değiştirme ya da iş değişiklikleri ile ilgili olabilir. Özel hayatınızı etkileyecek olan güzel gelişme ile her şeyi yapabilme gücü bulabilirsiniz kendinizde. Bu değişimler siz de ve görünüşünüzde de kendisini gösterecektir.\n\nFırsat kapılarınız yılın sonlarına doğru açılıyor. Siz bir isterken hayat on vermeye başlayacaktır. O yüzden ne istediğiniz çok önem arz ediyor. Kökten gelen değişimlerle birlikte hep hayal ettiğiniz hayata da çok yaklaşabilirsiniz. Özellikle de bekâr olan Boğa’lar nişanlılık gibi bir adım atabilirken, evli olanlara bebek müjdesi görünüyor."
       },
       "gemini": {
-        "love": 0.6,
+        "love": 0.9,
         "health": 0.7,
-        "money": 0.7,
-        "content": "Sosyal etkinliklere karşı ilginizde azalma söz konusu. Hayatın gidişatı tam olarak istediğiniz gibi değil diye her şeyden bir nebze uzak durma arzusu duyabilirsiniz. Aslında bu sizin enerji depolama yollarınızdan biri. Zihniniz dinlenmeli ki daha net bir bakış açısı yakalayabilesiniz. Kısacası bu ayın başlarında özellikle bir süreliğine inzivaya çekilebilirsiniz.\n\nKasım ayı boyunca hangi konularda farkındalık yaşayacaksınız biraz da bunlara gelelim: Hayal kırıklıklarına sahip çıkmak, sizi üzen gerçekleri olduğu gibi kabul edebilmek, kaybettiğiniz ne ya da kim varsa yas tutup devam edebilmek ve tüm acılara rağmen güçlü durarak yeniden başlayabilecek güce sahip olduğunuzu idrak etmek. İnziva bitişi efsane bir geri dönüş bekliyor diyebiliriz.\n\nEvli ya da ilişkisi olan İkizler burçları partnerlerini sevgileriyle boğabilir; aman dikkat edin. Denge esastır. Ölçü mühimdir. İlişkisi olmayanlar ise aşık olmaktan korkuyor diyebiliriz. Duygularınızı aşırı ve uç yaşamanız, karşılıksız bir sevgiyi kaldıracak gücü vermiyor size. Karşı taraftan emin olmanız lazım ki hislerinizi baskılamayı bırakın. "
+        "money": 0.6,
+        "content": "Aralık ayının ilk haftaları size bir felaket gibi gelebilir. Gereksiz birçok risk alıp sonraki zamanlarda kendinizi zora sokabilirsiniz. Halbuki tedbirinizi felaket gelmeden alsanız, olası risklerden kaçınarak garantici bir politika izleseniz her şey sizin için kusursuz geçebilir. Unutmayın ki hiçbir şey için geç değil. Olan oldu madem siz devamını güzelleştirmeye gayret edin. Değişim sizde başlayacak önce sonra etrafınıza yansıyacak.\n\nAyın ortalarına doğru aşk ile ilgili güzel haberler bekliyor. İlişkisi olmayanları romantik bir partner beklerken, ilişkisi olanları ise bol sürprizler bekliyor. Sevgi ve tutku şiddetli bir şekilde kendisini gösterirken, iç huzurunuz artıyor. Özel hayatınızda her şeyin yoluna girmesiyle azalan stresiniz daha net bir zihin sunacağı için iş-eğitim planlarınızda size fayda sağlayacak değişimlere gidebilirsiniz.\n\nAyın sonlarında ise korku ve endişe sizi panikletebilir. Bilinçaltınızda gerçekleşen huzursuzluk uyku kalitenizi bozabilir, duygularınızı yönetmekte zorluklar çektirebilir. Zorlu bir süreçten geçen herkesin yaşayacağı bu durumlarda sakin kalmak önemli. Bu dönemde korkularınızla yüzleşme cesareti bulabilir ve size içten içe sıkıntı veren durumlardan arınabilirsiniz. Ölçülü ve dengeli olmak sizin dertlerden kurtuluş anahtarınız."
       },
       "cancer": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Bazen alıp başınızı çekip gidesiniz gelse de bulunduğunuz ortamı terk etmeye gerçekten niyetiniz yok. Sadece bazı şeyleri düzeltmek ve değiştirmek her şeyi yoluna sokabilir. Bu ay genelinde kendinizi neleri iyi anlamda değiştirebilirim bunu düşünerek geçirebilirsiniz. Neyse ki ne endişeniz ne de korkunuz var. Kendinizden oldukça eminsiniz. Akıl akıldan üstündür derler, belki de biraz tavsiyelere kulak vermeniz gerekebilir.\n\nSiz bu ay içinde değiştirmeniz gereken şeyleri zaten bilseniz de birkaç farklı konuyu da rehberiniz olarak eklemek isterim. Sorumluluklarınız gerekenden fazla olabilir, çalışma temponuzun yüksek olması hayat akıp giderken sizi geride kalmış gibi hissettirebilir. Kendinize kalan kısıtlı zamanda size fayda getirmeyecek işlerle meşgul olabilirsiniz. Bu sebepten değişime kendinizden başlamanız ve odağınızı kendinize vermeniz talihinizi olumlu yönde değiştirici etkiye sahip olabilir.\n\nGeçmişte karar verilmiş eylemlerin pişmanlığını üzerinizden atmanız gerekir. Olan çoktan olmuşsa ben şimdi ne yapabilirim diye düşünmek gerekir. Unutulan gerçekleri hatırlamak ilk adım olmalı. Hayattaki amaçlarınız nelerdi? Onlara ulaşmak adına neler yaptınız ve yapmaya devam ediyor musunuz? Belki de uzun zamandır hiç bu kadar kapsamlı düşünmediniz. Ama bu ay tüm sorularınıza cevaplar bulacağınız gibi bütün sorunlarınıza da çözümler getireceğiniz mücadele seven yanınızdan belli."
+        "love": 0.5,
+        "health": 0.9,
+        "money": 0.4,
+        "content": "Bu ayı çevrenizdekilerin etkisiyle sıkıntılı geçirme ihtimaliniz var. Kendi fikirlerinizi bir kenara koyup diğerlerinin fikirlerine ayak uydurursanız, zamanı çok yanlış değerlendirmiş olursunuz. Kenara köşeye yatırım diye koyduğunuz maddiyatlar elinizden alınabilir hem de size bile ait olmayan borçlar nedeniyle. Yumuşak başlı olup insanlara ayak uydurmak size finansal açıdan çok kaybettirebilir.\n\nHayatınızın kontrolünü elinize almanız gerekiyor. Ayın başlarında olur da yukarıda yazdığım gibi bir hata kendisini tekrar edebilir. Yanlış kararlar almanın utanılacak bir yanı yok. Herkes hayatının bir döneminde yanlış kararlar alabilir. Ama Yengeç’ler için bu ay önemlin kararları ertelemek önemli bir hale gelmiş. Önemli kararları ertelemeniz hiç kayıp yaşamadan yeni yıla girmenizi sağlayabilir. İkili ilişkilerinizde bu tutumunuz tarafından sıkıntılar meydana gelme ihtimali olduğu için güçlü bir duruş sergilemeniz gerekiyor.\n\nYaşayacağınız olası hayal kırıklıklarını tamir edecek insanlar olmaması size aşırı doz duygusallık katabilir ve sağlam duruşunuzdaki istikrar bozulabilir. İnsanların duygu sömürülerine kanmamanız gerekiyor. Güvendiğiniz insanlardan fikir almak ve hayatınızda gelişen olaylara dair tarafsız bir yorum almanız olayların gerçek yüzünü anlamanız konusunda size fayda sağlayacaktır. Nihayetinde oluruna bıraktığınızda ise tüm gerçeklerle yüzleşebilirsiniz. Bu da yeni yıla girerken sizde büyük değişimlerin yaşanacağına işarettir."
       },
       "leo": {
         "love": 0.5,
         "health": 0.7,
-        "money": 0.6,
-        "content": "Korkularınızla yüzleşmektense kabuğunuza çekilip konfor alanınızda etliye sütlüye karışmadan yola devam etme gibi bir karar benimsemiş olabilirsiniz. Bunu yapma sebepleriniz zamanında çok mücadele edip hedefinize ulaşamamış olmanız olabilir. Bu bir nevi pes etme gibi geliyor kulağa; ama sadece geçici bir dinlenme diyebiliriz aslında. Dertler ve meselelerle uğraşmaktansa sakin ve huzurlu günler geçirmek elbette makul.\n\nBiraz da derin meselelere girelim. Desteğini beklediğiniz kişilerin ortadan kaybolması, kendinizi yalnız hissetmeniz, fazladan çaba göstermenize rağmen hiçbir zaman karşılık alamayışınız sizi bezdirmiş olabilir. Onca uğraşınız boşunaymış gibi adeta. Bu sebepten de Kasım ayı boyunca ne riskli eylemlere girmeyi tercih ediyorsunuz ne de ilk adımı atan siz olmak istiyorsunuz. Akışına bırakarak sorunların kendiliğinden çözüleceğini umuyorsunuz; umarım çözülür diyorum.\n\nAyrıca acı gerçekleri kabul etmek zor geliyor olabilir. Aşk hayatınız başta olmak üzere, insanlarla olan ilişkilerinizde meydana gelen sorunları görmezden gelebilirsiniz. Kasım ayı sizin üzerinize kara bulut gibi çöküyormuş gibi görünse de tüm bunları lehinize çevirebilecek bir fırsatınız da var önünüzde. O da tek bir gerçeği idrak ederek gerçekleşebilir: \"Sizi üzenlere değil, sizi sevenlere açın kalbinizi. \""
+        "money": 0.8,
+        "content": "Sizi çok seven bir kişinin yaşadığı kaybetme korkusu nedeniyle sizin üzerinizde baskı kurması size göre değil. Sizin bağımsızlığınıza meydan okuyan ve üzerinizde güç iddia eden bu kişi sanırım en büyük korkusunu kendi elleriyle gerçek kılacak. Bu size zarar verici durumun sona ereceği anlamına da geliyor. Aralık ayının başlarında kendinizi hür kılacağınız bu seçim sonrasında hayat görüşünüzde de sizin için olumlu değişimler yaşamanız muhtemel.\n\nAyın ortalarında ise dedikoducu ve iftiracı insanlarla küçük bir mücadele verebilirsiniz. Size karşı sizde olana karşı garip bir kıskançlık ve çekememezlik yaşayan bu insanlara yapabileceğiniz en büyük tavır onları yok saymak olacaktır. Duygularınızı kontrol ederek, öfkenize hakim olabilirseniz zafer sahibi olan da siz olursunuz. Hem sağlığınız için de huzur ve moral gerekiyor. Bu sebepten güvendiğiniz arkadaşlarınızla daha çok vakit geçirebilirsiniz.\n\nAyın sonlarına doğru ise yaptığınız planlarda aksilikler yaşayabilirsiniz. Zira gerçekçilikten uzak kalmış planlarınızda gecikmeler olması gayet normal. Yalnız ille de plana sadık kalamadım diye üzülmek yerine; aman geç olsun güç olmasın deyip oluruna bırakabilirseniz, 2024 yılının size getireceği müjdelere şimdiden kendinizi hazır etmiş olursunuz. Bu müjdelerden biri aile hayatınızda her şeyin yoluna girmesi iken, diğeri finansal açıdan yaşayacağınız refah dönemi."
       },
       "virgo": {
         "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "Hayatınızda meydana gelen olaylara bakış açınızda daha mantıklı ve sert bir tutum sergileyeceğiniz bir döneme giriyorsunuz. Bu sayede de daha tarafsız bir gözlem yapabiliyorsunuz. Hayatınızda bu dönem yapacağınız ufak değişimlerin ilerleyen dönemlerde hayatınıza katkısı çok büyük olabilir. \n\nYalnız olaylara karşı sert tutumlar sergilerken aynı zamanda hayalperest yanınızla gerçeklerden uzaklaşarak kendi dünyanızda kayboluyor olabilirsiniz. Sebebi ise tamamen finansal sebepler olabilir. Gerçekleştirmek istediğiniz hedeflerinize uzak kalmanız sizi bu konuda hayal dünyasında yaşamaya itebilir. Bu durumdan çıkmak adına gerçekçi hedefler belirleyerek adım adım ilerlemek size fayda sağlayacaktır.\n\nBirçok yükü sırtlanıp birçok sorumluluğu aldığınız dönem yavaş yavaş geride kalabilir. Artık hak ettiklerinizi almanın zamanı yaklaşıyor. Pes etmeden, çabalamaya devam ederek ve en önemlisi size sunulan yardım tekliflerini de kabul ederek yola devam etmeniz gerekiyor. Sabrın sonu selamettir derler. Bu dönemi de atlattıktan sonra başarıya kavuşuyorsunuz."
+        "health": 1,
+        "money": 1,
+        "content": "Hayatın gerçeklerini kabullenme konusunda yaşadığınız sıkıntılar bu ay sona erebilir ve kendinizi gerçek bir değişime hazır hissedebilirsiniz. Kendi kendinizi aynı olayları düşünerek yemektense yeni konuları gündeme getirip her gün yeni bir gündem konusu belirlemenin heyecanıyla hayatınıza renk katabilirsiniz. Güneş her gün doğuyorsa hiçbir şey için geç kalmadınız demektir.\n\nSertab Erener’in kendime yeni bir ben lazım şarkısındaki gibi hayatınıza her türlü yeniliğin gireceği şanslı bir ayda olduğunuzu bilmenizi isterim. Sevecek ve sevileceksiniz. Etrafınıza adeta ışık saçacak ve şımartılacaksınız da. Herkesin ilgisinin sizin üzerinizde olacağı bu ay, sizin başka planlarınızda var. Tatil ya da yer değişikliği gibi. Sıkıntılı geçen bir yılın iyileşme ayı gibi düşünebilirsiniz bu zamanı.\n\nÖzellikle de mali açıdan bir büyüme sürecinden bahsedebiliriz. Yapacağınız her girişim size para dönüşü olarak geliyor. Bolluk ve bereketin müjdesidir. 2024 yılının sizin için hem finansal hem aile hayatınızda güzel gelişmeler getireceğinin müjdesini bu ay alabilirsiniz. Sağlığınıza da olumlu yansıyan bu güzel haberler ay genelinde sizi mutlu kılıyor."
       },
       "libra": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.9,
-        "content": "Geçmişe bir sünger çekip ileriye bakmak isteyeceğiniz bir zaman geliyor. İnsanlara karşı beklentilerinizi sıfıra indirgemişsiniz. Kendinizi üzmemenin belki de çok iyi bir yolu olabilir bu. Geçmişin güzel yanları değil de olumsuz yanları aklınızda yer ettiği için bu hamleyi yapıyor olmanız da olası. Kendinize yeni bir sayfa açarak güzel başlangıçlar yapmak istemeniz ise sağlığınıza çok olumlu yansıyor.\n\nYaşanılan anlar, anılarınız size çok derin ve farklı bakış açıları kazandırmış. Artık hiçbir şey için acele etmeden, sebat ederek her sürecin keyfini sürerek yaşamaktan yanasınız. Dışarıdan gelen yardımlar zamanında gelince anlam kazandığı için, ihtiyacınız varken yanında olmayan insanlar, şimdi hiç olmasalar da olur diyorsunuz.\n\nAşk hayatınıza da giriş yapacak olursak, kalbi boş olanları romantizm dolu bir aşk beklemekte. Halihazırda ilişkisi olanlar da yine romantizme doyabilir. Aşk hayatınızın yoluna girmesiyle huzurlu geçecek bir Kasım ayı olacağını söyleyebilirim. Olumlu baktıkça hayata, hayatın içinden olumlu ve müjdeli haberler almanız da epey muhtemel görünüyor."
-      },
-      "scorpio": {
         "love": 1,
         "health": 1,
-        "money": 0.9,
-        "content": "Güçlü ve kontrollüsünüz. İnsanları nasıl yönlendireceğinizi gayet iyi biliyorsunuz. Amaçlarınızı belirmeniz ve ne istediğinizi tam olarak bilmeniz size başarı kapısını açıyor. Doğru zamanda doğru adımlar sizi başarıya götürebilir. Bu ay sürecince hayranlarınız artabilir. Popüler olacağınız bir dönem.\n\nKariyer-eğitim alanında rakiplerinizi geride bırakarak kademe yükselebilirsiniz. Birçok insan bu alanlardaki başarılarınızı fark edecek. Bu dönemde alanınızla ilgili iş teklifleri alabilirsiniz. Ayrıca aşk hayatınızda da muradınıza ulaşacağınızı müjdeleyebilirim.\n\nGenel anlamda konumunuzu sağlamlaştırdığınız için önemsediğiniz başka insanlara yardım etme sevdasına düşebilirsiniz. Bu yardımlar bir denge içerisinde olacak, ilerleyen zamanlarda yardımda bulunduğunuz insanlardan beklememenize rağmen vefa karşılıkları alabilirsiniz. Bu ayın en şanslı burcu ise siz Akrep burçlarısınız. Aşk, sağlık, kariyer her şeyiniz dört dörtlük gitmeye meyilli."
+        "money": 1,
+        "content": "Genele bakarsak Aralık ayının en şanslı burcu sizsiniz diyebiliriz. İstediğiniz her alanda başarıya ulaşabilecek gerekli şans tılsımları sizinle birlikte. Baştan başlamak gerekirse ayın başlarında alacağınız radikal kararlar ve hayatınıza katacağınız yeniliklerin bu şans tılsımıyla çok yakından bir ilgisi var. Olumlamaya olan inancınızla birlikte ihtiyacınız olan her şeyi kendinize çekebileceksiniz. \n\nDenge ve uyum burcunuzla uygun olarak bir bütün olmuş ve hem ilişkilerinizde uyumu mükemmel açıdan yakalıyorsunuz hem de severek uğraştığınız alanlarda. Kendinize yeni hobiler katmak adına da bu ay bazı kısa seyahatler düzenleyebilirsiniz. Bu kısa tatiller ufkunuzu açarak ne istediğiniz konusunda sizi daha emin biri yapabilir. Net ve tutarlı olmanız bütçenize de pozitif yansımakta.\n\nÖzel hayatınızda ise hayal ettiğiniz her şeyin ayın sonuna doğru gerçekleşmesi çok olası görünüyor. Aşk enerjiniz yeni yıla girmeye doğru artıyor ve kendinize aşkı, sevgiyi, mutluluğu fazlasıyla çekiyorsunuz. Siz adeta bu işi biliyor gibisiniz. Olumsuz yorumları ve size huzursuzluk veren detayları hayatınızdan çıkardığınızda işte size geri kalan masallardaki gibi bir hayat oluyor."
+      },
+      "scorpio": {
+        "love": 0.7,
+        "health": 0.9,
+        "money": 0.4,
+        "content": "Çok yoğun ve hareketli geçecek bir ay sizleri bekliyor. Birden fazla sorumluluğunuza aynı anda yetişmek adına var gücünüzle çabalayabilirsiniz. Hedeflerinize varmak uğruna bu yoğun dönemin üstesinden bir şekilde geleceksiniz. Siz koşturup dururken size yardımcı olmak isteyen insanların da yardımıyla çok yorulmadan zinde bir şekilde geçebilir günler.\n\nKararsız kaldığınız konular hakkında net bir hükme de varabilirsiniz ayrıca. Ne siz bekleyin ne de karşınızdaki insanlar beklesin sonuçta değil mi? Vereceğiniz kararlar hayatınızda küçük değişimler yapabilir. Elbette olumlu bir geri dönüşten bahsediyorum. Daha çok para kazanabilir ya da daha eğlenceli vakitler geçirebilirsiniz.\n\nEndişe edilecek tek bir durum mevcut o da özel hayatınızı ilgilendiriyor. Siz yoğunken sizi anlamayan partnerinizle bazı anlaşmazlıklara düşmeniz muhtemel. İlişkisi olmayan Akrep’ler ise bu anlaşmazlıklara ailesiyle düşebilir. Zaman ayıramıyor olabilirsiniz; ancak bu durum yalnızca bu aya özel bir durum olduğu için anlayış göstermesi gereken taraf diğer taraf oluyor. Duygularınızla değil de mantığınızla hareket ettiğinizde elde ettiğiniz başarıların daha çok olduğunu görmek ise diğer insanların anlayışsız tavırlarına karşı daha sert bir yaklaşımla gitmenize neden olabilir ayrıca. Dengeyi koruyup, arayı bulma işi yine size düşebilir böylece."
       },
       "sagittarius": {
-        "love": 0.7,
+        "love": 0.8,
         "health": 0.9,
-        "money": 1,
-        "content": "Ayağınıza gelen bir fırsat var ve siz bu fırsatı göremeden bu ayı geçirebilirsiniz. Negatif bir karma mevcut olduğu için fırsat gözlerinizin önünde bile olsa dikkatinizi çekmeyebilir. Bu karmaya maruz kalmadan fırsatları kaçırmamak için yapmanız gereken şans tılsımları var. Sözlerin enerjisini hafife almayın. Deyin ki hep ben şanslıyım...\n\nMaddi açıdan her türlü rahat olduğunuzu söyleyebilirim. Bereketlisiniz. Biri on yapıyor varlığınız. Ödeme kaygılarınızın bittiği bir dönem. Elinize ihtiyacınız kadar belki daha fazla miktarlarda para geçebilir. Harcamalarınızı yaparken en acil olanları başa almayı ihmal etmeyin yine de ama. \n\nİnsanlarla aranızdaki güçlü iletişim sizi ön plana çıkarabilir. Sizden fikir almak isteyecek birçok insanı sürekli çevrenizde dolaşırken bulabilirsiniz. Sizin kendinize verdiğiniz değeri gören insanlar sizden ilham alarak kendi hayatlarında önemli kararlar alabilirler. Sizin konunuz ise genel anlamda hayatıma yeni olarak ne katabilirim olacaktır. Bakalım sizi hangi yenilikler bekliyor, kim bilir? "
+        "money": 0.8,
+        "content": "Keskin duruşunuz ve cesaretiniz herkes tarafından övgüyle karşılanıyor. Mücadeleci yanınız bu kadar övgülere layıkken siz yapmak istediklerinize odaklanarak hedefinize tam gaz devam edebilirsiniz. Yalnız arada bir övgüleri kabul etmek ve mütevazilikten kaçınmak sizden bir şey götürmez. Hak ettiğiniz başarılara ulaştığınızda bir küçük kutlamayı kendinize çok görmeyin. \n\nSiz çabalayıp didinirken, hayatınızdaki dengede bazı bozulmalar yaşanabilir. Aralık ayı sizin için dengeyi bulmaya çalışarak geçebilir. Bir yeri düzeltseniz diğerinde sıkıntı çıkabilir. Bu da işinizi zorlaştırabilir. Böyle durumlarda yardım istemekten çekinmeyin. Her şeyi tek başınıza yapacaksınız diye bir şey yok, aileniz ve sevdikleriniz size yardım için her zaman hazır durumdalar.\n\nİş-para-kariyer gibi durumlardaki mücadeleniz bir yana, hayat mücadeleniz de önemli bir rol oynuyor. Kendinize rakip olarak gördüğünüz her şey size daha sonradan zarar verebilir. Gerek özel hayatınızda gerek diğer konularda uzlaşmacı yanınız ağır basarsa sıkıntısız bir ay geçirebilirsiniz. Ayrıca kısa süreli şehir dışı planlarınız gündeme gelebilir. Sevdiğiniz insanların da size eşlik etmesini istiyorsanız planlarınızı onlarla paylaşmanız gerekir."
       },
       "capricorn": {
-        "love": 0.8,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "Korkularınıza rağmen adımlar atmaktan çekinmeyeceğiniz bir döneme giriş yapıyorsunuz. Her ne kadar içiniz ürperse de cesaretiniz her şeyin önüne geçiyor. Özellikle ikili ilişkilerinizde karşılıklı alma-verme dengesini sağlayarak, sevginizi ve saygınızı ön plana alarak kendi konumunuzu apaçık sergiliyorsunuz. Kendi potansiyelinizi anlayabilmek adına sınırları epey zorlayabilirsiniz.\n\nDaha önce hiç ilgilenmediğiniz yeni ilgi alanlarına meyil edebilirsiniz. Hatta bu adrenalin gerektiren riskli hobiler dahi olabilir. Keşif arzusu ile dolusunuz ve farklı duyguları en uçtan başlayarak tatmak isteseniz de sizlere tavsiyem bebek adımlarıyla bunu yapmanız olurdu. Çünkü tecrübe zamanla kazanılır. \n\nBir süredir karanlıkta kalmış gibi hissettiğiniz konularda nihayet aydınlık tarafı keşfedebilirsiniz. Bu da sizde huzur duygusuyla kendisini gösterecektir. Hayat yaşanmak için ve her anın tadını alarak yaşama isteğiniz her şeyin zamanla düzeleceğinin de müjdesini veriyor. Hayatta hiçbir anı kaçırmak istemeyişiniz size eşlik etmek isteyen insanlar için biraz zor gelebilir. Bunu aklınızda bulundurun."
+        "love": 0.9,
+        "health": 0.7,
+        "money": 0.5,
+        "content": "Aralık ayı boyunca kafanızı çok meşgul eden ve karıştıran olaylarla karşı karşıya kalabilirsiniz. Kendinizden feda ederek başkaları için harcayacağınız her an size zarar olarak geri dönecektir. Bu sebepten bu ay boyunca tek önceliğiniz kendiniz olmalı. Zaman en değerli hediyedir ve bu hediyeyi önce kendinize vermelisiniz. Özellikle de kafanızı meşgul eden çok durum varken, işlerinizi aksatma gibi bir durum da söz konusu olursa bütün planlarınız iptal olabilir, temkinli olun ve kendinizi düşünün.\n\nKonfor alanınızdan ayrılmadan her şeyin güzel devam etmesini ummak ise boş bir rüyadan başka bir şey değil, uyanık olun ve gözlerinizi gerçeklere açın. Sizin için kimse elini taşın altına koymuyorsa bulunduğunuz yerden gitmenin zamanı gelmiştir belki de. Ani değişimler ilk başta rahatsız etse de ayın sonlarına doğru bu değişimleri yaptığınız için kendinizi tebrik edebilirsiniz.\n\nYeni yıla yakın bir zamanda ise pozitif enerjinizin de artmasıyla isteklerinize ulaşmanız daha kolay bir hale geliyor. Önünüzdeki bütün engeller ortadan kalkarak rahat bir döneme giriş yapıyorsunuz. Başarılarınız konuşulmaya başlanıyor. Ayrıca hayatınızda biri yoksa size sırdaş, arkadaş, yoldaş olacak hayat arkadaşınızla tanışabilirsiniz. Benim hayatımda zaten biri var diyorsanız, ciddi güzel gelişmeler sizlere de yansımakta."
       },
       "aquarius": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Eğitim ya da maneviyata verdiğiniz önemin artış gösterdiği bir ay. İlerici düşünen ve geleceğe yönelik nokta atışı tahminler yapabilen sizin için, günümüzdeki insan iletişimlerinde beğenmediğiniz yanları da ortaya çıkarıyor. Bu sebepten başka kültürler ve eski geleneklerine bağlı insanlarla vakit geçirerek bir analiz yapmaya çalışabilirsiniz. Yeniliklere eskisi gibi heyecanlı olmama sebebinizi eskilerde aramanız manidar olduğu kadar doğru bir yaklaşım da olabilir.\n\nHayallerden ziyade gerçekler dikkatinizi çekmeye başlıyor. Mantığınıza yatmayan hiçbir şeyi hayatınıza katma gibi bir düşünceniz yok. Bu sebepten dolayı da araştırmaya ve öğrenmeye olan eğiliminiz fazla miktarda artış gösterebilir. Zihniniz bir karmaşa içinde olabilir ve netliğe ulaşmak için gözlem yapma ihtiyacı güdebilirsiniz. Sonuç olarak en doğru yaklaşım ile en doğru sonuca ulaşacağınız kesin görünüyor.\n\nBu ay en çok dikkat etmeniz gereken mesele bütçeniz. Ödeyebileceğinizden fazlasını alabilir ve borçlarla çok haşır neşir olabilirsiniz. Bütçe planlarınızda yapacağınız ufak değişiklikler ile bu dönemi kimseye ihtiyaç duymadan rahatlıkla atlatabilirsiniz; fakat bunu yapabilmeniz için lükslerinizden vazgeçmeniz gerekiyor, unutmayın!"
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Savaşçı ve mücadeleci yanınızın hiçbir şeyden vazgeçmeye niyeti yok. Sizin hevesinizi kırmaya çalışanların çabası nafile. Hedefinize öyle bir odaklanmışsınız ki bu ayı mücadele içinde geçirirken 2024 yılının size bereket olarak yansıması gayet normal olacaktır. Aralık ayının ilk haftası kendinizi biraz yorulmuş hissedebilirsiniz. Dinlenme fırsatları oluşturabilirseniz sağlığınız adına faydalı olacaktır. \n\nAralık ayının ortalarında biraz durgun bir dönem beklemekte sizi. Hiç beklemediğiniz paraların gelişiyle bile içinizden bir şey yapmak gelmeyebilir. Fakat bu süreç nihayetinde kısa sürecek ve kendinizi iyi hissettiğiniz gibi bazı yatırımlar yapmanız muhtemel görünüyor. Özel hayatınızda da olumlu gelişmeler olması adına kapattığınız kapıları yavaş yavaş açıyorsunuz.\n\nAralık ayının sonlarına doğru ise dikkat etmeniz gereken bir durum var. Çevrenizdeki insanlarla olan iletişimlerinizde fevri tepkiler vermemek adına size söylenenlerin doğruluğunu sorgulamanız gerekiyor. Hayatınızdaki güzel gelişmeleri çekemeyen insanlar üzerinize gelebilir ve sizin hata yapmanızı bekleyebilirler. Ya görmezden geleceksiniz ya da doğruluğu ispatlanmamış hiçbir olaya dikkatinizi vermeyeceksiniz, bu süreç ancak bu şekilde sağlıklı geçebilir."
       },
       "pisces": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.9,
-        "content": "Bilinçaltınızda açığa çıkmasını istemediğiniz sizi üzen, endişelendiren ve korkutan birçok durum mevcut. Bunlarla yüzleşmek yerine yok saymanız duruma göre size iyi de gelebilir, kötü de gelebilir. Eğer etrafınızda sizi dinleyen, anlayan ve size destek olacak insanlar varsa, yüzleşmek korkutucu bir hale gelmez; fakat bu insanlardan yoksa belki de güçlü durabilmek adına açığa çıkmaması bazı gerçeklerin daha iyi olabilir. Şartlar yeni şartlar doğurur.\n\nKonfor alanınızda size güven veren eşyalar ve mekan içinde her şey her zaman yolunda gidiyorken maceralara gerek duymuyorsunuz. Kaybetme korkunuzun biraz artış göstereceği bu zaman diliminde konfor alanınız daha fazla önem kazanıyor. Ve yanınızdaki insanlara normalden daha fazla sahiplenici davranma ihtimaliniz artıyor. Güven içinde hissetmek istemeniz oldukça normal olduğu için endişeye gerek yok.\n\nSon olarak güzel bir haber sizlere. Maddi anlamda bolluk dönemi içine girebilirsiniz. Finansal açıdan hayatınızda her şey sürpriz etkisi gösterebilir. Hiç beklemediğiniz yerlerden bir para akışı size doğru yol olabilir. Bunların haricinde ise sağlığınızda pozitif etki uyandıracak yeni hobiler edinebilir ve her geçen gün kendinizi daha enerjik ve dinç hissedebilirsiniz. "
+        "love": 0.9,
+        "health": 0.6,
+        "money": 0.7,
+        "content": "İlk ve tek önceliğiniz sağlığınız. Size stres yaratan ortamlardan kaçınmanız gerekiyor. Herkes kendi derdine düşmüş ve kendi dertlerinin peşlerinden sizi de sürüklüyorlar. Bir kimse de sizin için bir şey yapmıyor gibi görünüyor. Duygusal ve hassas olmanız insanlar tarafından kullanılmanıza sebep olmuş. Bu duruma bir son vermek elinizde. \n\nKaçınmanız gereken bir durum da öfkeli insanlar. Baktınız ki potansiyel bir tartışma geliyor, kaçın. Mücadele ederek elde edeceğiniz bir zafer yok. Herkes tarafını seçmiş zaten. Sizi de oyunlarına getirmelerine müsaade etmeyin. Bu süreçte eğer hayatınızda biri varsa onunla planlar yapabilirsiniz yoksa da yanınıza çok güvendiğiniz bir insanı alarak bu planları bu şekilde düzenleyebilirsiniz. Sosyalleşmek ve hobiler edinmek size çok iyi gelebilir.\n\nSevgi sizin için çok önemli. Sevdiğiniz kadar da sevildiğinizi görmek istiyor oluşunuz bencillik değil olması gereken. Hayatta emek karşılıklı olduğu zaman mutlu kılar insanı. Ay boyunca birçok konuda içsel bir mücadele yaşarken sizi kimlerin sevdiğini size kimlerin değer verdiğini de gayet iyi anlayacaksınız. Çünkü sizi seven insanlar siz kovsanız bile sizi sevmeyi bırakmazlar."
       }
     }
   },
