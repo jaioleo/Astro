@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2023-12-14",
-      "2023-12-14"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.8,
-        "health": 1,
-        "money": 1,
-        "content": "Ani gelişen sürpriz gelişmeler yaşayarak hayat kalitenizi arttırma fırsatı önünüze geliyor. Bu hareketli döneme ve aksiyona tamamen hazır hissetmeniz size ekstra olarak avantaj kazandırabilir. Hayatınızın dönüm noktalarından birini yaşayarak bu tarihi önemli bir hale getirebilirsiniz, harekete geçip yola devam etmeniz yeterli olacaktır."
-      },
-      "taurus": {
-        "love": 1,
-        "health": 0.8,
-        "money": 1,
-        "content": "Bir tamamlanış enerjisi mevcut. Önemsediğiniz bir iş ya durum nihayete eriyor. Düzenli olmanız ve rutin davranışlarınız size başarıyı getirmekle kalmıyor özel hayatınızda da olumlu gelişmeler meydana getiriyor. Güçlü duruşunuz cazibenizi arttırarak hayran olunası yanlarınızı daha baskın bir şekilde ortaya çıkarabilir."
-      },
-      "gemini": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Sizin açınızdan her şey dengeye oturmuş bir durumda olabilir. Hayal dünyasından çıkıp gerçeklerle kaynaşmanız sonucunda tam bir uyum yakalayıp sıkıntı veren bütün durumları çözüme kavuşturabilirsiniz. Bu da haliyle size en çok huzur hissiyatını aşılayacaktır. Her şeye yeniden başlayabilir, yeniden dizayn edebilir, çevrenizdeki insanları ya da ortamınızı bile yeniden kafanıza yatan şekilde değiştirebilirsiniz."
-      },
-      "cancer": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Bazı insanlar için fazladan gireceğiniz çaba ya da onların sorumluluklarını kendi sırtınıza yüklemeniz kendi hedeflerinizi ikinci plana atmanıza neden olmuş olabilir. Bugün bu durumun idrakine daha iyi vararak, kendiniz için en güzel kararı verebilirsiniz. Yeteneklerinizi değerlendirmek adına ise önünüze çıkan fırsatlara gönül rahatlığıyla evet diyebilirsiniz."
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 0.9,
-        "content": "Kendinizi, isteklerinizi, amaçlarınızı, eylemlerinizi sorguladığınız ve bir sonuca vardığınız bugün aydınlanmalar yaşamanız çok olası görünüyor. Ne istediğinizi bilmek ve kararsızlıktan kurtulmak sizi oldukça rahatlatabilir. Ne yapmanız gerektiğini bilmenizin yanında şans da size eşlik ediyor. Mutluluk bir adımdan bile yakın diyebiliriz."
-      },
-      "virgo": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Kafanızdaki planların istediğiniz gibi işlemeyişi ve gecikmeler olması sebebiyle kısa süreli huzursuzluklar hissedebilirsiniz; ama biraz geç olsa da her şeyi yetiştirdiğiniz ve her şeye yettiğiniz bir gün. Yalnız çevrenizdeki insanlarla olan iletişimlerinizde özellikle de arkadaşlarınızla olan dikkat etmeniz gereken şeyler var. O da fevri tepkilerden kaçınmak. Karşıdaki kişi sizi haksız yere eleştirse bile daha olgun tepkiler vererek olası çatışmaları engelleyebilirsiniz."
-      },
-      "libra": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 1,
-        "content": "Ne kadar emek o kadar yemek ve sizin emekleriniz ölçülemeyecek kadar fazla; fakat bugün daha bir başka. Karşılığını hak ettiğiniz gibi almaya başladığınız bir gün oluyor. Bunu sadece maddi anlamda düşünmeyin. Hem maddi hem de manevi olarak. Özellikle de sosyal çevrenizden büyük bir fayda sağlayabilirsiniz. Hatta sizi biraz ilgi yağmuruna tutabilirler."
-      },
-      "scorpio": {
-        "love": 0.6,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Aile arasında ya da yakın dost çevrenizle anlaşmazlıklar ortaya çıkabilir. Her iki tarafta benim dediğim olsun dediği sürece de çözüme kavuşacak gibi durmuyor. Bu durumda açık bir iletişim dilini tercih edip orta yolu bulmak adına olgunluk göstermek her iki tarafa da kalıyor. Yani bu sadece sizin sorumluluğunuz değil. Hedeflerinizden vazgeçmeden yola devam ettiğiniz sürece ise işiniz rast gidebilir; siz çevrenizdeki olumsuz yorumları kafanıza çok takmayın."
-      },
-      "sagittarius": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.8,
-        "content": "Kaç ya da savaş arasında bir seçimle başbaşa kalabilirsiniz. Mücadele ettiğinizde değmeyecek bir sonuç alacağınızı düşünüyorsanız o alanı terketmek size daha faydalı olacaktır. Seçimlerinizi sonuçtaki faydayı görerek yaptığınız sürece de her şey yolunda gidecektir. Sezgilerinizi dinlemek ise bugün size iyi bir fırsat sunabilir."
-      },
-      "capricorn": {
-        "love": 1,
-        "health": 1,
-        "money": 0.8,
-        "content": "Aşk hayatınız başta olmak üzere diğer tüm yaşantınızda da her şeyin dört dörtlük ilerlediği çok şanslı olduğunuz enfes bir gün. İçinizden geleni yaparak huzurla yola devam edebilirsiniz. Etrafınızdaki insanlara dahi şansınızdan bulaşıyor. Çevrenize verdiğiniz olumlu enerjinin size dönüşü de kat be kat fazla olacaktır. "
-      },
-      "aquarius": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Birçok mücadele verdiniz hayatta ve bu mücadeleler bir türlü sona ermiyor. Sizdeki azim sağ olsun gelsin yenisi diyerek her zorluğa içtenlikle kucak açıyorsunuz. Bunun faydaları da var. Etrafınız sizi önemseyen ve seven insanlarla dolu. Birçok iyi insan kazanmışsınız. Bugün o insanlarla ortak bir etkinlik düzenleyebilirsiniz."
-      },
-      "pisces": {
-        "love": 0.8,
-        "health": 0.9,
-        "money": 0.8,
-        "content": "Elinizden gelenin de fazlasını yaparak işin sonucunu bahtınıza bırakmış görünüyorsunuz. İstekleriniz için yeterli çabayı vermişsiniz. Bundan sonrası gidişata göre belirlenecek. Umduğunuz sonucu alırsanız aynı şekilde devam edebilirsiniz; fakat alamazsanız oldukça radikal kararlara imza atabilir ve hayat düzeninizi sil baştan değiştirmeye karar verebilirsiniz. Bu kararı sezgilerinize göre alacağınız için hiç kaygınız olmasın. Sezgileriniz sizi doğru yola çıkaracaktır."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2023-12-15",
       "2023-12-15"
     ],
@@ -156,6 +76,86 @@
         "health": 1,
         "money": 1,
         "content": "Her şeye sıfırdan başlamak istediğiniz anlar olmuştur ya bugün de o günlerden biri. Hayatınızın her zerresini sadece kendiniz yönetmek istiyorsunuz. Sadece size ve zevklerinize uyacak şekilde komple baştan değişikliklere imza atabilirsiniz."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2023-12-16",
+      "2023-12-16"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.8,
+        "health": 0.9,
+        "money": 0.7,
+        "content": "Aile yaşamının güzelliği hiçbir yerde yoktur demiş Oscar Wilde. Aileniz ya da aileniz bildiklerinizle anlaşmaya vararak, ortak etkinlikler yaparak, birbirinize destek olduğunuz, sevginin eksik olmadığı bir gün. Sevdikleriniz yanınızdaysa her şey huzur ile ifade ediliyor sizin dilinizde."
+      },
+      "taurus": {
+        "love": 0.6,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Charles Flory demiş ki: “En büyük zaman hırsızı, kararsızlıktır.” Seçimleriniz geç kalmanızı önler. Seçimleriniz doğru ya da yanlış olsun, sizi ileri taşır ve keşkelerinizden arındırır. Öfke verici duygulardan arınmak adına sizi özgür kılacak güzel anlara ihtiyacınız var, bu güzel anların yeri belki de sevdiklerinizin yanıdır."
+      },
+      "gemini": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Ani duygu geçişleri yaşayabilirsiniz. Hisleriniz çeşitlerden çeşit bir halde adeta olmuş derya deniz. Dünya düşünenler için komedi, hissedenler için trajedidir demiş Hugh Walpole. İçinizdeki derin karmaşayı sizden başkası anlayamaz. Her ne olursa olsun devam etmek gerektiğini biliyorsunuz. Kar fırtınalarına karşı güneş olmanın zamanı."
+      },
+      "cancer": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Cemal Süreya bir şiirinde der ki: “Yaşlanıp öyle kol kola yürüyelim mi? Ne güzel yaşlanırsın sen.” İşte sizin hayaliniz, işte sizi bekleyen, işte gerçeğiniz. Belki de yazılacak en güzel aşk hikâyesi sizden çıkacak. Umutlarınızın yeşerdiği, sevgi dolu anlar yaşayacağınız, asıl isteklerinize ulaşabileceğiniz bir gün sizleri bekliyor. "
+      },
+      "leo": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Hiçbir zafere çiçekli yollardan gidilmez der La Fontaine. Siz de zorlu yollar aştınız. Bugün sahip olduklarınız için belki de yıllarca emek harcadınız. Şimdi ise emeklerinizi elinizden hunharca almak isteyenlerle bir mücadele veriyorsunuz ve zafer yine sizin oluyor. Siz hakkınızı korudukça tüm güzel şeyler size çekilmeye devam edecektir."
+      },
+      "virgo": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Şems der ki: “Çaresizlik nedir bilir misin? Kalbin kanatlanıp gittiği yere, bedenin gidememesidir.” Varmak istediğiniz yere varamıyor oluşunuz, kaldığınız yerde de derin izler bıraktırmıyor diyebiliriz. Her şey bir döngü gibi yeniden dönüp dururken zihninizde, sevdiğiniz insanların yanınızda oluşu ayaklarınızın yere daha sağlam basmasını sağlıyor."
+      },
+      "libra": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Halk içinde muteber bir nesne yok devlet gibi. Olmaya devlet cihanda bir nefes sıhhat gibi der Kanuni. Sağlıktan kıymetli bir hazine olamaz. Sizin şifa frekansınız ise çok yüksek, bu da sağlığınıza oldukça olumlu yansıyor ve günü huzurlu geçirme ihtimalinizi arttırıyor. "
+      },
+      "scorpio": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Nietzsche der ki: “Yaşamak için bir nedeni olan, neredeyse her duruma katlanabilir.” İçinizde derinden derine birçok amaç yatıyor. Çabaladınız, her zorluğa katlandınız ve artık güneşin sizin için doğmasına izin vermeniz kaldı geriye. Mevsim kış olsa da gönlünüzde bahar rüzgârları esmekte."
+      },
+      "sagittarius": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Jean Reno ve Natalie Portman’ın başrollerini paylaştığı Leon filminde Leon, Mathilda’ya şunu söyler: “Bak Mathilda, insanlar için gözlerini feda etsen, zaten kördü derler.” Kısacası bazen önce kendim demeli insan. Hayat ansızın geçip giderken, size de bir şeyler kalması adına gereksiz fedakârlıklardan kaçınmak gerekir."
+      },
+      "capricorn": {
+        "love": 0.6,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Mary Engelbreit der ki: “Eğer bir şeyden hoşlanmıyorsanız, onu değiştirin; değiştiremiyorsanız, ona bakış açınızı değiştirin.” Siz değişin dünyanız değişsin. Olumsuzlar içinde hapsolmanıza gerek yok. Size negatif etki veren insanlardan uzaklaşmak faydanıza olacaktır. Ve unutmayın her şerde bir hayır vardır."
+      },
+      "aquarius": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Kendi yolunda yanlış gitmek, başkasının yolunda doğru gitmekten iyidir der Dostoyevksi. Kararlarınızdan pişmanlık duymak gibi bir yanlışa kapılmayın. Aldığınız her karar sizinle ilgili ve size dair olduğu için elbette sonu da sizin için er ya da geç en hayırlısı olacak şekilde sonuç verecektir. Yeter ki seçimlerinize kimseyi karıştırmayın."
+      },
+      "pisces": {
+        "love": 0.7,
+        "health": 0.9,
+        "money": 0.8,
+        "content": "Osho der ki: “Kendi başına bir ışık ol, ödünç alınmış ışıkla yaşama.” Size yol göstersinler diye başkalarını beklemenin manası yok. Işık içinizde. Işık sizsiniz. Kendi yolunuzu kendiniz çizebilirsiniz, hayatınızın mimarı sizsiniz. Siz kendinize inandıktan sonra bugün alacağınız kararlar sizi ileriye taşıyacaktır."
       }
     }
   },
