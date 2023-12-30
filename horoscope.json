@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2023-12-29",
-      "2023-12-29"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.8,
-        "health": 0.9,
-        "money": 0.5,
-        "content": "Yatırım benzeri eylemlerden kaçınarak bütçenizde açık olmasını engelleyebilirsiniz. Alacağınız yanlış tüyolar eldekini de kaybetmenize sebep olabilir zira. Özel hayatınızda ise her şey yolunda gitmekle birlikte sevdikleriniz sizden hediye bekliyor olabilir. Belki de çok sevdiğiniz insanlardan biri için özel bir gün olabilir."
-      },
-      "taurus": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Sevdiğiniz insanlarla aranızdaki iletişimde sıkıntılar meydana gelebilir. Sakinlik içerisinde bir tarafın alttan alması gerekiyor. Bu olgunluğu göstermekte sizlere düşüyor. Gergin zamanlarda ortamı yönetebilecek kadar kararlı ve olgun duruşunuz her şeyi rayına sokabilir. Sağlığınız adına da kendinize yeni bir beslenme tarzı oluşturmanız muhtemel görünüyor."
-      },
-      "gemini": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "İçinizdeki cevher parlayacağı günü seçmiş bile. O da bugün. Fırsatları tam zamanında değerlendiriyorsunuz. Sıkıntılı sürecin bittiği anlamına gelmese de bu durum biteceğinin müjdesidir. Aklınıza birçok parlak fikir gelebilir. Ne olur unutmadan onları bir yere not etmeyi unutmayın. Sonraki zamanlarda işinize yaracaktır."
-      },
-      "cancer": {
-        "love": 1,
-        "health": 0.9,
-        "money": 1,
-        "content": "Aradığınız aile saadeti mükemmel bir uyum içinde gerçekleşiyor. Sevdiğiniz insanlarla geçirdiğiniz bu vakitler fikir paylaşımlarıyla zirveye çıkabilir. Ortak bir karar ile ortak işlere girme ihtimaliniz var. Bu süreç size inanılmaz bir bolluk bereketlilik dönemi ile geri dönüş sağlıyor. "
-      },
-      "leo": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Seçim zamanı yaklaşıyor. Aceleci davranmanın gereği yok. Hayatınızda radikal kararlar almanın bir adım gerisindesiniz. Her şeyi enine boyuna iyice düşünmek gerekiyor. Biraz cesarete ihtiyacınız var. Kariyer noktasında olumlu haberler almanız ise pek olası. Bundan sonra sadece yukarıya gidiyor merdivenler. "
-      },
-      "virgo": {
-        "love": 0.4,
-        "health": 0.6,
-        "money": 0.8,
-        "content": "Ailenizden bir üye ya da sevdiğiniz yakın bir dostunuz sizi üzecek davranışlarda bulunabilir. Sizin hayatınızda olan bitenden haberdar bile değillerken, sizden sürekli ilgi beklemeleri sabrınızı zorluyor. Burada önceliği sağlığınıza vermeniz size fayda getirir. Kaygı ve stres zamanı değil zaman, ne kaldı 2024’e. Alın kalemlerinizi elinize haydi plan program yapmaya."
-      },
-      "libra": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Denge unsuru sizlerin dengenizi bozmaya yemin etmiş insanlar etrafınızda durduğu müddetçe dilediğiniz değişimi gerçekleştiremeyebilirsiniz. Cesur olup cesur adımlar atmak gerekiyor. Mutluluğun size koşarak gelmesi gerekirken, geriye çekilmeniz mutluluğu geciktirebilir. Her zaman ileriye, en zor anlarınızda bile çabadan taviz vermedikçe dileklerinize de ulaşmanızın önünde hiçbir engel kalmıyor."
-      },
-      "scorpio": {
-        "love": 0.6,
-        "health": 0.9,
-        "money": 0.5,
-        "content": "Hedeflerinize hemen ulaşmak istemeniz aksiliklere davetiye çıkarabilir. Sabırsız hissetseniz de o sabrı göstermenizin faydaları muhakkak çok olacaktır. Sevdiğiniz çoğu insana zaman ayırmakta da zorlanabilirsiniz. İşte burada devreye işin fedakârlık boyutu giriyor. Zamanı etkin kullanmak ve başarıya ulaşmak derken sevdikleriniz için sürpriz yapma sırası sizde."
-      },
-      "sagittarius": {
-        "love": 0.5,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Ne kadar çabalasanız da hak ettiğiniz karşılığı alamıyor olabilirsiniz. Hem insanlarla olan ilişkileriniz de hem de kariyer-eğitim gibi noktalarda. Bunun sebebi dikkat dağınıklığı olabilir. Geçmişin olumsuz enerjilerine zihninizde fazla yer ayırıyor olabilirsiniz. Bakın yeni yıl geliyor, her yeni gün yeni mucize. Biraz da bugünlere odaklanmak gerekmez mi?"
-      },
-      "capricorn": {
-        "love": 0.5,
-        "health": 0.8,
-        "money": 0.5,
-        "content": "Finansal açıdan bazı sıkıntılar yaşansa da geçici bir süreç. Biraz lüks ve konfor isterken ödeme güçlüğü çekebilirsiniz bir süre. Ama ihtiyaçların giderilmiş olması sağlığınıza, psikolojinize yaradığı için genel anlamda huzurlu bir gün geçireceksiniz diyebiliriz."
-      },
-      "aquarius": {
-        "love": 0.4,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "İletişimlerinizde karşılıklı sevgi ve saygıyı istemeniz oldukça makul görünüyor. Gününüz genel anlamda iyi ve rahat geçse de dengenin olmadığı iletişimler sizde bıkkınlık hissi oluşturabilir. Çabalamak yeterince yorucu olmuş. Biraz da karşı taraftan çaba görme isteğiniz ise hat safhada. Etkili ve açık bir iletişim bu isteğinizi yerine getirebilir."
-      },
-      "pisces": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Günün en şanslı burcu olarak sezgilerinize kulak verebilirsiniz. Atacağınız her adım bereket olarak geri dönebilir. Gönlünüzden geçen dilekler adım adım gerçekleşebilir. Kim neyi arıyorsa ona ulaştığı bir gün diyebiliriz özetle. Sağlığınızdaki pozitif dalgalanma enerjileri ise size ani seyahat kararları aldırabilir."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2023-12-30",
       "2023-12-30"
     ],
@@ -156,6 +76,86 @@
         "health": 0.9,
         "money": 0.9,
         "content": "Merhametli yanınızı bir köşeye bırakıp, sert ve mantıklı yanınızla yol alıyorsunuz bugün. Gün içinde yapacağınız ufak tefek değişimler, ilerleyen zamanlarda sizin için olumlu açıdan büyük sonuçlar getirebilir. Ayrıca bakış açınızdaki değişimle birlikte geçmiş olayları yeniden değerlendirmek isteyebilirsiniz."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2023-12-31",
+      "2023-12-31"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Küslükleriniz varsa barışma ile sonlanıyor, hayatınızda biri yoksa yeni yıla girmeden önce o filizlenme başlayabilir. Alacağınız yeni kararların size mutluluk getirmesi çok muhtemel. Sevgi diliyle konuşuyorsunuz ve çevrenizden de sevgi görüyorsunuz. İyi duygularla kuşatılmış dört bir yanınız, yüzünüzden tebessüm eksik olmuyor adeta. \n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Koç'lar!"
+      },
+      "taurus": {
+        "love": 0.8,
+        "health": 0.9,
+        "money": 0.7,
+        "content": "Sırtınıza yüklenen sorumluluklar bugün dahi biraz olsun azalmıyor. Güçlü duruşunuz ile her sorunla başa çıksanız bile siz de bugünü dilediğiniz gibi geçirme hakkına sahipsiniz. Özel hissetmeye hakkınız var. Değer verdiğiniz insanlar elbette önceliğiniz; ama ilk sırada her zaman kendiniz olduğunuzu unutmayın. Gün içinde karşınıza çıkan sosyalleşme tekliflerine sıcak bakabilirsiniz.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Boğa'lar!"
+      },
+      "gemini": {
+        "love": 0.8,
+        "health": 0.5,
+        "money": 0.8,
+        "content": "Yetiştiremediğiniz planlardan dolayı kendinizi telaşlı hissedebilirsiniz. Sağlığınızı ön plana alarak, vaktinizi kendinize ayırarak bu durumu lehinize çevirebilirsiniz. Sonuçta herkese yetişemezsiniz. İletişim içinde bulunduğunuz herkese yetişmek zahmetli olabilir zira. Ayrıca sizi iyi hissettirecek bir haber almanız çok olası duruyor.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar İkizler!"
+      },
+      "cancer": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Küsenler barışıyor, özel hayatlarında ciddi bir hamle görmek isteyenler buna şahit oluyor. Sevdiklerinizle geçiyor vaktinizin çoğu. Yüzler mutlu, gönüller mutlu. Her şey dilediğiniz gibi mükemmel bir şekilde işliyor adeta. Neyi nasıl planladıysanız aynen o şekilde oluyor diyebiliriz. Ayrıca hediyelere boğulabilirsiniz.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Yengeç'ler!"
+      },
+      "leo": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Gönlünüzden geçen ile yaşadığınız gerçekler arasındaki tezatı adaletsiz bulabilirsiniz. Unutmayın ki hayatınıza eşlik etmek isteyenler dağı taşı aşar yine yanınıza varır. Her şerde bir hayır vardır. Sahip olduklarınıza odaklanın. Ailenize, çevrenize, sevdiklerinize, dostlarınıza... Ayrıca iyi haberler ummadığınız anda gelebilir. Siz günü yaşarken, ansızın sürprizlerle karşılaşabilirsiniz.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Aslan'lar!"
+      },
+      "virgo": {
+        "love": 0.6,
+        "health": 0.6,
+        "money": 0.6,
+        "content": "Saldım çayıra Mevla'm kayıra derler. Elinizden geleni aslında çoktan yaptınız. Artık yapılabilecek bir şey olmadığı için de kaderinize teslim olma hissini yaşayabilirsiniz. Bu durumda düşüncelerinizin enerjisi de sizi etkileyebilir. Olumlu ve yüksek enerji hali her şeyi güzelleştirebilir. Belirsiz durumlar iyi ya da kötü netleşebilir ve size ait olan her zaman sizindir.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Başak'lar!"
+      },
+      "libra": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Aşk ve sevgi enerjiniz o kadar yüksek ki 2024 yılının tamamına yetebilir adeta. Dilekleriniz çok içten ve masum. Sağlık olsun para olsun her ne istiyorsanız ona sahip olabilirsiniz. Dilek kapınız açık. Siz isteyin ve gerçekleşsin gibi bir durum var. Sizi seven birçok insan günü sizinle geçirmek için yarışa girebilir haberiniz olsun.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Terazi'ler!"
+      },
+      "scorpio": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Son zamanlarda yaşadığınız uyku sorunları geçebilir. Daha sağlıklı ve huzurlu hissedebilirsiniz bugün. Yeni yıla güzel bir enerjiyle girmeyi istemenizden dolayı da size sıkıntı vereni geride bırakmaya hazırsınız. Siz içinizi ferah tutun, size sürpriz yapan birçok kişi olacak gibi görünüyor. Keyifli geçecek bir gün bekliyor sizi.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Akrep'ler!"
+      },
+      "sagittarius": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Terazi burçları gibi siz sevgili Yay burçlarının da dilek kapısı sonuna kadar açık görünüyor. Dileyin ne dilerseniz. Kimi hemen kimi bir süre sonra elbet gerçekleşecektir. Dikkat etmeniz gereken tek şey; dilekleriniz, sevgi ve masumiyet içermeli. Küslükler varsa bitirebilirsiniz. Sevdiğiniz insanlar önceliğiniz. Günü onlara ayırarak geçirme ihtimaliniz yüksek.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Yay'lar!"
+      },
+      "capricorn": {
+        "love": 0.5,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Kalbiniz kırılmış ve yeni yıl geliyor olsa bile kırgınlığınızın şiddeti o kadar büyük ki affedici yanınızı uçak moduna almış olabilirsiniz. Belki de bu işte de bir hayır vardır. Yeni yıl yeni müjdelerle geliyor zira. Aklınızda bulunsun, bir şeyler bitmeden yenisi başlamazmış. Siz yeni enerjisine açıksınız. Hadi bakalım!\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Oğlak'lar!"
+      },
+      "aquarius": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Herkesle uyum içinde dengeyi gözeterek mükemmel anlar yaşayabilirsiniz. Siz işi çözmüşsünüz. Hem kendinizi neyin mutlu ettiğini biliyorsunuz hem de sevdiğiniz insanları neyin mutlu edeceğini. Aşk, sevgi, sağlık, para namına her şeyn enerjisi çok yüksek. Güzel olana açtığınız kucak sizi ileriye taşıyor. Mutluluğunuz daim olsun.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Kova'lar!"
+      },
+      "pisces": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Aileniz ve sevdiklerinizle bir konuda anlaşmakta zorlanabilirsiniz. Siz zamanınızı farklı bir şekilde değerlendirmek istiyorsunuz; ama çoğunluğa ayak uydurmak adına içinize sinmeyen davetlere evet diyebilirsiniz. Yaratıcı hayal gücünüzü kullanarak buna bir çözüm bulabilirsiniz. Siz de o güç var çünkü. Belki de her iki taraf da orta bir yol bulabilir.\n\nYıldız Rehberi olarak 2024 yılının değerli okuyucularımıza sağlık, mutluluk, başarı ve nicesini getirmesini dileriz. İyi yıllar Balık'lar!"
       }
     }
   },
