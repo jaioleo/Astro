@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-01-04",
-      "2024-01-04"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Kararsız kaldığınız bazı durumlardan çıkmak adına günü fazlasıyla düşünerek geçirmek yerine zevk aldığınız hobilerinize vakit ayırarak geçirebilirsiniz. Ne istediğiniz değil ne hissettiğinizin önemini kavramanızı sağlayacak bu etkinliklerle kararlarınıza yön vermek daha kolay bir hale gelebilir."
-      },
-      "taurus": {
-        "love": 0.4,
-        "health": 0.9,
-        "money": 0.6,
-        "content": "İkili iletişimlerinizde karşı tarafın sizi anlamamak için direndiğini fark edebilirsiniz. Eğer böyle bir durum varsa kendinizi anlatmak adına daha fazla bir çaba içine girmek sizi yıpratabilir. Zira anlaşmak isteyen sizi anlamak adına gayret edecektir, gayreti sizden beklemez bu insanlar. Tanıdığımız herkes sonsuza kadar bize eşlik etmeyecek, kimi ineceğe durağa geldiğinde kendisini belli edecektir."
-      },
-      "gemini": {
-        "love": 0.5,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Gitmek mi kalmak mı? Devam mı tamam mı? Tam karar aşamasına geliyorsunuz ve fikrinizi değiştirecek bir olay çıkıyor ortaya. Bugün buna benzer ikilimlere fazlasıyla düşebilirsiniz. Sezgileriniz ise size yön gösterecektir. Nerede mutlu hissediyorsanız oraya aitsiniz, zamanı nerede ve nasıl geçirmek istediğiniz sizin elinizde."
-      },
-      "cancer": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Edindiğiniz yeni bakış açılarıyla beraber hayatınızı daha iyi bir hale getirmeye başlamışsınız bile. Kendinizde ve hayatınızda yaptığınız küçük değişiklik ve yenilikler ile hem zihniniz rahatlamış hem de bu durum sağlığınıza ve iletişimde olduğunuz insanlara olumlu yansımış olabilir. Sizde parıldama görüyor insanlar, birçok kişiden iltifat alabilirsiniz."
-      },
-      "leo": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.8,
-        "content": "İçinizi derinden sarsan hüzün duygularıyla baş etmek bugün daha zorlayıcı bir hal alabilir. Acı gerçeklerle yüzleşme günü diyebiliriz. Bugün daha güçlü bir insan olarak yola devam edecek olmanız ise artı tarafı işin. Size karşı anlayışsız davranan insanları bir çırpıda silebilirsiniz hayatınızdan. Kimse için fazladan efor sarf etmek istemediğiniz anlar yaşamanız muhtemel. Bu süreç içerisinde kendinize bakmayı ihmal etmeyerek bir sonraki güne daha zinde başlayabilirsiniz."
-      },
-      "virgo": {
-        "love": 0.5,
-        "health": 0.7,
-        "money": 0.6,
-        "content": "Hayal ettiğiniz hayat ile yaşadıklarınız arasındaki tutarsızlık canınızı iyice sıkmaya başlayabilir. Peki nasıl değişecek bu durum? Başkasını ya da şartları değiştirebilir miyiz? Kendinizde başlatacağınız değişim ile her şeyin hayalinizdeki gibi olmasını sağlayabilirsiniz. Bugün kendinizde bu gücü bulacağınız bir gün."
-      },
-      "libra": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Enerjiniz bir düşüyor bir yükseliyor. Sebebi sizinle değil çevrenizle ilgili. Kimi insanlar ortamdaki varlığıyla bile enerjiyi düşürür ya da yükseltir. Bunun anlamı bugün karşınıza hem vakit geçirmekten keyif aldığınız insanlar çıkacak hem de gitse de rahatlasam diyeceğiniz insanlar olacak. Şunu demeliyim ki enerjinizi düşüren insanları ortamınıza en başta sokmamak da sizin elinizde unutmayın."
-      },
-      "scorpio": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Bugün alacağınız müjdeli haberlerin sayısı epey fazla görünüyor. Sevdiğiniz ortamlarda, sevdiğiniz insanlarla kutlamalar yapmanız da olası duruyor. Özel hayatınızda ise ciddi bir adım atmanın arifesine geldiğinizi söyleyebilirim. Para ve kazanç noktasında da ayrı bir şans hakim."
-      },
-      "sagittarius": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.4,
-        "content": "Birikimlerinizi yanlış yerlere ve yanlış insanlara harcayarak bütçenizde açık oluşturabilirsiniz. Para gibi aynısını zaman konusunda yapmanız da mümkün. Zaman her şeyden daha değerlidir ve zamanınızı yanlış yerlerde değerlendirme ihtimaliniz kuvvetli görünmekte. Hayatın bu karmaşasında koştururken bazen durmalı ve derin bir nefes alıp bana ne lazım diye sormalı. Kısacası başkalarının değil sizin ne istediğiniz önemli, bunu görmenin zamanı gelmiş."
-      },
-      "capricorn": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Zafer sizinle. Çabaladığınız bir ödev, belki proje ya da herhangi bir iş ile ilgili olumlu haberler duyacağınız ve başardım diyeceğiniz bir gün. Sadık dostlarınızla bu güzel haberi kutlayabilirsiniz. Zamanı dolu dolu geçirerek günü kendiniz için özel kılacak özel hayatınızla ilgili bazı güzel adımlar da atabilirsiniz."
-      },
-      "aquarius": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Havada aşk kokusu var. Romantizm dorukta. Elinize aldığınız her işi aşkla yapabilirsiniz. Emeğinizin geçtiği her şeye sevginizi katabilirsiniz. Sanki kanatlarınız çıkmış gibi havalarda da gezinme ihtimaliniz olduğu için, yine de gerçeklerden bu kadar kopmamanız yerinde olacaktır."
-      },
-      "pisces": {
-        "love": 0.5,
-        "health": 1,
-        "money": 0.5,
-        "content": "Çaresiz olduğunuzu düşündüğünüz bazı durumlar yaşamanız olası görünüyor ve bu durumlardan çıkmak adına birilerinin size yardıma gelmesini beklemeniz işleri içinden çıkılmaz bir hale sürükleyebilir. Elinizi taşın altına koymanın zamanı geldi. Sorumluluğu üzerinize alarak yapacağınız hamlelerin ne kadar da işe yaradığını görünce emin olun şaşıracaksınız."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-01-05",
       "2024-01-05"
     ],
@@ -156,6 +76,86 @@
         "health": 0.8,
         "money": 0.8,
         "content": "Hayatınızın mimarı sizsiniz. Her şeyi de istediğiniz gibi yapıyor ve başarı da elde ediyorsunuz. Fakat zaman yönetiminde sıkıntılar yaşayabilirsiniz. Bazen bazı şeyleri feda etmek duygusal olarak sizi yaralayabilir. Her şeye ve herkese yetişmek mümkün değil elbette. Ama önem verdiğiniz konuları listenizin yukarısına taşımak tamamen sizin elinizde. "
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-01-06",
+      "2024-01-06"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Hayatınıza yenilikler katacağınız bir gün. Belki yeni bir hobi belki yeni bir insan. Rutin anlarınız renklenmeye başlıyor diyebiliriz. Sertab Erener'in Kendime Yeni Bir Ben Lazım şarkısı sizlere gelsin.\n"
+      },
+      "taurus": {
+        "love": 0.5,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "İçsel sıkıntılarınızı, dertlerinizi kimseyle paylaşamıyor gibi bir durumunuz var. İçinizde birikip taşan duygu ve düşünceleriniz yönünüzü kaybetmenize neden olabilir. Gün düşünceli geçecek gibi görünüyor. Sizler için günün şarkısı: Candan Erçetin -Gamsız Hayat"
+      },
+      "gemini": {
+        "love": 0.3,
+        "health": 0.6,
+        "money": 0.6,
+        "content": "Her şeye yetişirken kendinizi aksatabilirsiniz. Mutlu olmaya ve sosyalleşmeye ihtiyacınız var. İçinize kapanmak deva olmaz. Duygularınızı açığa vurmakta zorlanıyorsanız, belki de odağınızı size fayda getirecek işlere verebilirsiniz. Sizler için günün şarkısı: Ajda Pekkan - Can Gidiyor"
+      },
+      "cancer": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Ev ve aileye ayırdığınız vakitlerinizden memnun olsanız da yeterince övgü alamıyor olabilirsiniz. Bazı şeyler sanki sizin için bir görev edasıyla yapılmaya başlanmış. Bu da temelinde mutsuzluk getirebilir. Günün şarkısı: Ajda Pekkan - Sana ne, kime ne?"
+      },
+      "leo": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Çabalayarak elde ettiklerinizi başkaları hunharca harcamak isteyebilir. Mücadele zamanı sizler için. Kararlılığınız ve direnciniz sayesinde kimse size zarar veremese de mücadele sizi yorgun düşürebilir. Sizler için günün şarkısı: Kenan Doğulu - Rütbeni Bileceksin"
+      },
+      "virgo": {
+        "love": 0.5,
+        "health": 0.8,
+        "money": 0.5,
+        "content": "Mali açıdan zorlanacağınız anlar yaşayabilirsiniz. Siz bütçenize uygun hareket ederek aslında her şeyi planlamış olabilirsiniz. Para ise size değil çevrenizdekilere lazım. Vicdanınıza girmeyi başarırlarsa onlar rahatlarken siz maddi anlamda zorda kalabilirsiniz. O zaman Rüçhan Çamay'dan Para Para Para şarkısı sizlere gelsin."
+      },
+      "libra": {
+        "love": 0.5,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Üzerinizde tamamlanmamış işlerin verdiği olumsuz enerji olabilir. Bu enerjiyle beraber sinirli insanları kendinize çekebilirsiniz. Halbuki günü tatlı ve huzurlu geçirmek istiyorsunuz. O zaman Sertab Erener'den Sakin Ol şarkısı sizler için gelsin."
+      },
+      "scorpio": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Attığınız her adım yolunda gidiyor. Etrafınıza pozitif enerjinizi saçıyorsunuz. Herkes mutlu siz mutlusunuz. Sevdikçe her şey daha güzel bir hale gelmeye başlıyor. Sizler için günün şarkısı da: Şenay- Sev Kardeşim"
+      },
+      "sagittarius": {
+        "love": 0.6,
+        "health": 0.5,
+        "money": 0.7,
+        "content": "Önceliği sağlığınıza vermeniz gerekebilir. Soğuk algınlığı gibi hastalıklara karşı tedbirlerinizi almayı unutmayın. Ayrıca stresli durumlardan kaçınmak adına kendinizi oyalayacak planlar yapabilirsiniz. Sizler için günün şarkısı: Neşet Ertaş - Şu Garip Halimden"
+      },
+      "capricorn": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Başkaları için sorumluluk almak zorunda bırakılabilirsiniz. Ancak unutmayın ki bu seçimi siz yapacaksınız. Hayır diyebilirsiniz. Zira önceliklerinizi kendinize vermeniz gereken bir dönemdesiniz. Sizler için günün şarkısı: Hadise - Sıfır Tolerans"
+      },
+      "aquarius": {
+        "love": 0.5,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Kendinize bir amaç belirlemeniz gerekiyor. Hafta sonlarınız zamanınızı başkalarına harcayarak geçiyor olabilir. Ama siz ilerlemek istiyorsunuz. Vakti dolu dolu geçirme isteğiniz bu kadar kuvvetliyse adım atmanın zamanı gelmiştir. Sizler için günün şarkısı: Sertab Erener - Aldırma Deli Gönlüm"
+      },
+      "pisces": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Bahtınız ve şansınız çok açık. Sabrettiniz ve şimdi para sizde, aşk sizde, sağlık sizde. Her şey dört dörtlük gidiyor gibi görünüyor. Özellikle de gün içinde sevdiklerinizle ortak planlar yaparak çeşitli etkinliklere katılabilir ve ortamı kahkahalarınızla güzelleştirebilirsiniz. Günün şarkısı: Aydilge- Hayat Şaşırtır!"
       }
     }
   },
