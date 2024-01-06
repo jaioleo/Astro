@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-01-05",
-      "2024-01-05"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Aklınızda ev ya da araba almak gibi bir plan varsa bugün devreye sokacağınız bir gün. Karşınıza bununla ilgili fırsatlar çıkabilir ya da ailenizin biraz daha genişleyeceği güzel haberler alabilirsiniz, evlilik yahut bebek müjdesi gibi. Tasasına düşeceğiniz hiçbir mesele görünmüyor, gün sizin, günü keyifle değerlendirmek de sizin elinizde."
-      },
-      "taurus": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.9,
-        "content": "Gezip görmek istediğiniz yerlerle ilgili nihai planları bugün yapabilirsiniz. Yanınıza sevdiğiniz insanların eşlik etmesini istediğiniz için planlarınızı onların müsait olma durumunu da göz önüne alarak yapmanızda fayda var. Ufkunuzu açacak ilginç bilgilerle günü geçirmeniz söz konusu ayrıca."
-      },
-      "gemini": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.6,
-        "content": "Engeller yolunuzu kapatıyorsa, bu evrenin bir mesajı olabilir. Kendinizi kimseye ispat etmek zorunda değilsiniz. Yolunuz kapandıysa başka bir yol seçerek devam etmeniz size hem zaman kazandıracak hem de acı yükünüzü hafifletecektir. Unutmayın ki kimse bulunmaz Hint kumaşı değil. Yolunuza eşlik etmek isteyen insanlar size köstek olmaz, destek olur. Bazen en doğru yol kolay olandır. Zor olan doğru diye bir şey yok."
-      },
-      "cancer": {
-        "love": 0.5,
-        "health": 1,
-        "money": 0.5,
-        "content": "İkilemler arasında bocalarken, kararsız kalmanızdaki en büyük faktör çevrenizdeki insanlar olabilir. Herkes her şeyin en iyisini bildiği için yaptığınız en ufak işlere bile karışıyor olabilirler. Hayatınıza, davranışlarınıza, sözlerinize, eylemlerinize kimse karışamaz. Ancak tavsiye verebilirler. Siz kendi bildiğiniz gibi yola devam ettikçe güzellikler sizinle birlikte yol alacaktır."
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Sevgiyi uzaklarda aramayın. Sevgi her zaman sizinle. Sevdikçe güzelleşir her şey. Sevgi merhemdir kanayan yüreklere. Sevgi acı vermez. Sevgi üzmez. Eğer üzüyorsa sevgiyi yanlış yerlerde aradığınız anlamına gelir. Bugün ise sizi bekleyen de tam olarak bu aydınlanma. Ne demiş Şems; sevmeyene karınca yük, sevene filler karınca, dağı bile taşır insan, aşık olup inanınca. "
-      },
-      "virgo": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Hayat yolunda ilerlemek adına başarılı olacağınız faaliyetlerde yer alma isteğinizin önünde küçük bir engel olabilir. O da konfor alanınızda bulunmaya devam etmeniz. Bazen daha iyisi için yolculuğa çıkmak gerekir. Önünüzde sizi bekleyen bir karar aşaması var. Hayallerinize giden yolda bilinmeyene açılan maceraya mı çıkacaksınız yoksa bu kadarı bana yeter mi diyeceksiniz?"
-      },
-      "libra": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Eğer küslük yaşadığınız insanlar varsa bugün barışmak ve arayı düzeltmek adına muhteşem bir gün. Gurur yapmadan, karşılıklı bir anlayış eşliğinde, etkili bir iletişim diliyle her şey çözüme kavuşacaktır. Ayrıca kendinize şöyle bir soru yöneltebilirsiniz. Benim beklentim nedir? Bu sorunun cevabı size sürpriz kapılar açabilir."
-      },
-      "scorpio": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Aileniz içerisinde belki anneniz ya da teyzeniz ya da yaşça sizden büyük bir ablanızın tavsiyelerine kulak kabartmanız size şans kapılarını aralayabilir. Sezgileri çok kuvvetli olan bu insanın tavsiyeleriyle hayatınızın şansını yakalayabilirsiniz. Fırsatlar ben fırsatım diye çıkmaz insanın karşısına. Bazen bir tavsiye sonucu adım atmayı gerektirir o kadar."
-      },
-      "sagittarius": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Bugün aynı Aslan burçları gibi sevgiyi arıyorsunuz. Onlarla aranızda ise küçük bir fark var. Onlar buna zaten sahipler. Sizin ise onlardan tek bir şeyi farklı yapmanız gerekiyor. Harekete geçmek... Yay'lar hareket halinde kalarak mutluluğu bulmaya daha çok müsait. Açıkçası şans sizinle. Attığınız her adım size olumlu olarak geri dönecek. Gerek aşk, gerek iş, gerek diğer her konuda. Lao Tzu der ki; binlerce kilometrelik bir yolculuk bile tek bir adımla başlar."
-      },
-      "capricorn": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Güçlü kalmak zorunda hissettiğiniz durumlar mevcut. Güçsüz hissetseniz bile kimseye bunu göstermekten yana değilsiniz. Halbuki dostlarınız size destek olabilmek adına çabalıyor. Fakat neye ihtiyacınız olduğunu bir türlü anlayamıyor olabilirler. Hayatınızı yönetmek ve koordine etmek için fazla düşünüyorsunuz ve arada kendinizi neşelendirecek etkinlik fırsatlarını kaçırıyor olabilirsiniz."
-      },
-      "aquarius": {
-        "love": 0.3,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Belki çok yakın bir dostunuz belki ailenizden biriyle belki de hayatınızın aşkıyla aranıza mesafe girmiş. Birbirinizi kırmış ya da üzmüş olabilirsiniz. Kalbiniz üzüntüye gelemiyor. Sonradan düzelir kendiliğinden diyerek çabalama gayretine de düştüğünüz söylenemez. Bazen zamana bırakmak iyi gelse de bazen sorumluluk almak gerekir. Ne kendinizi ne karşı tarafı üzüntü içinde bırakmayacak yollar elbette vardır."
-      },
-      "pisces": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Hayatınızın mimarı sizsiniz. Her şeyi de istediğiniz gibi yapıyor ve başarı da elde ediyorsunuz. Fakat zaman yönetiminde sıkıntılar yaşayabilirsiniz. Bazen bazı şeyleri feda etmek duygusal olarak sizi yaralayabilir. Her şeye ve herkese yetişmek mümkün değil elbette. Ama önem verdiğiniz konuları listenizin yukarısına taşımak tamamen sizin elinizde. "
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-01-06",
       "2024-01-06"
     ],
@@ -156,6 +76,86 @@
         "health": 1,
         "money": 1,
         "content": "Bahtınız ve şansınız çok açık. Sabrettiniz ve şimdi para sizde, aşk sizde, sağlık sizde. Her şey dört dörtlük gidiyor gibi görünüyor. Özellikle de gün içinde sevdiklerinizle ortak planlar yaparak çeşitli etkinliklere katılabilir ve ortamı kahkahalarınızla güzelleştirebilirsiniz. Günün şarkısı: Aydilge- Hayat Şaşırtır!"
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-01-07",
+      "2024-01-07"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Çok değer verdiğiniz bir eşyayı kaybedebilirsiniz, zira dikkat eksikliği yaşamanız muhtemel görünüyor. Negatif enerji etrafınızı sardığından çevrenizdeki insanlarla da tartışmalara girme olasılığınız var. Kötü sonuçlardan kaçınmak adına kendinizi iyi hissettiğiniz aktivitelere katılım göstermeniz sizlere fayda sağlayabilir."
+      },
+      "taurus": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Sizi zayıf anınızda yakalamak isteyen düşmanlarınıza karşı tetikte olmakta fayda var. İyi niyetiniz gün içinde suistimal edilebilir; fakat en azından maddi açıdan güzel haberler alıyorsunuz ve bu tüm sıkıntılı durumları unutturuyor. Yediğiniz içtiğiniz gıdalara da dikkat etmenizde fayda var. Midenizde şu sıralar hassas durumlar olabilir."
+      },
+      "gemini": {
+        "love": 0.4,
+        "health": 0.8,
+        "money": 0.6,
+        "content": "İşleri yarım bırakmak hoşunuza gitmemesine rağmen yarım bırakmak zorunda kalabilirsiniz. Çözmeniz gereken aile içi meseleler var ve bunları ertelemek mümkün değil. Zihniniz çok karmaşık, düşüncelerinizin ağırlığı sağlığınıza da olumsuz yansıyabilir. Gitmek istediğiniz bir yere de gidemeyişinizle birlikte bu düşünceler daha yoğunlaşabilir. Yine de unutmayın ki her şerde bir hayır vardır."
+      },
+      "cancer": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Karşılıklı aşk ve heyecan duygularının sizi tamamen sardığı romantizm dolu dakikalar sizi bekliyor olabilir. Ayrıca sorumluluklarınıza verdiğiniz önem her ne kadar harika olsa da zaman yönetimi konusunda sıkıntılar yaşayabilirsiniz. Bazı işlerin gecikmesi sizi endişelendirmez ise ortada sorun da yok demektir."
+      },
+      "leo": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Aşk ile ilgili güzel haberler bekliyor. İlişkisi olmayanları romantik bir partner beklerken, ilişkisi olanları ise bol sürprizler bekliyor. Sevgi ve tutku şiddetli bir şekilde kendisini gösterirken, iç huzurunuz artıyor. Size şifa verecek mutluluk enerjileriyle dolup taşabilirsiniz. "
+      },
+      "virgo": {
+        "love": 0.3,
+        "health": 0.8,
+        "money": 0.6,
+        "content": "İkili ilişkilerinizde üçüncü kişilerin müdahaleleri yüzünden sorunlar yaşamanız muhtemel. Yapacağınız stres sağlığınıza olumsuz etki gösterebileceğinden dolayı üçüncü kişileri sohbetlerinize dahil etmemeye çalışabilirsiniz. Hüzün ve acı gibi duygular gelip geçicidir unutmayın, gün içinde içinizde burukluk hakim olsa da bugünler geçici, zaman ise her şeyin ilacı olacaktır."
+      },
+      "libra": {
+        "love": 0.6,
+        "health": 0.6,
+        "money": 0.6,
+        "content": "Başarısızlıkla suçlanabilirsiniz. Hem de bunu en yakınlarınız yapabilir. Halbuki elinizden geleni yapıyorsunuz, iç dünyanızı kim ne kadar bilebilir ki? Kendinizi rahatlatmak adına şunu düşünebilirsiniz, onlar ne kadar başarılı ki beni başarısız olmakla suçluyorlar? Mücadeleye devam."
+      },
+      "scorpio": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Duygularınızı yönetmekten yorulmuş olabilir ve her şeyi akışına bırakma fikrini düşünmeye başlayabilirsiniz. Ne yaparsanız yapın nafile gibi hissetseniz de attığınız her adımda ayrı bir anlam yatıyor. Sadece gün içinde zaman konusunda sıkıntılar yaşamanız muhtemel olabilir. Gecikmeler, ertelemeler, saatlerce beklemeler... Sakin kalarak böyle şeyler olur diyerek günü huzurunuz bozulmadan geçirebilirsiniz."
+      },
+      "sagittarius": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Kartlar yeniden dağıtılıyor diyebiliriz. Hayat şartlarınızda değiştirmeniz gereken durumların farkındasınız ve harekete geçiyorsunuz. Hayatın her alanında en iyisine kavuşmak adına en iyi kararları vereceğiniz güzel bir gün sizleri bekliyor."
+      },
+      "capricorn": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Yönünüzü kaybetmiş hissedebilirsiniz. Sıkıntılı bir gün geçirme olasılığı var. Aşk hayatınızdaki karmaşa da iki arada bir derede kalmanız ve bu durumu anlatacak birinin olmaması ne yapacağınızı bilememenize sebebiyet vermiş olabilir. Aceleci kararlar almadan sakince beklerseniz, durum belki de kendiliğinden çözülebilir, aklınızda bulunsun."
+      },
+      "aquarius": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Bazı işlerinizi erteleyebilirsiniz. Kendinizi hazır hissettiğinizde başlamanız gereken uğraşlarınız var. Bugün başlamak için iyi bir gün olmayabilir. Dışarıdan birisi yardım eli uzatsa da bütün sorunlar ha diye çözülse diye bekleyebilirsiniz; ama buna gerek yok. Zira sadece sabırlı olup bekleyerek gidişatı kendiniz için en iyisini bulacak şekilde değerlendirebilirsiniz."
+      },
+      "pisces": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Güçlü duruşunuzun altında sağlam bir irade yatıyor. Bugün çok önemli bir program sizleri bekliyor olabilir. Orada insanların arasında adeta parlayacaksınız. İş ve kariyer hayatınızdaki yükselişin verdiği mutlu enerji aşk hayatınıza da yansıyabilir. Yüzünüzden gülümseme eksik olmazken kendinizle gurur duyacak işlere imza attığınız için huzurunuzda gayet yerinde görünüyor. "
       }
     }
   },
