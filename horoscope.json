@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-01-21",
-      "2024-01-21"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.5,
-        "health": 0.5,
-        "money": 0.5,
-        "content": "Çok önemli bir karar aşamasında olabilirsiniz. Duygularınız ve mantığınız arasında gidip gelerek seçim yapmakta zorlanabilirsiniz. Kendinizi dış dünyaya kapatarak bir çözüm bulmayı hedefliyor olabilirsiniz; fakat kendinizi bu kadar içe kapanık bir hale getirmek sağlığınızda sıkıntılar meydana getirebilir. Çözüm ise sezgilerinizde saklı. İçinizden geldiği gibi hareket etmek size pişmanlık yaşatmayacaktır."
-      },
-      "taurus": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "Çok cesur hissedebileceğiniz bir gün. Duygularınızla değil de mantığınızla hareket etmenin karşılıklarını görebilirsiniz. Stratejik hareket etmeniz ve güçlü duruşunuz saygı uyandırıyor. Bulunduğunuz konumu kullanarak gerçekleştirmek istediğiniz planlarınızı devreye koyabilirsiniz. Zorlu süreçler geride kaldı sizi kolaylıklar bekliyor."
-      },
-      "gemini": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Hedefleriniz ne olursa olsun başarının ilk adımlarını bugün gerçekleştiriyorsunuz. Her şey gönlünüzden geçtiği gibi olabilir. Şans sizinle ve bu şans size mutluluk enerjisi olarak yansıyor. Doğru yer ve doğru zamanda olduğunuz adım attığınız her olayda istediğiniz karşılığı gördüğünüz harika bir gün sizlerle."
-      },
-      "cancer": {
-        "love": 0.4,
-        "health": 0.6,
-        "money": 0.5,
-        "content": "Almayı düşündüğünüz riskleri daha sonrasına erteleyebilirsiniz. Bugün bunun için ideal bir gün değil. Günü dinlenerek ve size huzur getiren etkinliklerle geçirmeniz daha yararlı olacaktır. Dinlenen zihniniz olası riskler için alınması gereken tedbirleri arka planda düşünmeye devam edecektir. Güvenmediğiniz insanlara ise ısrarla size ait olan bilgileri paylaşmayı bırakmanız gerekiyor. Boşuna güvenmiyor değilsiniz onlara nihayetinde."
-      },
-      "leo": {
-        "love": 0.4,
-        "health": 0.8,
-        "money": 0.2,
-        "content": "Bütçenizi kontrol etmekte zorluk yaşayabilirsiniz. Üstelik borca girip daha büyük sıkıntılara girme ihtimaliniz var. Harcamalarınızı daha kontrollü ele almanız fayda getirecektir. Özel hayatınızda, iş ve arkadaşlık ilişkileriniz de ise çabalamadan karşıdan bir şeyler beklemeniz ilişkilerinizde gerginlikler oluşturabilir. Ortak etkinliklerde buluşmak adına ilk adım belki de sizden gelmelidir."
-      },
-      "virgo": {
-        "love": 0.2,
-        "health": 0.5,
-        "money": 0.6,
-        "content": "Zamanlama hatalarından muzdarip olabilirsiniz. Hırs yaparak uzun vadede kazanacaklarınızı kısa vadede almak istemeniz sizi daha büyük zararlara uğratabilir. Adım atmadan önce sonuçlarını iyice analiz etmeniz gerekir. Özel hayatınız kadar iş hayatınızda da bu hataya düşme ihtimaliniz söz konusu. Halbuki hiçbir şeyin acelesi yok. Sabırlı olmanız size kazandırır, acele etme hatasına düşmemekte fayda var."
-      },
-      "libra": {
-        "love": 0.3,
-        "health": 0.6,
-        "money": 0.4,
-        "content": "Yaşadığınız belirsizlikler sebebiyle ne yapmanız gerektiğine dair aklınız karışabilir. İlla birilerinin sizi yönlendirmesini beklemektense en mantıklı olanı yapmak ve zamanı etkili kullanmak fayda sağlayacaktır. Alamadığınız risklerden dolayı ileride keşke demekte var, riski alıp denedim be demek var. Hareket içinde olmak her zaman daha caziptir. Potansiyelinizi ortaya çıkarır."
-      },
-      "scorpio": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 1,
-        "content": "Sabreden derviş muradına ermiş demişler. Sizinki de o hesap. Sabırla beklediniz ve beklediğinizi almanın günü gelmiş. Bugün alacağınız bu karşılıkla beraber gününüz heyecanlı geçebilir. Çabalarınız size bolluk bereket olarak dönmekle kalmıyor, özel hayatınızda da güzel gelişmeler meydana getiriyor."
-      },
-      "sagittarius": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.6,
-        "content": "Öz güveninizi zedeleyici sözler duyabilirsiniz. Bir kez yaşanan başarısızlığı göz önüne alıp hep böyle devam edecek diye düşünmek büyük bir hata olur. Başarı zorluklarla mücadeleden geçer. Mücadeleden vazgeçmeyerek gerçekten isteklerinize ulaşabilirsiniz ya da pes edip içinize kapanabilirsiniz, her şey size bağlı."
-      },
-      "capricorn": {
-        "love": 0.4,
-        "health": 0.3,
-        "money": 0.6,
-        "content": "Tüm enerjiniz sömürülmüş gibi hissedebilirsiniz. Bu tükenmişlik hissinin verdiği son durum. Bundan sonra toparlanma döneminiz başlayacaktır. Bu yüzden gerçekleri kabul edip, hayal dünyasından çıkmanız gerekiyor. Değişimin başlaması için gerçekleri baz almalısınız. Toparlanma sürecinizde tüm odak noktanız kendiniz üzerine olmalı."
-      },
-      "aquarius": {
-        "love": 0.2,
-        "health": 0.6,
-        "money": 0.7,
-        "content": "Çok değer verdiğiniz insanlarla aranızda anlaşmazlıklara bağlı gerilim meydana gelebilir. Durumu büyütürseniz ayrılığa varabilecek kadar kötü bir tartışma yaşayabilirsiniz. Tepkilerinizi kontrol altına almak bu tartışmanın hiç olmaması anlamına gelebilir. Elinizi taşın altına koyup çabalamak sizden bir şey götürmez sonuçta. "
-      },
-      "pisces": {
-        "love": 0.3,
-        "health": 0.7,
-        "money": 0.5,
-        "content": "Acele bir şekilde alınmış kararlar nedeniyle işleriniz aksi gidebilir ve gecikmelere neden olabilir. Maddi açıdan kayıplar vermeniz ikili ilişkilerinizde sizi daha gergin bir hale getirebilir. Yolunda gitmeyen planların işe yaramayacağını fark edip gerçeklere gözlerinizi açmanız gerekiyor. Zamanınızı daha etkin kullanmak adına bunu yapmanız faydalı olacaktır."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-01-22",
       "2024-01-22"
     ],
@@ -156,6 +76,86 @@
         "health": 0.6,
         "money": 0.6,
         "content": "Tüm enerjiniz sömürülmüş gibi hissedebilirsiniz. Bu tükenmişlik hissinin verdiği son durum. Bundan sonra toparlanma döneminiz başlayacaktır. Bu yüzden gerçekleri kabul edip, hayal dünyasından çıkmanız gerekiyor. Değişimin başlaması için gerçekleri baz almalısınız. Toparlanma sürecinizde tüm odak noktanız kendiniz üzerine olmalı.\n\nSizin için rastgele seçilmiş bir alıntı: \nŞu kalsın ki aklınızda: Bir insanın sessizliği en büyük vedadır.\n- Paul Auster"
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-01-23",
+      "2024-01-23"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "İçinizdeki fırtına diniyor. İçinizde kalan ne var ne yoksa söyleyerek rahatlayabilirsiniz. Gerçeklerin dile getirilmesi hem ailevi sorunların çözümünü sağlıyor hem de özel hayatınızda da daha rahat hissetmenize alan tanıyor. Sakin ortam sakin düşünceler size huzuru getirebilir."
+      },
+      "taurus": {
+        "love": 0.8,
+        "health": 0.9,
+        "money": 1,
+        "content": "Müjde yakında biraz daha sabırlı olma zamanı. Henüz zamanı değil; ama çok yakında. Hem özel hayatınızda hem de maddi açıdan yüzünüzü güldürecek gelişmeler size doğru yola çıkmışlar bile. Bu süreçte mutluluk hep sizinle görünüyor."
+      },
+      "gemini": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Eğer hedefinize ulaşmak istiyorsanız, önce donanımlı olmalısınız. Sahip olmanız gerekenlere sahip olduğunuzda o istediğiniz mücadeleye katılmanız kesin bir kazançla sonuçlanacaktır aksi halde mücadele içinde harap olduğunuzla kalırsınız. Şimdi zaman o donanımı nasıl elde edeceğinizi düşünmekle geçebilir."
+      },
+      "cancer": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Her şerde bir hayır vardır. Her kafadan bir ses çıkması ise işleri kötüye sokabilir. Fikirlerinizi söylemekten çekinmeyerek tüm karmaşayı düzeltebilecek o liderliği ele alabilirsiniz. Kendinize yöneltilen eleştirilere ise kulak tıkamaktansa sebebini anlamak sizi ileriye taşıyabilir."
+      },
+      "leo": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Sabrettiniz ve nihayet kâbus sona erdi diyebiliriz. Gerginlik veren meseleler çözüme kavuşuyor. Siz de tünelin ucundaki ışığı görebiliyorsunuz. Çatışmalar sona eriyor, zihninizdeki yaralar iyileşiyor. Olumlu ve güzel gelişmeler yaşayabilirsiniz. "
+      },
+      "virgo": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Radikal değişimlere ihtiyacınız artmış durumda. Yeni hayatınıza girecekse eski çıkmalı. Belki bazı alışkanlıklarınız, belki yaşadığınız mekan, belki kariyer tercihiniz belki hayatınızda bir dönem bulunmuş insan ya da insanlar. Kendinize yeni bir sayfa açacaksınız eskilerin ağırlığından kurtulmak gerekebilir."
+      },
+      "libra": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.5,
+        "content": "İçinizdeki potansiyeli keşfetme zamanı. Farklı fikirlere ihtiyaç duyabilirsiniz. Aynı kişiler aynı ortam ve aynı konular farklı fikirlerden sizi uzak tutan bir tuzak adeta. Finansal açıdan karşınıza çıkan fırsatlar içinse bu farklı fikirlere ihtiyacınız görünüyor."
+      },
+      "scorpio": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Şans kapıyı çalıyor. Önemli bir karar verme aşamasındasınız. Şansınızın etkisiyle kendinize en iyi gelecek rotayı seçeceğinize hiç şüphe yok. Geleceğinizi şekillendireceğiniz bir noktadasınız. Uyum sağlama konusundaki yeteneğinizin etkisiyle gelecek size müjdeler hazırlıyor."
+      },
+      "sagittarius": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Elinizdeki tüm kozlar tükenmiş olabilir. Yanlış yerlerde çözümü aramak  ya da inkâr içinde olmak kararsızlık yaşamanıza sebebiyet vereceğinden bir an önce farklı bakış açılarına kendiniz açmanız gerekebilir. Unutmayın ki aynı şeyleri yapmak aynı sonuçları doğurur."
+      },
+      "capricorn": {
+        "love": 0.7,
+        "health": 0.9,
+        "money": 0.7,
+        "content": "Çıkmaz bir sokağa girildiğinde yapılması gereken tek bir şey vardır. Geri dönmek. O yoldan vazgeçmek. Bu tamamen bir pes etme durumu değil. Demek ki farklı bir yoldan ilerlemeniz gerekiyor. Kısacası bugün alternatifleri değerlendireceğiniz bir gün olacak gibi görünüyor."
+      },
+      "aquarius": {
+        "love": 0.6,
+        "health": 0.6,
+        "money": 0.6,
+        "content": "İstemek yetmez adım atmak da gerekir. Elinizden geleni yapmadığınız için kendinizi başarısız görmeyin. Çabalayınca başarıya ulaşan bir insansınız. Bugün sizin çabalamanız adına sizi motive edecek olaylar karşınıza çıkabilir. Bu fırsatları reddetmek için acele etmeyin ve bir şans vermeyi deneyin derim."
+      },
+      "pisces": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.9,
+        "content": "Pozitif ortam ve pozitif insanlar size iyi geliyor. Size olumlu faydası olan yerlere daha çok vakit ayırdıkça size de bir parıltı geliyor adeta. Sizi rahatsız edenlerle vedalaşarak kendinize bu ortamı kalıcı hale getirebilirsiniz. Bu adeta kendinizi her açıdan şifaya davet etmek demektir."
       }
     }
   },
