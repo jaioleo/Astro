@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-01-28",
-      "2024-01-28"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.5,
-        "health": 0.5,
-        "money": 0.5,
-        "content": "Sözlerinde durmayan insanlar, yalanlarla kandıranlar, kandırıp bir de suçu size atanlar... Etrafınızdaki insanlardan biraz uzaklaşıp belki de günü kendinize ayırmanız gerekiyordur. Doğrulardan şaşmayan sizsiniz. Hak ettiğiniz de doğrular. Dolayısıyla size eşlik eden etsin, etmeyenin arkasından çaba harcamak zaman kaybı.\n\nSizler için rastgele seçilmiş günün şarkısı: Candan Erçetin-(Bahar)"
-      },
-      "taurus": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.6,
-        "content": "Gerçeklerden kaçınarak hayal dünyanıza sığınabilirsiniz. Kimileri kibirli olduğunuzu iddia etse de siz hayat şartlarınızın kendi idealinizde olmasını istediğiniz için insanlara sınırlar çiziyorsunuz. Bugün insanlara çizeceğiniz sınırlar onları şaşırtsa da sizi rahatlatıyor. \n\nSizler için rastgele seçilmiş günün şarkısı: Yasemin Mori-(Gel)"
-      },
-      "gemini": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Dilek kapınız açık. Sürpriz gelişmeler yolda. Siz hareket halinde oldukça yolunuzdan şaşmadan devam ettikçe, gayretlerinizin güzel sonuçlarla taçlanacağını söyleyebilirim. Amacınız belli, yolunuz belli, içiniz ferah olsun. \n\nSizler için rastgele seçilmiş günün şarkısı: Zerrin Özer&Bohem-(Arap Kızı)"
-      },
-      "cancer": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "Durgun süreç bitiyor ve hareketli bir dönem geliyor sizler için. Kendinizi atılgan ve cesur hissedebilirsiniz. Normalde yapmam dediğiniz şeyleri yaparak başarı elde edebilirsiniz. İçinizdeki heves kendisini gün yüzüne çıkarıyor ve istekleriniz için mücadele etmeye başlıyorsunuz.\n\nSizler için rastgele seçilmiş günün şarkısı: Nazan Öncel-(Aşkım Baksana Bana)"
-      },
-      "leo": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "Hiçbir şey için geç değil. Değişimi kendin başlat stratejisini uyguladığınız taktirde geç değil. Risk almak gerekir bazen. Alamadığınız riskler size elveda diyen mutluluklarınız anlamına geliyor. Bir olay size yıkım yaşattıysa yeniden inşa etmek sizin elinizde. \n\nSizler için rastgele seçilmiş günün şarkısı: Sibel Bilgiç-(Alışamadım)"
-      },
-      "virgo": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Korkularınızın üzerine gitmeye dair çekinceleriniz olabilir. Size destek olan birileri olmadığı sürece tek başınıza hareket etmek mantığınıza yatmadığı için bazı adımları atmayı erteleyebilirsiniz. Planlarınız da dolayısıyla ertelenmiş olacaktır. Halbuki tek başınıza da her şeyin üstesinden gelebilirsiniz. Bu güç zaten sizde mevcut.\n\nSizler için rastgele seçilmiş günün şarkısı: Erol Evgin-(İşte Öyle Bir Şey)"
-      },
-      "libra": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Büyük bir hayal kırıklığı yaşayabilir ve günü kendinizi kedere hapsederek geçirebilirsiniz. Üçüncü kişilerin etkisiyle ikili ilişkilerinize yazık edebilirsiniz. Size zarar veren bu duygu ve düşünceler size mi ait yoksa üçüncü kişiler mi durumu bu hale getiriyor bunun tahlilini yapmak size oldukça fayda sağlayacaktır. \n\nSizler için rastgele seçilmiş günün şarkısı: Serdar Ortaç-(Sor)"
-      },
-      "scorpio": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.6,
-        "content": "Eski düzeninizde size rahatsızlık veren ne varsa hayatınızdan çıkarmaya yemin etmiş bir halde olabilirsiniz. Bıkmışlık ve usanmışlığın verdiği etkiye de dayanarak kendinizi önemsemeye başlayacağınız bir gün oluyor. Umut ışığınızı kendiniz yakıyorsunuz yani.\n\nSizler için rastgele seçilmiş günün şarkısı: Gülşen-(Saz mı Caz mı?)"
-      },
-      "sagittarius": {
-        "love": 0.5,
-        "health": 0.5,
-        "money": 0.5,
-        "content": "Duygularınızı içinizde yaşayarak, olgun davranılması gereken yerlerde çocuksu tavırlar göstererek fırsatları kaçırıyor olabilirsiniz. İletişim becerilerinizi geliştirmek adına çaba göstermeniz fırsatları kaçırmamak adına iyi bir başlangıç olacaktır.\n\nSizler için rastgele seçilmiş günün şarkısı: Halil Koçak&Ajda Pekkan-(Nikah)"
-      },
-      "capricorn": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "Ani gelişen sürpriz gelişmeler hayat kalitenizi arttırma fırsatını önünüze getiriyor. Bu hareketli döneme ve aksiyona tamamen hazır hissetmeniz size ekstra olarak avantaj kazandırabilir. Hayatınızın dönüm noktalarından birini yaşayarak bu tarihi önemli bir hale getirebilirsiniz, harekete geçip yola devam etmeniz yeterli olacaktır.\n\nSizler için rastgele seçilmiş günün şarkısı: Volkan Konak-(Mimoza Çiçeği) "
-      },
-      "aquarius": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "İçiniz rahat, sakladığınız bir şey yok. Doğruları dobra bir şekilde konuştuğunuz ve insanlara ilham olacağınız harika bir gün yaşayabilirsiniz. Kendinizden emin halde olmanız ve ne istediğini bilmeniz olumlu gelişmeler sağlıyor. Gerek aşk hayatınızda gerek aile ve arkadaşlık ilişkilerinizde birleştirici ve samimi yanınız herkesi sakinleştirip huzurlu hissettirebilir. İnsanlara huzur aşılıyorsunuz.\n\nSizler için rastgele seçilmiş günün şarkısı: Hakan Altun-(Gül Belalıdır)"
-      },
-      "pisces": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Hayatınız boyunca birçok konuda sabır gösterip faydasını göremeseniz de bugün bu fayda size sürpriz olarak geliyor. Sabrınızın meyvesini aldığınız gelişmeler söz konusu. Bunun haricinde elinize ummadığınız bir para geçebilir. Beklemediğiniz bir yerden gelen bu bir miktar para ile bir nebze rahatlayabilirsiniz.\n\nSizler için rastgele seçilmiş günün şarkısı: Sezen Aksu-(Manifesto)"
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-01-29",
       "2024-01-29"
     ],
@@ -156,6 +76,86 @@
         "health": 1,
         "money": 1,
         "content": "Duyarlı kişiliğiniz ve asil ruhunuzla günün dikkat çekenlerinden biri haline geliyorsunuz. Görkemli bir edanız da yanında cabası. Atıldığınız her girişim başarılı sonuçlar verebilir. Özellikle finansal açıdan şansınız üst noktalarda."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-01-30",
+      "2024-01-30"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.9,
+        "content": "Sevdiğiniz insanlardan maddi ya da manevi bir hediye alabilirsiniz. Karşılığında siz de hediye vermek isteyebilirsiniz de hatta. Bugün olumlu düşüncelerinizi diğer insanlarla da paylaşarak onlara da mutluluk aşılayabilirsiniz. Genel sağlığınız çok iyi durumda, enerjiniz de yerinde olduğu için kendinizi bazı gezi planlarının içinde bulabilirsiniz ayrıca."
+      },
+      "taurus": {
+        "love": 0.8,
+        "health": 1,
+        "money": 0.9,
+        "content": "Genel anlamda huzurlu, sakin ve çok güzel bir gün geçirebilirsiniz. Kendinize yaptığınız manevi yatırımlar hayatın her alanındaki güzellikleri fark etmenizi sağlıyor. Yalnız dikkat etmeniz gereken bir durum var ki o da bazı konularda fazla inat yapmak. İnat yapmayın demiyorum; ama inadınız zihninizi fazla meşgul ediyor olabilir ve bazı detayları gözden kaçırabilirsiniz."
+      },
+      "gemini": {
+        "love": 0.7,
+        "health": 0.4,
+        "money": 0.7,
+        "content": "Bugün olaylara tek taraflı bakış açısıyla yaklaşarak gereksiz korku ve endişelerle mücadele edebilirsiniz. Bu durum genel sağlığınıza olumsuz yansıyabilir. Kendinizi karanlıkta kalmış gibi hissetseniz de hayatınızı aydınlatacak o ışık orada bir yerde duruyor. Bakış açınızı değiştirmek o ışığı bulma anlamına geliyor."
+      },
+      "cancer": {
+        "love": 0.5,
+        "health": 0.7,
+        "money": 0.8,
+        "content": "Bir kazan ya da kaybet durumu söz konusu olabilir hayatınızda. Kazanan tarafta olduğunuzu söylesem de siz olayın kazanmak olmadığını çoktan anlamış olabilirsiniz. Bazen öyle olur ki iki tarafta kaybetmiş hisseder. Özellikle de hayatınızda önemsediğiniz insanlarla yaşanılan mücadele bunun örneği olabilir. Önemsediğiniz insanlarla güzel bir iletişim kurmak aşılamaz dediğiniz sorunları aşmanıza yardımcı olabilir."
+      },
+      "leo": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.3,
+        "content": "Çok çalışmanız gereken bir gün olduğunu hissediyor olabilirsiniz. Beklenmedik masraflar çıkması sizi biraz kaygılandırabilir. Kafanız bu düşüncelerle doluyken de gün içinde sessiz bir duruş gösterebilirsiniz çevrenize karşı. Çok düşünmek bir sonuç getirmeyebilir; ama harekete geçmek kesinlikle iyi bir sonuç getirecektir. "
+      },
+      "virgo": {
+        "love": 0.7,
+        "health": 0.9,
+        "money": 0.4,
+        "content": "Finansal açıdan yanlış yatırımlar yapma eğiliminiz olabilir, harcamalarınızda dikkat etmeniz gereken unsurları gözden kaçırmamalısınız. Bunun dışında günlük iletişimde olduğunuz insanlarla güzel planlar yapabilir ve hareketli bir gün geçirebilirsiniz. Ayrıca ekstra dikkat etmeniz gereken bir husus var o da sizi sevenlere ayırdığınız zamanda azalma olması. Sizinle daha çok zaman geçirmek isteyebilirler."
+      },
+      "libra": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Yeniliklere uyum sağlamaktansa her şey eskisi gibi olsun diyerek, planlarınızı değiştirmeyi reddediyor olabilirsiniz. Bu sebepten karşınıza çıkacak fırsatları da kaçırabilirsiniz. Su uyur, düşman uyumaz demişler. Düşmanlarınıza bu fırsatı tanımayın. Hayata katılarak, yenilikleri kabul ederek hayatınızı renklendirebilirsiniz."
+      },
+      "scorpio": {
+        "love": 0.6,
+        "health": 0.8,
+        "money": 0.6,
+        "content": "Başarılı olacağınıza dair inancınız etrafınızda gelişen olumsuz olaylardan dolayı çok etkileniyor. Normalde en büyük engelleri bile hemencecik aşarken, bugün için küçücük bir engel bile gözünüzde büyüyebilir. Dışarıda gelişen olayları gözünüzde çok büyütüyor olabilirsiniz. Size iyi gelecek etkinliklere ihtiyacınız var. "
+      },
+      "sagittarius": {
+        "love": 0.7,
+        "health": 0.6,
+        "money": 0.7,
+        "content": "Belki psikolojik açıdan belki de size tat vermeyen bazı vücut ağrılarınızdan dolayı gün içinde hareketsiz kalmayı tercih edebilirsiniz. Yapılması gereken işler için kendinizde enerji bulamayabilirsiniz. Size yardımcı olacak insanların destek taleplerini kabul etmeniz size fayda sağlarken, düşünmeye ayırdığınız vakit size farklı bir bakış açısı kazandırarak adeta yeni bir siz ortaya çıkarabilir. "
+      },
+      "capricorn": {
+        "love": 0.6,
+        "health": 0.6,
+        "money": 0.7,
+        "content": "Hayatınızın akışında bazı olaylar kontrolden çıkmış olabilir. İşlerin tam olarak istediğiniz gibi gitmemesi yanlış kararlara davetiye çıkarabilir. Daha önceden büyük bir mücadele vererek geride bırakmış olduğunuz zararlı bir bağımlılığınız varsa özellikle dikkatli olun. Odak noktanızı işlerinize ya da size iyi gelen sosyal çevrenize vererek olası yanlış kararlardan kaçınabilirsiniz."
+      },
+      "aquarius": {
+        "love": 0.7,
+        "health": 0.5,
+        "money": 0.8,
+        "content": "Gün içinde gelişen olayları karamsar bir bakış açısıyla ele alabilirsiniz. Zira bir hevesle başlayıp da yapmak istediğiniz her şeyin önüne engeller konulmakta. Tek başınıza bir mücadele içine girmek sizi yorduğundan, iyimser bakış açınızı terk etmiş olabilirsiniz. Konfüçyüs der ki: “Çok kişiyle konuş, az kişiyle düşün, tek başına karar ver.”"
+      },
+      "pisces": {
+        "love": 1,
+        "health": 1,
+        "money": 0.9,
+        "content": "Sevdiğiniz insanlardan size özel sürprizler gelebilir. Gününüz keyifli aktivitelerle geçerken, güzel ve sevindirici bir haber alabilirsiniz. Tutkuyla bağlı olduğunuz ve hep yapmak istediğiniz bir hobi ya da iş konusunda ise sezgilerinizi dinlemek size en doğru kapıları açacaktır. "
       }
     }
   },
