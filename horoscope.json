@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-02-14",
-      "2024-02-14"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.4,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Bazı gecikmelerden dolayı hayal kırıklıkları yaşayabilirsiniz. Size sıkıntı veren durumlardan kaçınmak isteseniz de sanki hep sizin başınıza geliyor gibi bir histe mevcut olabilir. Özellikle aşk hayatınızda beklenti içinde olduğunuz durumların gerçekleşmeyişi sizi fazlasıyla üzebilir; burada dikkatinizi vermeniz gereken şey, beklentinin her zaman kişiyi üzeceğidir. Beklentisiz olmak gerekir ki beklenmeden gelen iyi haber gibisi yoktur hayatta zaten.\n\nGünün size özel şarkı önerisi:\nLeman Sam - Kıyamam Sana"
-      },
-      "taurus": {
-        "love": 0.6,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Bütün işleri tek başınıza yapmaya çalışarak kendinize haksızlık ediyorsunuz. İş paylaşımı yapabilecek durumda iken gurur yaparak ben hallederim tavrınızla sağlığınızı hiçe sayabilirsiniz. Bırakın yardım etmek isteyenler etsinler. Zaten hedeflerinize ulaşmak adına çok az bir yolunuz kalmış. Daha zinde ve dinç bir halde başarıya ulaşmak istemez misiniz? \n\nGünün size özel şarkısı:\nAyşegül Aldinç- Alimallah"
-      },
-      "gemini": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Gününüz fazla hareketli geçebilir. Her işi aynı anda yapacak gücü bulabilirsiniz kendinizde. Hızlı ve cesur davranarak mucizevi olaylara bile vesile olabilirsiniz. Enerjiniz hem size hem de çevrenize yarıyor diyebiliriz. Her şey dilediğiniz gibi geçerken dikkat etmeniz gereken tek nokta dinlenmeye de vakit ayırmanız gerektiğini bilmek olacaktır.\n\nGünün size özel şarkı önerisi:\nBora Öztoprak - Seni Seviyorum"
-      },
-      "cancer": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.4,
-        "content": "Eğitim-iş hayatınızda umduğunuz başarıya uzak kalmış olabilirsiniz. Motivasyonunuz yeterli seviyede olmadığı için bazı işleri yarıda bırakmak dahi isteyebilirsiniz. Bu şekilde hissetmek normal olsa da yaşanan duygusal dalgalanmalarla ani kararlar vermekten kaçınmak gerekir. Bugün böyle hissedersin yarın bir bakmışsın her şey değişmiş. Sakin kalıp bütün karar alma işlerini bir sonraki güne bırakabilirsiniz. \n\nGünün size özel şarkı önerisi:\nYüksek Sadakat: Belki Üstümüzden Bir Kuş Geçer"
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Küçük parçaları birleştirerek bütüncül bir bakış açısı yakalayabilirsiniz. Hem zihninizi aktif kullanıyor hem de aynı anda sosyal ortamlarda yer edinerek insanlarla güzel sohbetler kuruyorsunuz. Başarıya ulaşma hedefiyle çıktığınız yol olumlu haberlerle devam ederken, hayatınızda açtığınız yeni sayfalar sağlığınızı üst mertebelere taşıyarak sizi hep zinde hissettirebilir.\n\nGünün size özel şarkı önerisi:\nBirsen Tezer - Çığlık Çığlığa"
-      },
-      "virgo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Maddi anlamda rahatlamanız neticesinde daha önceden planladığınız birçok ihtiyacınızı bugün almak isteyebilirsiniz. Kendinize bol bol güzellik yaptığınız bugünün başka bir önemli yanı daha var. Sizden manevi destek isteyen arkadaşlarınız kapınızı çalabilir. Onlara ayırdığınız küçük vakitler sizin için normalken, onlar için hayat suyu olabilir. İnsanlara fayda sağladığınız bir gün.\n\nGünün size özel şarkı önerisi:\nAkrep Nalan: Halikarnas"
-      },
-      "libra": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Saadet içinde mutlu bir güne hazırlayın kendinizi. Her şey istediğiniz gibi tıkırında gidebilir. Attığınız her adım bolluk saçıyor. Sadece kendinize değil, diğer insanlara da şans ve bereket getiriyorsunuz. Özel hayatınızda her şey yolunda giderken, finansal durumunuzdaki sürpriz gelişme de size rahat bir nefes aldırıyor.\n\nGünün size özel şarkı önerisi:\nDuman- Senden Daha Güzel"
-      },
-      "scorpio": {
-        "love": 0.5,
-        "health": 0.7,
-        "money": 0.6,
-        "content": "Beklemek zorunda olmayı sevmiyorsunuz. Zira beklerken yanlış adımlar atmaya müsait bir yanınız var ve hayatınızda yanlışlık namına hiçbir şey için tahammülünüz kalmamış. Bu yüzden de beklemek yerine var olanı sona erdirip yeni başlangıçlar adına harekete geçmeye niyet edebilirsiniz. Mazi mazide kalıyor. \n\nGünün size özel şarkı önerisi:\nAşkın Nur Yengi- Başka Bir Şey"
-      },
-      "sagittarius": {
-        "love": 0.5,
-        "health": 0.6,
-        "money": 0.8,
-        "content": "İçinizde büyük bir mücadele var. Ya kazanırım ya kaybederim diye girdiğiniz bu mücadele size farklı bakış açıları kazandırarak bazı gerçeklerin farkına varmanızı sağlayabilir. Çatışmaların gereksiz olduğunu ve huzurunuz için sadece kendinizi dinlemenizin yeterli olduğunu görebilirsiniz. Bu durum finansal açıdan size fırsatların kapısını da açabilir.\n\nGünün size özel şarkı önerisi:\nSezen Aksu - Hoş Geldin"
-      },
-      "capricorn": {
-        "love": 0.5,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Her şey hemen hallolsun derken, işler karışmış olabilir. Daha başlangıç aşamasında panik yapmaya başlarsanız, hayatınızın her alanında tedirginlik ve endişe kaynaklı sorunlar yaşayabilirsiniz. Özellikle de ikili ilişkilerde hemen sonuca varma isteğiniz karşı tarafta olumsuz etkiler bırakabilir. Biraz sebat etmeli ve adım adım ilerlemeli. Böylece yavaş; ama fayda getirecek etkili sonuçlar alabilirsiniz.\n\nGünün size özel şarkı önerisi:\nSeden Gürel - Sebebim Aşk"
-      },
-      "aquarius": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.6,
-        "content": "İletişim kurarken yaşadığınız büyük hatalar sebebiyle kendinizi kaybolmuş hissedebilirsiniz. Duygularınızı hangi söz ya da davranışlarla yansıtacağını kestiremeyip, karşınızdaki insanları üzebilirsiniz. Zamanınızı size fayda getirmeyecek meseleler için bol keseden harcayabilir ve sonrasında pişmanlık hissedebilirsiniz. Şansınız geç de olsa dönecektir, içiniz rahat olsun.\n\nGünün size özel şarkı önerisi:\nKenan Doğulu - Tencere Kapak"
-      },
-      "pisces": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.6,
-        "content": "İnandığınız dava üzerine savaşmaya devam ediyorsunuz; ama yorgunluğunuz buna fazla müsaade vermeyebilir. Arada dinlenip, soluklanarak kaldığınız yerden dinç bir şekilde devam edebilirsiniz. Haklılığınız belli; ama haklıyken haksız duruma düşmemek için fevri tepkilerden kaçınmanız gerekir.\n\nGünün size özel şarkı önerisi:\nSertab Erener - Aşk"
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-02-15",
       "2024-02-15"
     ],
@@ -156,6 +76,86 @@
         "health": 0.8,
         "money": 0.7,
         "content": "Sezgilerinizin güçlü olduğu bir gün, sezgileriniz sayenizde olası tehlikeleri öncesinden hissedebilir ve tüm önlemlerinizi alabilirsiniz. Zira düşüncelerinizin karışık olmasıyla belirsiz durumlar konusunda hata yapma eğiliminiz var. Etrafınızda gizli düşmanlarınız olabilir. Hata yapmanızı dört gözle bekleyen. Sezgileriniz sizi bu durumlardan kurtaracaktır."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-02-16",
+      "2024-02-16"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.6,
+        "health": 0.6,
+        "money": 0.6,
+        "content": "Çevrenizde kötü şansıyla nam yapmış insanlar varsa ve siz onlarla fazla zaman geçiriyorsanız dikkat etmelisiniz. Zira çevrenizdeki insanların enerjisini çok derinden hissedeceğiniz bir gün. Kendinize şansı çekmek istiyorsanız, mutlu insanlarla daha çok zaman geçirmeyi deneyebilirsiniz."
+      },
+      "taurus": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Aile bugün sizin için ön planda. Aile arasında yaptığınız ortak plan ve programlar hem size hem sevdiklerinize mutluluk aşılıyor. Cesur hissettiğiniz bugün daha önce almadığınız riskleri de almaya meyil edebilirsiniz. Bu büyük olasılıkla kariyer ya da parasal bir konuda olabilir. "
+      },
+      "gemini": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Geçmişin defterlerini kapatamadığınız için hatalara düşebilirsiniz. Geleceğe değil geçmişe odaklanmanız kaygı seviyenizi arttırabilir. Yeniliklere kapalı olmanız var olanları da kaybettirebilir. Zamanı geldiğinde değişime ayak uydurmak gerekir. Değişmeyen değişimin kendisidir demişler."
+      },
+      "cancer": {
+        "love": 0.4,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Aşk hayatınızda sıkıntılar meydana gelebilir. İletişim eksikliği ve güven sorunlarına dayalı bu sıkıntılara fazla odaklanırsanız diğer işleriniz aksayabilir. Olayları akışına bırakıp nereye gideceğini görmek ve o sırada diğer işlerinize konsantre olmak belki daha faydalı bir tutum olabilir."
+      },
+      "leo": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Hayatınızda engel olarak gördüğünüz ne varsa kalkıyor. Özgürlük duygusu hayatınıza huzur katıyor. Aşk hayatınızda yaşayacağınız ve asla unutmak istemeyeceğiniz en güzel günlerden birisini geçirebilirsiniz. İsteyip de yapamayacağınız bir şey yok diyebiliriz. Mutlu enerjiniz insanların dikkatinden kaçmayacak."
+      },
+      "virgo": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Gün içinde planlarınızda sapmalar yaşanabileceğinden gün umduğunuz gibi geçmeyebilir. Bir türlü dengeyi ve düzeni tutturamadığınızı düşünebilirsiniz. Vaktinizi saati saatine nasıl ve ne yaparak geçirdiğinizi not ederek vaktinizi çalan gereksiz uğraşları planlarınızdan çıkarabilirsiniz."
+      },
+      "libra": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Kaderde bir dönüm noktası yaşayabilirsiniz. Bugün alacağınız kararlar geleceğinizde önemli değişikliklere gebe olabilir. Şans sizlerle olduğundan aldığınız kararların size geri dönüşü de olumlu olacaktır. İçinizden geldiği gibi yaşama arzunuz tetiklenebilir ayrıca ve günü çılgın ve eğlenceli bir hale getirebilirsiniz."
+      },
+      "scorpio": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Korkularınızdan arınarak daha cesur adımlar atacağınız bir gün. Öz güveniniz adeta zirve noktasında. Risk almaya hazırsınız. İş arayanlar iş başvurularından olumlu sonuç alabilirler, platoniklerin aşkları karşılıklı çıkabilir ya da iyi bir yatırım fırsatı bulabilirsiniz. Şans sizlerle."
+      },
+      "sagittarius": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Uzun zamandır beklemede olduğunuz ve adım atmamakta direndiğiniz konularla ilgili bugün eylem açısından aksiyon alabilirsiniz. Yeterince yerinizde saydığınızı düşünerek ileriye attığınız bu adımlarla birlikte mutlu anlar yaşamanız çok muhtemel. Geç olsun güç olmasın lafı tezahür ediyor adeta hayatınızda."
+      },
+      "capricorn": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Emin olmadan adım atmak istemediğiniz hassas konular var. Doğru cevapları arıyorsanız doğru soruları sormak gerekir. Kafanızı karıştıran insanlar sebebiyle doğrulardan uzak tutulabilirsiniz. Kendinize has bir zaman ayırabilirseniz düşüncelerinizde netliğe kavuşabilir ve aradığınıza ulaşabilirsiniz."
+      },
+      "aquarius": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Gün içinde ani değişen duygularınızla mücadele içinde olabilirsiniz. Değiştirmek istediğiniz çok şey var ve her şeyi birden değiştirmeye çalışmak kendinizi başarısız hissetmenize sebep olabilir. Bir anda değil de sırasıyla yaparsanız değişimi, başarılı sonuç alma ihtimaliniz artabilir."
+      },
+      "pisces": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Hayatınızdaki durgun sürecin yerini hareketli ve heyecanlı bir dönem alabilir. İlişkisi olmayanları karşılıklı aşk bekliyor, ilişkisi olanlar ise bekledikleri mutlu haberi alıyor. Para ya da iş teklifi bekleyen varsa şans onlardan yana ayrıca. Cesaretiniz ise güne damgasını vurabilir."
       }
     }
   },
