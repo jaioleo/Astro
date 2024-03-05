@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-03-04",
-      "2024-03-04"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.4,
-        "health": 0.6,
-        "money": 0.7,
-        "content": "Bundan daha dibi olabilir mi demeyin, odağınızı başınıza gelen olumsuzluklardan sıyırmanın yollarını aramanız gerekiyor. Çaresiz ve kaygılı hissedebilirsiniz; ama burada dikkatinizi vereceğiniz şey karanlık odanızdaki aydınlığa çıkış kapısını bulmak olacaktır. Karanlığın kendisine odaklanmak kaygınızı arttırmaktan başka bir şey yapmaz. Bu süreç elbette geçecek; mücadelenizden asla vazgeçmeyin. "
-      },
-      "taurus": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "İçinde bulunduğunuz ikilemden çıkarak somut adımlar atmaya başlayacağınız günün en güzel haberlerinden birisi bir gezi planlaması yapacak olmanız. Gideceğiniz yer ya da yerler için hazırlığa ise bugünden başlayabilirsiniz. Engelleri insanlar değil kişinin kendi zihni koyar. Zihniniz daha geniş bir açıdan olayları yorumlayarak kendinize koyduğunuz engelleri kaldırıyorsunuz."
-      },
-      "gemini": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Maddi anlamda alacağınız güzel haberleri sevdiklerinizle paylaşmak isteseniz de bu haberleri kendinize saklamak uzun vadeli başarıyı sizlere getirebilir hakeza özel hayatınıza da kimselerin karışmaması adına hayatınızda olan biteni paylaşmayı sona erdirmeniz sizin faydanıza olacaktır. Ketum olun demiyorum; ama paylaşılacak insan var paylaşılmayacak insan var. Günü ise heyecanlı bir şekilde geçirebilirsiniz."
-      },
-      "cancer": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Şanslı bir döneme giriyorsunuz. Birçok konuda yenilik katabilirsiniz hayatınıza. Elbette hayatınızda eksikliği hissettiğiniz ne varsa öncelik onlarda. Aşk isteyene aşk, iş isteyene iş gibi düşünün. Problemleriniz yavaş yavaş sona ererken, huzurlu bir dönemin girdiğinin müjdesini verebilirim. Şimdiden kutlamalara hazırlanabilirsiniz. Yükselen enerjinizle her istediğinizi kendinize çekiyorsunuz."
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Yeteneklerinizi sergilemek için ne bekliyorsunuz? Birilerinin sizi keşfetmesini mi? Harekete geçip hedefleriniz için çabalamaya başlarsanız öyle muhteşem sonuçlar elde edebilirsiniz ki siz bile bu kadarını beklemiyordum dersiniz. İlla tek başınıza başarılı olacaksınız demiyorum, gerek duyuluyorsa yardım istemenizin elbette faydası olacaktır. Sosyalleşmek adına katılacağınız etkinliklerde ise önünüze şans fırsatları çıkabilir."
-      },
-      "virgo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Aradığınız şey özgürlük... Çözüm yolunu buluyorsunuz. Engeller ortadan kalkıyor bir anda. Sizin ne istediğinizi birilerinin sormasına gerek kalmıyor artık. İstediğinizi harekete geçerek siz alıyorsunuz. Kimseye muhtaç kalmadan hedeflerinize ulaşmak atacağınız ilk adıma bakıyor."
-      },
-      "libra": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Aşk ve sevgi enerjiniz o kadar yoğun ki bütün neşeyi kendinize çekiyorsunuz. Ayrıca sevdiğiniz insanlardan hediye alabilirsiniz. Aşk hayatınızda her şey yolunda gidebilir; ama sizin bugün dert ettiğiniz şey bu olmayabilir. Gelecek hayalleri kurabilir ve geleceğinizi garantiye almak adına somut ve riskli adımlar atabilirsiniz. Bugün alacağınız kararların iyi sonuçlanacağı müjdesini verebilirim ayrıca."
-      },
-      "scorpio": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Geçmiş enerjilerin etkisi altındasınız. Geçmişine duyulan bir özlem gibi gelse de özlediğiniz şey geçmişteki siz olabilir. Zaman her insanı değiştirse de eskiden olduğu gibi gülmeyi istemeniz çok makul. Kısacası gününüzü sorgular eşliğinde geçirebilirsiniz. Beni ne mutlu ediyor ve ben neyi farklı yapmaya başladım da eskisi gibi mutlu değilim gibi... "
-      },
-      "sagittarius": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.5,
-        "content": "Enerjiniz de düşme meydana gelebilir. Armut piş ağzıma düş misali kendinizi tembellik ederken bulabilirsiniz. Sorumluluklarınızı aksatarak daha sonraki günler için iş yükünüzü daha da arttırabilirsiniz. Ya da tüm gücünüzle ne olursa olsun yapmanız gerekenleri yapabilir ve sıkıntılara rağmen elinizden gelenin en iyisini yapabilirsiniz. Karar sizlere ait. Gününüzü güzelleştirmek sadece sizin elinizde."
-      },
-      "capricorn": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "İki arada bir derede kalmış gibi hissedeceğiniz kararsızlıklarla dolu bir gün geçirmeniz olası duruyor. Size söylenen yalanları gerçek kabul etmek kararsız kalmanızın temel sebeplerinden biri olabilir. Önce doğrulara ulaşıp sonra da mantığınızın sesini dinlerseniz bu durumu kolaylıkla aşabilirsiniz. "
-      },
-      "aquarius": {
-        "love": 0.6,
-        "health": 0.9,
-        "money": 0.5,
-        "content": "Bir kısır döngünün içerisine hapsolmuş gibi hissedebilirsiniz kendinizi. Ne yaparsanız yapın başa dönmek ve emeklerinize rağmen sonuç alamamak pes etmeyi düşündürse de aslında kısır döngüden çıkmanın birden fazla yolu olduğunu aklınıza getirmek isterim. Vardır bunda da bir hayır diyerek yeniden denemek gerekir. Ayrıca hiçbir zaman geç değildir."
-      },
-      "pisces": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Yolculuk düşüncesi bugün size keyif verebilir. Yeni maceralara atılmak adına kendinizi keşfe çıkarken bulabilirsiniz. Sürekli planlar yaparak kendinize yeni rotalar çiziyordunuz; ama bugün somut bir adım atma olasılığınız çok yüksek görünüyor. Hayatınızın gidişatının sizlerin vereceği küçük bir karara bağlı ve siz bunu zaten biliyorsunuz."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-03-05",
       "2024-03-05"
     ],
@@ -159,6 +79,7 @@
       }
     }
   },
+  "daily": null,
   "weekly": {
     "dateRange": [
       "2024-03-04",
