@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-03-08",
-      "2024-03-08"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Kendinizi bir bekleyiş içerisinde bulabilirsiniz. Umutlu ve enerjik bir haldesiniz. Sabır gösterdiğiniz bir istek hakim. Acele etmekten vazgeçince hedeflerinize ulaşabildiğinizi görebilirsiniz. Yeri ve zamanı geldiğinde ise ilk adımı atmaktan çekinmeye gerek duymayacaksınız.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "taurus": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.6,
-        "content": "Zamanınızı yanlış değerlendirebilir, yeteneklerinizi ziyan edebilirsiniz. Motivasyon kaynağınızı kaybetmiş gibi hissediyorsunuz. Motive olmak için dışarıya bel bağlamak yerine, sizi motive edecek ne varsa bunu iç dünyanızda aramanız size fayda getirecektir. Geçici mali sıkıntılar için gereksiz endişelerden kaçınmak gerekebilir.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "gemini": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Korkularınızdan arınıp daha cesur adımlar atmaya istekli olabilirsiniz. Alınması gerekli riskler vardır ve bu riskleri almak için konfor alanından çıkmak gerekebilir. Başarıya ulaşmak için potansiyeliniz oldukça yüksek görünüyor. Planladığınız ne varsa başarıya ulaşması adına tek yapmanız gereken harekete geçmek.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "cancer": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Huzur ve mutluluk içinde kendinize yeni dünyalar oluşturabilirsiniz. Size kaygı yaşatan problemler için uygun çözümler bulabilir ve hayatınıza ışık saçabilirsiniz. Her şey daha iyiye gitme eğiliminde ve siz de bu güzel duygular eşliğinde gerekli hamleleri yapmaya kendinizi hazır hissedebilirsiniz.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "leo": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.6,
-        "content": "Kendinizi sizin için özel olan konular hakkında çaresiz hissedebilirsiniz. Sevgi ve ilgi eksikliği sebebiyle zorlanmalar yaşasanız da ilahi akışa güvenmeniz gerekir. Her şey sizin için en iyi hale getirilip belki de hediye olarak kapınızı çalacak; fakat bu süreçte sabırlı olup fevri davranışlardan kaçınmak gerekiyor. \n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "virgo": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
-        "content": "Karşınıza değerlendirilmesi sizin adınıza iyi olacak kazançlı iş fırsatları çıkabilir. Kararlarınızı alırken artılar ve eksileri iyi tahlil etmeniz yeterli olacaktır. Bazı başlangıçlar içinse kendinizi hazır hissedebilirsiniz. Spor olur, hobi olur, yeni bir iş ya da ilişki olur ya da yeni bir yatırım. \n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "libra": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.6,
-        "content": "Etrafınızdaki insanların tavsiyelerine dikkat etmekte fayda var. Elbette tüm tavsiyeleri dinleyebilirsiniz; ama kararlarınızı alırken yalnızca kendi fikirlerinizden yola çıkmak faydanıza olacaktır. Çevrenizdeki kişiler itibarınızı zedelemek için ya da kaybetmeniz için kötü tavsiyelerle sizi manipüle etmeye çalışabilirler, dikkatli olmak gerekebilir.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "scorpio": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Sizi olumsuz etkileyen bilinçaltınızdaki negatif düşünceler ve korkularınızla yüzleşmek durumunda kalabilirsiniz. Bu zorlu süreci atlattıktan sonra ise önünüzdeki engeller bir bir ortadan kalkacaktır. Sezgilerinizi ön plana alarak, kendinizle ve iç dünyanızla biraz daha fazla zaman geçirerek bu süreci hızlı bir şekilde tamamlayabilirsiniz.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "sagittarius": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Kaderde bir dönüm noktasına girmiş olabilirsiniz. Önünüzdeki büyük engeli aşabilir ve galibiyet duygusu yaşayabilirsiniz. Sevdiğiniz kişilerin dikkatlerini üzerinize çekebilir ve sizinle gurur duymalarına vesile olacak başarılı bir girişimde bulabilirsiniz. Dikkat edilmesi gereken tek nokta ise zirveye çıkarken size yardımcı olan insanları yok saymamanız.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "capricorn": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Şans kapınızı çalıyor. Hayatınızı büyük ölçüde değiştirecek gelişmeler söz konusu. Karşınıza çıkan birçok fırsattan en azından birini değerlendirmek adına karar vermeniz gerekiyor. Kararsız kalarak bu şanslı dönemin size verdiği fırsatları kaybedebilirsiniz. İşlerinizi ertelemeden, her şeyi rayında tuttuğunuz sürece büyük bir sevinç sizleri bekliyor olacaktır.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "aquarius": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Rekabet hissettiğiniz durumlar geçiyor ve emin adımlarla planladığınız hayata geçiş yapıyorsunuz diyebiliriz. Ayrıca aile üyeleriyle daha çok zaman geçirebilir ve iletişim eksikliğinden kaynaklı yanlış anlaşılan konuları çözüme kavuşturabilirsiniz. Gün sizi mutlu edecek bazı sürprizlerle de ara ara mutlu edebilir.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      },
-      "pisces": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Kendinize inancınızda artış yaşanıyor. Motivasyonunuzu yükseltecek gelişmeler söz konusu. Engeller ve sıkıntılı süreç geride kalmış. Başarı kendisini gösteriyor. Yüzünüzü güldürecek gelişmeler kapıda. Mutluluk ve huzur günün genel duyguları. Sağlığınız da iyiye gidiş var. Her şey yoluna girecek gibi.\n\n** Tüm kadınların Dünya Kadınlar Günü Kutlu Olsun!"
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-03-09",
       "2024-03-09"
     ],
@@ -156,6 +76,86 @@
         "health": 0.7,
         "money": 0.7,
         "content": "Çevrenizdeki insanların entrikalarından gına gelmiş olabilir. Size söylenen yalanlar, yerine getirilmemişler sözler... Artık hevesiniz de kalmamış adeta. O kadar emek verdiğiniz ilişkilerinizden destek alamadığınız gibi köstek olmaları artık tahammül sınırlarınızı aşıyor. Radikal değişiklikler sizi bekliyor."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-03-10",
+      "2024-03-10"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.4,
+        "health": 0.9,
+        "money": 0.7,
+        "content": "Romantik filmlerdeki gibi olmasa da sizin de hayalleriniz var. Özel hayatınızda aradığınız heyecan ve tutku istemekle olmuyor. Buna hazır olmak da gerekir. Siz ne kadar hazırsınız heyecana? Aklınızı ev işleri ve sorumluluklar meşgul etmekte. Önceliklerinizde kendiniz neredesiniz? Güzel giden bir hayatınız var, sağlığınız da yerinde; bugün gelen sürpriz tekliflere belki de evet diyerek heyecan verici o yolculuğa çıkabilirsiniz."
+      },
+      "taurus": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Hayatınızda bir dönüm noktasına giriyorsunuz. Belki de birçok karar aldınız bile; ama bugün aldığınız kararlar geleceğinizi büyük ölçüde değiştirebilir. Sağlıklı düşünmek için sağlıklı bir yaşam tarzı benimsemekten başlayarak hayatınızda birçok değişikliğe gidebilirsiniz. Bunların size yansıması tamamen olumlu olmakla birlikte bu yola tek başınıza girdiğinizi de söyleyebiliriz. Hayatınıza eşlik etmek isteyenlere ise kapınız her zaman açık."
+      },
+      "gemini": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.5,
+        "content": "Ben yeterince çalıştım çabaladım deyip diğer bütün sorumlulukları başkaları yapsın diyebilirsiniz. Haklı olsanız bile aradığınız eşitlik ve adalet bugün karşınıza çıkmayabilir. Eğer gerçek bir sonuç istiyorsanız gerekirse tek başınıza çalışmaya devam edeceksiniz. Fakat aklınızda bulunması gereken bir şey var. Kim ne kadar çabalıyorsa o kadar karşılık alacaktır bir gün."
+      },
+      "cancer": {
+        "love": 0.4,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Özel hayatınızda iletişim eksikliğinden kaynaklı sıkıntılar baş gösterebilir. Suçlu suçsuz tartışmasına hiç girmeden eksik olanları tamamlamak adına beraber hareket etmek gerekir. Ayrıca aldığınız kararlar için beklediğiniz desteğin gelmemesinin sebebi kendinizi fazla güçlü göstermeniz olabilir. İnsanlar bir desteğe ihtiyacınız olmadan da yapabileceğinize eminler; ama siz desteğe ihtiyacınız olduğunu düşünüyorsanız, bunu talep etmelisiniz."
+      },
+      "leo": {
+        "love": 0.5,
+        "health": 1,
+        "money": 0.8,
+        "content": "Bütün odağınız kaybettiklerinizde olabilir. Belki bir eşyanızı belki bir miktar paranızı belki de çok değer verdiğiniz bir insanı... Tüm enerjinizi kaybettiklerinize verirseniz sahip olduklarınızın kıymetini kim bilecek? Zamanı durdurmak mümkün değil. Ve çok değerli zamanınızı zaten siz de olmayanları düşüne düşüne neden harcayasınız? "
+      },
+      "virgo": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.6,
+        "content": "Çevrenizde negatif enerji kaynağı gibi insanların varlığından ötürü planlarınıza sadık kalamayabilirsiniz. O insanlardan durabildiğiniz kadar uzak durmakta fayda var. Bardağın boş tarafına aşık olan bu insanları değiştirmek sizin vazifeniz değil. Yapacağınız ufak tefek değişiklikler ile kendi hayallerinize odaklanabilirsiniz. Gerçek kılmak istediğiniz hayallerinizi kimseyle paylaşmayarak ilk adımı atabilirsiniz."
+      },
+      "libra": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.9,
+        "content": "Bir yolculuk yapma fikrini eyleme dökme olasılığınız çok yüksek. Macera arıyorsunuz. Ortamınızı biraz olsun çeşitlendirmek ve değiştirmenin size iyi geleceğini de çok iyi biliyor olduğunuzdan günü yollarda ya da farklı mekanlarda geçirebilirsiniz. Sadece ortam olarak değil, düşünsel bazda da değişik fikir ve bakış açılarına duyduğunuz ihtiyaç sonucu yeni insanlarla tanışabilir ve onlarla hızlı bir şekilde kaynaşabilirsiniz."
+      },
+      "scorpio": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Herkes bana düşman, herkes sırtıma bir hançer saplıyor düşüncesinden bugün arınıyorsunuz. Zira herkes birleşip de size bir oyun sergilemiyor sonuçta değil mi? Bu durum tamamen sizin bakış açınızdan kaynaklanmış olabilir. Kimsenin sizinle bir derdi olmadığına emin olabilirsiniz. Yaptığınız iyilik de size ait yapmadığınız iyilik de size ait. Tek bir kişinin yaptığı olumsuz hareketleri insanların bütününe atfetmenin zararlarından kurtuluyorsunuz nihayet. Gün sizi mucize haberlerle donatabilir."
+      },
+      "sagittarius": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Zihninizi meşgul eden konulardan bugün itibariyle arınıyorsunuz. Ferah ve rahatlamış zihniniz ile hep atmak istediğiniz o büyük adımları atabilirsiniz. Beklemek başkalarına fırsat vermektir sonuçta. Yükselen enerjiniz ile mücadeleye tam anlamıyla açıksınız. Ayrıca birikmiş işleri de ortadan kaldırarak kendinize alan açmanız başarılı olacağınız konusunda şimdiden ipuçları veriyor."
+      },
+      "capricorn": {
+        "love": 0.3,
+        "health": 0.9,
+        "money": 0.8,
+        "content": "İletişimde olduğunuz insanlarla aranıza küslükler girebilir. Gerginlik sebebi yaptığınız konuları belki de bu kadar büyütmemek gerekir. Anlaşılmayı beklerken, karşı tarafı anlamayı ne kadar deniyorsunuz biraz da bu açıdan bakmak gerekir. Geçici küslükler barışma ile sonlansa da bu durum bakış açınızda hiç şüphesiz büyük değişimler meydana getirecektir."
+      },
+      "aquarius": {
+        "love": 0.6,
+        "health": 0.8,
+        "money": 0.5,
+        "content": "Son zamanlarda cebinizden çıkan paraların ziyan olduğunu düşünseniz de giden para her zaman geri de gelir. Hayatın kendisi bir alma verme dengesi içinde değil midir zaten? Sosyalleşmeye ihtiyacınız var ve bunu gizleyerek soğuk bir tutum sergileyebilirsiniz. Fakat sürprizler oturduğunuz yere gelmeyecek değil mi? Hayatın size çok güzel sürprizleri var. Kendinizi dış dünyaya aralamak fırsatların kapısını açmak anlamına gelebilir."
+      },
+      "pisces": {
+        "love": 0.5,
+        "health": 0.9,
+        "money": 0.7,
+        "content": "Kontrol edemediğiniz her durum içten içe sıkıntı veriyor sizlere. Unutmayın ki her şeyi kontrol edemezsiniz. Bazen hayatın akışına ayak uydurmak gerekir. Olumsuz durumlara takılı kalıp tatlı canınızı üzmektense sahip olduklarınızın değerini bilip o akışa kendinizi kaptırmanız gerekiyordur belki. Aksi halde kontrol edemediğiniz durumları düşünerek bu güzelim günü kendinize ziyan edebilirsiniz."
       }
     }
   },
