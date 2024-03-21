@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-03-20",
-      "2024-03-20"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Duygularınızla hareket ederek, fevri davranarak kayıplar yaşayabilirsiniz. Korkularınızla yüzleşerek mantığınızı devreye koymanız gerekebilir. Kararsızlıklar zaman kaybına neden olacağından, en kötü kararın kararsız kalmaktan iyi olduğunu bilmek gerekir."
-      },
-      "taurus": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Mali açıdan büyük bir fırsat kapınızı çalabilir. Bu fırsatı değerlendirmek isterseniz, ilerleyen zamanlarda para konusunda kendinizi fazlaca şanslı hissedebilirsiniz. Özel hayatınızda ise bazı sürprizlere kendinizi hazırlayabilirsiniz. Mutlu bir gün sizleri bekliyor."
-      },
-      "gemini": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Kendinizi yalnızlaştırmak, duygularınızı içinizde yaşamak, hislerinizi paylaşmamak mantıklı gibi görünebilir kimi zaman. Zira duyan yoksa, dinleyen yoksa anlatmak gereksiz gelebilir. Kalbinize yük ettiğiniz ne varsa söyleyin gitsin. Dinleyene ihtiyacınız yok; fakat içinizi ferahlatmaya ihtiyacınız var."
-      },
-      "cancer": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Bugün yaşayacağınız olaylar farklı bakış açılarına sahip olmanıza katkıda bulunabilir. Edineceğiniz bu yeni bakış açıları sayesinde olayları daha iyi analiz edebilirsiniz. Özellikle de sizden saklanan sırlar ya da size söylenen yalanlar konusunda daha iyi tahlil yeteneği kazanabilirsiniz."
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Finansal açıdan bolluk dönemi başlıyor diyebiliriz. Mal varlıklarınız artabilir. İşlerinizle ilgili her şey yolunda gidiyor. Kendinizi huzurlu hissedebilirsiniz. Aile arasında önemli konular gündeme gelebilir. Ruh halinizde ise iyileşme süreci başlıyor."
-      },
-      "virgo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Kariyer, eğitim ya da buna benzer konularda yeni başlangıçlara imza atabilirsiniz. Sizi heyecanlandıracak gelişmeler yaşanabilir. Kendinizi dinç, zinde hissedebilirsiniz. Sevdiğiniz insanlarla bir araya gelerek ortak planlar yapmanız da çok olası."
-      },
-      "libra": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Sorumluluklarınızı başkalarının yapması sizi daha serbest hareket ettirmiş olsa da kimse o işi sizin yaptığınız gibi yapamaz. Sonuçlardan mutlu olmayışınızın ve hayatınızın istediğiniz gibi gitmeyişinin sebebi de bu olabilir. Hayatınızı yönetmek istiyorsanız, en basitinden en karmaşığına kadar tüm sorumluluklarınızı kendiniz üstlenmeniz gerekir. Sizler için düşünceli geçecek bir güne benziyor."
-      },
-      "scorpio": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Bugün elde edeceğiniz başarılar takdire şayan olacak. Güçlü ve kontrol sahibi olarak amaçlarınıza ulaşabilir ve çevrenizdeki insanlara da bu konuda ilham olabilirsiniz. Başaracağınıza inandığınız zaman her şeyin yolunda gitmesi bir tesadüf değil. Ayrıca şanslı yanınızın da etkisiyle riskli girişimlere girme konusunda kendinizi daha rahat hissedebilirsiniz."
-      },
-      "sagittarius": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Bazı engellere takılmış olmak pes etme anlamına gelmesin. Biraz mola verip dinlenmenin zamanı. Zihin temizlendiğinde yeniden başladığınızda tecrübeleriniz size yol gösterecektir. Sizi rahatsız eden durumlardan ise kaçınmak adına açık iletişim dilini tercih edebilirsiniz."
-      },
-      "capricorn": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Dışarıdaya karşı duruşunuz çok güçlü ve soğuk olabilir. Bunun dışında ise normalde hemen yapılabilir işleri ertelemekten yana iken bugün her şeyi büyük bir sorumlulukla yapmanız sizdeki bazı değişimlerin ipuçlarını veriyor. Kendinize yeni hedefler belirliyorsunuz gibi. "
-      },
-      "aquarius": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Halledilmesi gereken tüm işler nihayete varabilir ve günü keyfiniz nasıl isterse o şekilde değerlendirebilirsiniz. Kendinize bir hediye vermek amaçlı, günü hobilerinizle ve sevdiğiniz insanlarla geçirebilirsiniz. Ayrıca duygularınızı kontrol altına almanız sonraki günlerde faydasını sağlayarak aşk hayatınızda gelişmeler yaşatabilir. "
-      },
-      "pisces": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Gün içinde ani değişen duygularınızla mücadele içinde olabilirsiniz. Değiştirmek istediğiniz çok şey var ve her şeyi birden değiştirmeye çalışmak kendinizi başarısız hissetmenize sebep olabilir. Bir anda değil de sırasıyla yaparsanız değişimi, başarılı sonuç alma ihtimaliniz artabilir."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-03-21",
       "2024-03-21"
     ],
@@ -156,6 +76,86 @@
         "health": 0.7,
         "money": 0.7,
         "content": "Seni beni bırakıp biz dedikten sonra ortada biz diye bir şeyin hiç olmadığını fark edebilirsiniz. Biz olma kavramı için tarafların kendisini adaması gerekiyor. Fakat suçu karşı tarafa atmayın hemen. Belki de siz henüz hazır olmadığınız bir duruma sırf inat uğruna girişmiş olabilirsiniz. Kendinizi dinleyip hayattan beklentilerinizi düşünme zamanı."
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-03-22",
+      "2024-03-22"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Kendinizi, isteklerinizi, amaçlarınızı, eylemlerinizi sorguladığınız ve bir sonuca vardığınız bugün aydınlanmalar yaşamanız çok olası görünüyor. Ne istediğinizi bilmek ve kararsızlıktan kurtulmak sizi oldukça rahatlatabilir. Ne yapmanız gerektiğini bilmenizin yanında şans da size eşlik ediyor. Mutluluk bir adımdan bile yakın diyebiliriz."
+      },
+      "taurus": {
+        "love": 0.6,
+        "health": 0.9,
+        "money": 0.5,
+        "content": "Çok fazla harcama yapmış olabilirsiniz. Sanırım sevdiğiniz insanları hediyelere boğdunuz. Tahmin ediyorum ki onlar da aynısını sizler için yapmıştır. İletişim kurduğunuz insanlarla her şey mükemmel giderken, bütçe kontrolü yapmayı unutmayınız."
+      },
+      "gemini": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Olaylara nasıl bakarsanız öyle görürsünüz. Unutmayın ki düşüncenin gücü diye bir şey var. Aksi gitmesini beklediğiniz her şey elbette aksi gidecektir. Kısacası gün siz neyi nasıl görüyorsanız öyle geçecektir muhtemel olarak. "
+      },
+      "cancer": {
+        "love": 0.5,
+        "health": 0.9,
+        "money": 0.5,
+        "content": "Finansal açıdan bazı sıkıntılar yaşansa da bu geçici bir süreç. Biraz lüks ve konfor isterken ödeme güçlüğü çekebilirsiniz bir süre. Ama ihtiyaçların giderilmiş olması sağlığınıza, psikolojinize yaradığı için genel anlamda huzurlu bir gün geçireceksiniz diyebiliriz."
+      },
+      "leo": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Eğer küslük yaşadığınız insanlar varsa bugün barışmak ve arayı düzeltmek adına muhteşem bir gün. Gurur yapmadan, karşılıklı bir anlayış eşliğinde, etkili bir iletişim diliyle her şey çözüme kavuşacaktır. Ayrıca kendinize şöyle bir soru yöneltebilirsiniz. Benim beklentim nedir? Bu sorunun cevabı size sürpriz kapılar açabilir."
+      },
+      "virgo": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Aşk ve sevgi enerjiniz o kadar yoğun ki bütün neşeyi kendinize çekiyorsunuz. Ayrıca sevdiğiniz insanlardan hediye alabilirsiniz. Aşk hayatınızda her şey yolunda gidebilir; ama sizin bugün dert ettiğiniz şey bu olmayabilir. Gelecek hayalleri kurabilir ve geleceğinizi garantiye almak adına somut ve riskli adımlar atabilirsiniz. Bugün alacağınız kararların iyi sonuçlanacağı müjdesini verebilirim."
+      },
+      "libra": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "İhtiyacınızdan da fazlasına sahip olacağınız isteklerinizin katlana katlana gerçekleşeceği muhteşem bir gün sizleri bekliyor. Günün enerjisi sizin için pozitif ve şansınızın da parladığı anlar mevcut. Hani derler ya başıma talih kuşu kondu, sizinki o hesap olacak. Önünüze çıkan güzel fırsatları ve teklifleri değerlendirmeniz gerekiyor elbette bunun için."
+      },
+      "scorpio": {
+        "love": 0.6,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Zamanlama hatalarından muzdarip olabilirsiniz. Hırs yaparak uzun vadede kazanacaklarınızı kısa vadede almak istemeniz sizi daha büyük zararlara uğratabilir. Adım atmadan önce sonuçlarını iyice analiz etmeniz gerekir. Özel hayatınız kadar iş hayatınızda da bu hataya düşme ihtimaliniz söz konusu. Halbuki hiçbir şeyin acelesi yok. Sabırlı olmanız size kazandırır, acele etme hatasına düşmemekte fayda var."
+      },
+      "sagittarius": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Kendinizi bir çıkmazın içinde mücadele etmek zorunda bulabilirsiniz. İşin ucunda kazanmak ya da kaybetmek var. Adaletsiz bir karşılaşma olduğu için hakkınız yenebilir. Belki bir iş başvurusu belki bir gönül işiniz üçüncü kişiler tarafından bozguna uğratılabilir. Pes etmeyip, bildiğiniz şekilde, kendinizden emin bir halde yolunuza devam ederseniz, önünüze değerlendirmek adına daha güzel fırsatlar çıkacaktır."
+      },
+      "capricorn": {
+        "love": 0.4,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "İletişimlerinizde karşılıklı sevgi ve saygıyı istemeniz oldukça makul görünüyor. Gününüz genel anlamda iyi ve rahat geçse de dengenin olmadığı iletişimler sizde bıkkınlık hissi oluşturabilir. Çabalamak yeterince yorucu olmuş. Biraz da karşı taraftan çaba görme isteğiniz ise hat safhada. Etkili ve açık bir iletişim bu isteğinizi yerine getirebilir."
+      },
+      "aquarius": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Her şeye sıfırdan başlamak istediğiniz anlar olmuştur ya bugün de o günlerden biri. Hayatınızın her zerresini sadece kendiniz yönetmek istiyorsunuz. Sadece size ve zevklerinize uyacak şekilde komple olarak en baştan değişikliklere imza atabilirsiniz."
+      },
+      "pisces": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Kararsızlık yaşadığınız tüm sorunlarınıza çözüm bulmuş olabilirsiniz. O ya da bu demeden artık net hükümler verebilirsiniz. Bunun sizde oluşturduğu rahatlama hali her ne kadar güzel olsa da bazen yanlış kararlar da alabilirsiniz. Her şey dört dörtlük olmadı diye üzülmektense var olan durumu kabul edici bir tavır alabilirseniz, işte o zaman mutluluğu da yakalamış olursunuz."
       }
     }
   },
