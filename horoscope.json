@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-04-10",
-      "2024-04-10"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 1,
-        "content": "İhtiyacınızdan da fazla bir miktarda elinize para geçebilir. Başınıza adeta talih kuşu konuyor. Finansal özgürlüğünüzü sağlama alacağınız haberlerin gelişi bir yana aşk hayatınızda da sürprizlere açık olabilirsiniz. Hayattan istediklerinizi değil de ihtiyaç duyduklarınızı alacaksınız unutmayın. Neye ihtiyacınız varsa o karşılanıyor diyebiliriz.\n\n\nBayramınız kutlu olsun."
-      },
-      "taurus": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Aile üyelerinden biriyle bazı anlaşmazlıklara düşebilirsiniz ve bu anlaşmazlıkları hemen çözmektense sorunları görmezden gelme yolunu seçebilirsiniz. Bu da sorunların daha da çok büyümesine sebep olarak olayları çözülemez noktalara taşıyabilir. Sezgilerinizi dinlemek yerine, var olan gerçeklere odaklanmak en doğru sonuca sizi taşıyabilir. \n\n\nBayramınız kutlu olsun."
-      },
-      "gemini": {
-        "love": 0.6,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Son zamanlarda kendinize çok yorucu zamanlar yaşatmış olabilirsiniz. Vücut ağrılarınız olabilir. Dinlenmek, kendinize bakmak, iyi beslenmek size iyi gelecektir. Günü sevdiğiniz insanlarla geçirebilirseniz onlar size şifa dahi olabilir. İletişime ihtiyacınız olan bir gün zira.\n\n\nBayramınız kutlu olsun."
-      },
-      "cancer": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.6,
-        "content": "İhtiyaç duyduğunuz hayat şartları için verdiğiniz mücadele son gaz devam ediyor. Bazen usanıp vazgeçmek isteseniz de hayallerinizden, çabalamaktan hiç geri durmuyorsunuz. Duygusal açıdan hayatınızdaki karmaşa artabileceği için kimi insanlara fevri tepkiler gösterebilirsiniz, kontrol altına almanız gereken duygularınız var, ihmal etmeyin.\n\n\nBayramınız kutlu olsun."
-      },
-      "leo": {
-        "love": 0.9,
-        "health": 1,
-        "money": 0.9,
-        "content": "Kendinize yeniden bir yol çizmek isteyebilirsiniz. Eskiler giderken, yenileri hayatınıza giriyor. Negatif enerji veren her şeyi hayatınızdan net bir şekilde çıkarıyorsunuz. Yol gösterici bir ışık aramayı bırakıp kendi ışığınızı göstermenin zamanı gelmiş diyebiliriz kısaca.\n\n\nBayramınız kutlu olsun."
-      },
-      "virgo": {
-        "love": 1,
-        "health": 1,
-        "money": 0.8,
-        "content": "İşlerinizi büyütmek ya da var olan ilişkinizi daha üst boyuta taşımak adına zemininiz sağlam ve potansiyeliniz yüksek. Daha fazla sorumluluk içinse kendinizde ekstra bir güç bulabilirsiniz. İleriye yönelik girişimlerinizde her şeyin yolunda gitme ihtimali oldukça yüksek görünüyor.\n\n\nBayramınız kutlu olsun."
-      },
-      "libra": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Umudumu kaybediyorum dediğiniz an beklenmedik gelişmeler oluyor ve yenilenen enerjinizle birlikte yeniden bir umut ışığının doğuşu gerçekleşiyor. Geçmişte kalan üzüntü, keder namına ne var ne yoksa onları geçmişte bırakıp günümüze odaklanmanız ise sizdeki negatif enerjinin tamamını yok edebilir.\n\n\nBayramınız kutlu olsun."
-      },
-      "scorpio": {
-        "love": 1,
-        "health": 0.9,
-        "money": 1,
-        "content": "Aşk hayatınızdaki gelişmelerin verdiği mutluluk bir yana, epeydir geciktirdiğiniz ödemelerinizi bugün yatırıp bir rahat nefes alıyorsunuz. Psikolojinize iyi gelmesi adına sosyal etkinliklere katılma isteğiniz yüksek olabilir ve orada tanımadığınız insanlarla edeceğiniz sohbetler size gerçekten fayda sağlayabilir.\n\n\nBayramınız kutlu olsun."
-      },
-      "sagittarius": {
-        "love": 0.5,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Kendinizi yalnız hissedebilirsiniz. Sosyalleşme isteğinizin önünde yapmanız gereken sorumluluklar var ve kendinize zaman ayırmakta zorluk çekiyor olabilirsiniz. İçinize kapanmaktan kaçınarak kendi kendinize eğlenceli zamanlar da geçirebilirsiniz ayrıca. Yalnızlık bazen şifadır unutmayın.\n\n\nBayramınız kutlu olsun."
-      },
-      "capricorn": {
-        "love": 0.4,
-        "health": 0.9,
-        "money": 0.6,
-        "content": "Aşk hayatınızda yaşadığınız bir hayal kırıklığı sizi derinden yaralayabilir. Bazen her şey umduğumuz gibi gitmez ve bulduğumuzla yetinmemiz gerekebilir. Başta bize uymayan tavır ve sözleri görmezden gelebiliriz. O zaman şimdi karar sizin. Neye ne kadar tahammül edebilirsiniz, düşünüp tartın.\n\n\nBayramınız kutlu olsun."
-      },
-      "aquarius": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Özel hayatınızda çok radikal kararlar almanın bir adım gerisinde duruyorsunuz. Aklınızın sesini yeterince dinlediğinizi düşünerek bu sefer duygularınıza kulak vermek isteyebilirsiniz. Sezgileriniz ve duygularınız iş birliği içinde.\n\n\nBayramınız kutlu olsun."
-      },
-      "pisces": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Kafa karışıklığı yaşadığınız bir süreçtesiniz. Sorularınız çok; ama cevaplar ortada görünmüyor. Yardımcı olmasını istediğiniz insanlar ise kendileriyle meşgul olabilirler. Unutmayın ki bir başkasına ihtiyacınız olmadan çözüm bulabilirsiniz. Sorularınızın cevaplarına değil de o soruları niye sormak zorunda kaldığınızı düşünerek işe başlayabilirsiniz.\n\n\nBayramınız kutlu olsun."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-04-11",
       "2024-04-11"
     ],
@@ -156,6 +76,86 @@
         "health": 1,
         "money": 1,
         "content": "Emek olmadan yemek olmaz demişler. Siz de emeğinizin karşılığını bugün itibariyle fazlasıyla alıyorsunuz. Sizin hareketli hayatınıza eşlik eden sevenleriniz de gösterdiğiniz çabaların farkında. Bu sebepten dolayı da sevincinize de ortak olacaklardır. Güzel haberler aldığınız bugün ortamınız da huzurlu ve bereketli oluyor. "
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-04-12",
+      "2024-04-12"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.8,
+        "content": "Sahip olduklarınıza odaklandığınız ve sizi mutlu eden insanlarla vakit geçirdiğiniz enfes bir gün sizlerle. Beklediğiniz sevgiyi aldığınız, yüzünüzden şen kahkahaların eksik olmadığı anlar yaşayabilirsiniz. Sevgi bugün ana temanız. Vaktinizin çoğunu sevdiğiniz ve sevildiğiniz ortamlarda geçirmeniz çok olası görünüyor."
+      },
+      "taurus": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.6,
+        "content": "Olaylara nasıl bakarsanız öyle görürsünüz. Unutmayın ki düşüncenin gücü diye bir şey var. Aksi gitmesini beklediğiniz her şey elbette aksi gidecektir. Kısacası gün siz neyi nasıl görüyorsanız öyle geçecektir muhtemel olarak. "
+      },
+      "gemini": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 1,
+        "content": "İlişkilerinizde alma-verme dengesine oldukça özen göstereceğiniz bir gün. Size değer veren insanlara değer vermeniz sizi de onları da ileriye taşıyor. Bu denge olmadığı zamanlarda ne kadar sıkıntılı zamanlar geçirdiğinizi biliyor olmalısınız. Bugün buna daha yakından şahit olarak bundan sonraki iletişimlerinizde bu dengeye daha çok önem gösterebilirsiniz."
+      },
+      "cancer": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Güzel haberlere devam. Gelişmelere açık olabilirsiniz. Geçmişin verdiği acı devamlılığını korusa da hayat size seçenekler sunmaya devam ediyor. Odağınızı kendinize verebilirseniz hayatınızdaki iyiye gidişin farkını hemen anlayabilirsiniz. İhtiyacınız olan her şey kendinizde mevcut."
+      },
+      "leo": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.8,
+        "content": "Bulunduğunuz konumdan daha iyi bir yere gelme isteğiniz olabilir. Fakat bunun için konfor alanınızdan çıkmanız gerekir. Cesur adımlar atabilirseniz, başarıdan başarıya koşabilirsiniz. Mutluluk siz nereye giderseniz, orada sizi bulacaktır. İlerlemek için eyleme geçmek gerekir. Bugün önemli kararlar alma günü sizler için."
+      },
+      "virgo": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Aileniz tarafından anlaşılmadığınızı düşünüyor olabilirsiniz. Hayallerinize ve isteklerinize anlam veremiyor olabilirler. Onları ikna etmek ile vakit kaybederek hayallerinizi gerçekleştirme adımlarını atmaya geç kalabilirsiniz. Sizi anlamıyor olmaları demek sizi sevmiyorlar anlamına gelmiyor. Siz adımınızı atın, cesur olun ve devam edin, anlamasalar bile destek olmak adına yanınızda olacaklardır."
+      },
+      "libra": {
+        "love": 0.4,
+        "health": 0.9,
+        "money": 0.7,
+        "content": "Size hayal kırıklığı yaşatan olaylara şöyle geri dönüp sebeplerine bakacağınız bir gün olabilir. Orada göreceğiniz en büyük sebep sizin karşılıksız bir şekilde fazla değer vermenizdir. Duygusal dalgalanmalara açık olduğunuz bugün fevri kararlardan kaçınmak adına kendinizi işiniz ve sorumluluklarınızla meşgul etme ihtimaliniz yüksek görünüyor. "
+      },
+      "scorpio": {
+        "love": 0.6,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Keşfedilmeyi bekleyen bir cevher olduğunuzu siz gayet iyi bilseniz de başkalarının da bilmesini istiyor olabilirsiniz. Çevrenizdeki insanların sözlerine ve davranışlarına göre değerinizde bir değişim yaşanmıyor sonuçta. Ha bilmişler ha bilmemişler. Mühim olan sizin kendinize olan inancınız. Günü kendiniz için güzel planlar yaparak geçirebilirsiniz."
+      },
+      "sagittarius": {
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.5,
+        "content": "Planlarınızın yarım kalmasına hiç gelemiyorsunuz. Ön göremediğiniz aksilikleri hayatınızın merkezine almayı bırakmanız gerek. Çözümcü yanınızı devreye sokarak aksiliklere hızlı ve kesin çözüm yolları bulabilirsiniz. Kaygı ve stresten arınmak adına da meditasyon, yoga gibi etkinliklerde bulunmanız faydanıza olacaktır."
+      },
+      "capricorn": {
+        "love": 0.4,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Sevdiğiniz insanlarla aranızdaki iletişimde aksaklıklar olabilir. Karşınızdaki insanlar sizi dinlemek yerine kafalarındakini söylemeye devam ettikçe de bu durum uzayabilir. Onlar sizi gerçekten dinlemek için karşınıza geçene kadar siz de kendinize zaman ayırabilirsiniz. Hobilerinizle vakit geçirmek isteyebilirsiniz. "
+      },
+      "aquarius": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Hayatınızda her şeyin en iyisini ben bilirim diyen insanlara kapıyı gösterebilirsiniz. Bu insanlar sabır sınırınızı çoktan aşmışlar. Onlarla uğraşmaktansa kendinizi geliştirmek ve eğitmeye zaman ayırmayı tercih edebilirsiniz. Gün içinde size faydası olacak ne varsa dikkatinizi ona verebilirsiniz. İlerlemeye tamamen hazırsınız."
+      },
+      "pisces": {
+        "love": 0.9,
+        "health": 1,
+        "money": 0.8,
+        "content": "Sahip olduklarınıza odaklandığınız ve sizi mutlu eden insanlarla vakit geçirdiğiniz enfes bir gün sizlerle. Beklediğiniz sevgiyi aldığınız, yüzünüzden şen kahkahaların eksik olmadığı anlar yaşayabilirsiniz. Sevgi bugün ana temanız. Vaktinizin çoğunu sevdiğiniz ve sevildiğiniz ortamlarda geçirmeniz çok olası görünüyor."
       }
     }
   },
