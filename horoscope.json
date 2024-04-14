@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-04-13",
-      "2024-04-13"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.7,
-        "health": 0.5,
-        "money": 0.7,
-        "content": "Sezgilerinize kulak verdiğinizde her şey yolunda giderken; sanki son zamanlarda yanlış kararlar aldığınızı düşündürten insanlar etrafınıza dolabilir. İnsanların sizde uyandırdığı etki ve söyledikleri zıt olsa da ve siz onlara güvenmeyi tercih etseniz bile bilmeniz gereken bir şey var ki hisleriniz asla yanılmaz. Sakin ve huzurlu bir gün geçirmek adına insanların laflarına kulak asmamak gerekebilir."
-      },
-      "taurus": {
-        "love": 0.6,
-        "health": 0.8,
-        "money": 0.4,
-        "content": "Kalabalıktan kaçınmak adına elinizden geleni yapsanız da o kalabalık gelip sizi buluyor. İletişimi çok sevseniz de istemediğiniz zaman kurduğunuz zoraki iletişimler sizi sosyal hayattan yavaş yavaş koparabilir. Hayır demek lazımsa hayır demeyi bilmek gerekir. Sevdiğiniz insanlarla konfor alanlarınızda vakit geçirebilirsiniz; buradaki kalabalık samimi olmadığınız insanları ele alıyor."
-      },
-      "gemini": {
-        "love": 0.6,
-        "health": 0.7,
-        "money": 0.6,
-        "content": "İlgi alanlarınız, hobileriniz, severek yaptığınız her şey ya elinizden alınıyor ya da iş yükünüz ağırlaştığı için onlara yeterli vakit bulamıyor olabilirsiniz. Bu konuda bir zaman yönetimi yapmak şart bir hale gelebilir; aksi durumda içinizdeki umut ışığı ve hevesleriniz sönme noktasına gelebilir. Kendinizi ön plana koyacağınız yeni zaman yönetimi planınızı uygulamaya koymak için beklememeli."
-      },
-      "cancer": {
-        "love": 0.5,
-        "health": 0.5,
-        "money": 0.9,
-        "content": "Özel hayatınızda ve sağlığınızda aynı sorunlardan kaynaklı sıkıntılar yaşamanız muhtemel göründüğü için belki de sakin ve huzurlu anlar yaşamanız için kendinizi kalabalıktan izole edebilirsiniz. Aynı bakış açısına sahip olmamak bir sorun değil; fakat tartışmalar yaşanırken karşı taraftan saygı göremediğinizi hissetmek kaçınılmaz olabilir. Sorunları başka açılardan ele alabilmek adına iç sesinizi dinlemek fayda getirebilir."
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Aile her şeydir. Üzer de mutlu da eder. Ailevi sıkıntılar geride kalıyor. Taraflar birbirlerini anlıyor ve birbirleri için fedalarda bulunuyor. Ailede her şeyin yoluna girmesiyle birlikte özel hayatınızdaki çözülemeyen problemler de ele alınıyor ve itina ile istenilen sonuç elde ediliyor diyebiliriz. Aradığınız şey saf bir sevgi. Sevginin olduğu yerde güçlü duruşunuz etkisini gösteriyor."
-      },
-      "virgo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Aşk kapınızı çalmış, mutluluklar sizinle. Her şey güllük gülistan bugün. Sağlığınızla ilgili endişe ettiğiniz durumlar birer birer ortadan kalkıyor. Sevdiğiniz insanlardan sizi neşelendirecek minik sürprizlere tanık olabilirsiniz. Kendiniz için yeni bir hobi edinebilir ve sevdiğiniz arkadaşlarınızla tatil planları yapabilirsiniz."
-      },
-      "libra": {
-        "love": 0.6,
-        "health": 0.8,
-        "money": 0.5,
-        "content": "Öfke, hüzün, hayal kırıklığı gibi duygular yaşatan insanlarla ne zaman konuşursanız konuşun değişen bir şey olmadığını fark edebilirsiniz. Sizin enerjinizden çalan bu insanlar güzel bir hayat yaşarken siz sinir oluşunuzla ortada kalabilirsiniz. Bunu engellemek adına hayır diyebilmeniz gerekir."
-      },
-      "scorpio": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Üzerinizdeki ağırlık yavaş yavaş kalkıyor ve zihniniz rahatlıyor. Yeninin verdiği heyecan hayatınızın seyrini değiştirebilir. Aile, iş, kariyer, eğitim gibi çok üzerine düştüğünüz konularda ne yaparsanız yapın sorumluluklarınız azalmadığı için kendinize ayrı ilgi alanları oluşturabilirsiniz. "
-      },
-      "sagittarius": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "İnandığınız değerler uğruna azimli ve hırslı bir yapıya bürünebilir ve bugün kendinizi daha çok çalışırken bulabilirsiniz. Yılmıyorsunuz, eminsiniz, başarılı olacaksınız. Kendinizde ve geleceğinizde gördüğünüz bu umut sizi harekete geçiriyor ve gerçekten de adım adım zafere ulaşıyorsunuz diyebiliriz. "
-      },
-      "capricorn": {
-        "love": 0.6,
-        "health": 0.6,
-        "money": 0.6,
-        "content": "Başarısızlıklar sizi yıldırmasın. İstediğiniz şeyler ters gidiyorsa bilmeniz gereken bir şey var ki her şerde bir hayır vardır. Bugün üzüldüğünüz şey yarın size mutluluk olarak dönebilir. Aile meselelerine ise müdahil olmak yerine, dışardan seyirci kalmanız sizi gereksiz stresten uzak tutabilir. "
-      },
-      "aquarius": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Sevdiğiniz insan size hediye ile sürpriz yapabilir. Hiç beklemediğiniz anda aldığınız bu hediye sevincinizi arttırabilir. Özlediğiniz ve bir süredir görmediğiniz arkadaşlarınızla da karşılaşıp bu güzel günü dışarda sosyal bir ortamda değerlendirerek geçirebilirsiniz."
-      },
-      "pisces": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Günü hak ettiğiniz sevgi ve saygıyı alarak geçirebilirsiniz. Sevdiğiniz insanlardan gelen ilgi ise sizi biraz şımartabilir. Duygularınızın sesini dinleyerek hareket ettiğinizde her işinizin yolunda gittiğini görebilir ve bundan sonraki kararlarınızı da buna binaen alabilirsiniz. Aşk hayatınızda şansınızın çok yüksek olması da romantizm anları yaşamanızı muhtemel kılıyor."
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-04-14",
       "2024-04-14"
     ],
@@ -159,83 +79,163 @@
       }
     }
   },
-  "weekly": {
+  "daily": {
     "dateRange": [
-      "2024-04-08",
-      "2024-04-14"
+      "2024-04-15",
+      "2024-04-15"
     ],
     "horoscopes": {
       "aries": {
-        "love": 0.6,
-        "health": 0.9,
-        "money": 0.8,
-        "content": "Ailevi sorunlar yaşayabilirsiniz. Birbirinizle ortak paydada bulunamadığınız durumlar sebebiyle net çizgiler çizmek yerine birbirinizi anlamaya çalışarak bu süreci sorunsuz geçirebilirsiniz. Olumsuz sözlerin üzerine fazla gitmeden, kendi içinizdeki pozitif güce odaklanmanız başarıya giden yolda size güç verecektir.\n\nEpey zamandır gerçekleştirdiğiniz her eylem için savunma yapmak zorunda kalmış olabilirsiniz. Her adımınızı açıklamaya çalışmaktan dolayı belki de yorgun düşmüşsünüzdür. Yine de direnç göstermeye devam edin; ama bu defa bakış açınızı biraz değiştirebilirsiniz. Bırakın eylemlerinizi açıklamak yerine, kimseye bu süreçten bahsetmeyerek, işler sonuçlandığında başarınızı gösterin. Sonuç odaklı insanlar böylelikle olumsuz yorumlarıyla sizi yormamış olur."
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Karanlığınızı aydınlatan güneş gibi müjdeler alacağınız şanslı bir gündesiniz. Başarmak istediğiniz her ne varsa o mutlu sona geldiniz. Sıkıntılı süreç sona eriyor. Sadece kendiniz için değil sorunu olan sevdiğiniz insanların da sıkıntılarına derman bulunuyor. Umut ışığınız parladıkça da yayılan bir pozitif enerji söz konusu. Bu da demektir ki hem aşk hayatınızda hem de normal yaşantınızda bu iş-eğitim ya da herhangi bir şey olabilir, isteklerinize kavuşuyorsunuz. Bu sürecin olumlu düşündükçe olumlu devam ettiği aklınızda bulunsun."
       },
       "taurus": {
-        "love": 0.6,
-        "health": 0.7,
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Yenilenen enerjinizle birlikte hedeflediğiniz ne varsa tamamlanma aşamasına girilmiş. Başta maddi girişimler olmak üzere gerek aşk hayatınızda gerek arkadaş ya da aile ilişkilerinizde başarmak istediğinizi tam olarak yerine getirdiğiniz bir gün sizleri bekliyor. Her şeyin dört dörtlük ve mükemmel bir uyum içinde olduğu bu harika günde iç huzurunuz artarken, coşku uyandıracak gelişmeler de yaşamanız söz konusu. Zira şansınız oldukça yüksek ve hayatınızda eksik olana kavuşma olasılığınızın yüksek olduğu bir dönemdesiniz. Muradınıza eriyorsunuz diyebiliriz."
+      },
+      "gemini": {
+        "love": 0.7,
+        "health": 0.4,
         "money": 0.6,
-        "content": "Duygularınızla hareket ederek hassaslaşabilir ve hayal kırıklıkları yaşayabilirsiniz. Bir süredir insanlardan uzak durmanız size hem iyi hem kötü gelmiş. Size zarar verenlerin kim olduğunu ve sizi önemseyenlerin kim olduğunu öğrenmiş oldunuz. Yine de duygularınıza göre değil mantığınızın sesine göre hareket etmeniz sonraki dönemlerde size daha çok fayda sağlayacaktır.\n\nYeni kararlarınızı uygulamak için aceleci davranmamak iyi olacaktır. Bir süre dinlenmek ve kendinizi her alanda toparlamanız gerekebilir. Size zarar veren olumsuz duygulardan kurtulacağınız bu dinlenme zarfında nelere ihtiyacınız olduğunu daha iyi anlayacak ve ona göre kendinizde değişimlere gidebilirsiniz."
+        "content": "Gerçeklerden kaçınarak hayal dünyanıza sığınabilirsiniz. Kimileri kibirli olduğunuzu iddia etse de siz hayat şartlarınızın kendi idealinizde olmasını istediğiniz için insanlara sınırlar çiziyorsunuz. Bugün insanlara çizeceğiniz sınırlar onları şaşırtsa da sizi rahatlatıyor. Yine de asıl sorumluluklarınız sizi beklediği için bir an önce gerçeklerle yüzleşmeniz gerekiyor. Eğri oturup doğru konuşmakta fayda vardır her zaman. Hayatınızda yolunda gitmeyen durumları kabul etmek, sorunları düzeltmenin ilk adımıdır. Hem sağlığınız için hem de iç huzurunuzu tam anlamıyla kazanmak için bu yüzleşmenin yapılması elzem görünüyor."
+      },
+      "cancer": {
+        "love": 0.3,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "İkiyüzlü insanlar sebebiyle gününüz hevesiniz kaçmış bir şekilde geçebilir. Ayrıca hayatında biri olan Yengeç'lerin dikkat etmesi gereken bir durum var. Partneriniz gereksiz kıskançlıklarla zaten sıkıntılı olan günü size daha da dar edebilir. Moralinizin bozuk olması sebebiyle suskun ve içe kapanmış yanınız partnerinizde şüphe uyandırabilir zira. Hayatınızda kimse yoksa bu durum tam tersi bir şekilde işleyebilir. Size gösterilmesi gereken ilgilerin başkalarına gitmesi siz de kıskançlık duygusunu uyandırabilir. Olası tartışmalardan uzak durmak adına kendinize yoğunlaşmak iyi bir çözüm olacaktır."
+      },
+      "leo": {
+        "love": 0.6,
+        "health": 0.4,
+        "money": 0.8,
+        "content": "Bugünü sakin bir kafayla geçirmek istediğiniz için konfor alanınızdan ayrılmak istemeyebilirsiniz. Olası ziyaretler ya da planlar sizi korkutabilir. Size ait olan zamanı yönetemiyormuş gibi hissetmek kaygı seviyenizi yükseltebilir. Bunları yaşamak yerine insanlara hayır demeyi deneyebilirsiniz. Kimse size bu sebepten dolayı kırılmaz sanıyorum ki. Kısa bir inzivadan sonra ise zaten yolculuklara atılacağınız için sağlığınızı ön plana alarak kendi istekleriniz için kararlı olmanızda fayda var. Unutmayın ki kendinizde yapacağınız küçük bir değişimle bütün dünyanız değişebilir. "
+      },
+      "virgo": {
+        "love": 0.5,
+        "health": 0.7,
+        "money": 0.8,
+        "content": "Sizlere bol bol sabır dilediğim bir gün. Zira sizi çileden çıkarmak için kapınızda kuyruk olmuş bir kalabalık mevcut. Mantıklarını devre dışı bırakmış bu insanlarla mantık çerçevesi içinde bir iletişim kurma hayallerinizi bir kenara bırakabilirsiniz. Vicdanınıza oynamak isteyenler duygusal tarafınıza seslenerek sizi kullanmak isteyebilirler ayrıca. Tüm bu kalabalığı, bu sesi bir an için yok sayın. Yapabiliyorsanız sessiz bir yere geçin. Kendinize şunu sorun, ben ne istiyorum? Benim neye ihtiyacım var? Beni mutlu eden ne? Kalabalığın ne dediğinin bir önemi kalmıyor o zaman. Siz ne diyorsunuz, bugün önemli olan bu."
+      },
+      "libra": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Azim, istikrar ve kararlılık... İşte gününüzü harika kılan, insanların şans dediği, sizin ise çabalarınızın meyvesini aldığınız güzelliklerin zemini bunlar. Doğru zamanda doğru hamleyi yaparak birçok fırsat yakalayabilirsiniz. Kararlarınızı hızlı alabilirsiniz; ama kararlarınıza yavaş ve emin adımlarla ulaşma gayretinizle hem maddi hem manevi olarak karşılık aldığınız sonuçlarla karşılaşabilirsiniz. En güzeli ise bugün alacağınız güzel haberlerin verdiği mutluluk ile yapmayı ertelediğiniz işlerinize adım atma isteğinizin artması olabilir. Bu da demektir ki kafanızı kendinizle meşgul ettikçe zafere doğru ilerliyorsunuz."
+      },
+      "scorpio": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Maddi bağımsızlığın size sunduğu özgürlük bir milat oluyor. Tüm planlarınızı yeniden şekillendirmeye kendinizi hazır hissedebilirsiniz. Daha akılcı ve pratik bir yol izlediğiniz yeni hedeflerinizde başarılı olacağınızın müjdesini şimdiden verebilirim. Olgun yanınız ile de sadece kendinize değil sevdiklerinize de yatırım yapıyorsunuz. Beklediğiniz zirveye çok yaklaştığınız bugünün başka güzel haberi daha var. Çocuk isteyen Akrep'lere bebek müjdesi görünüyor. Benim hayatımda kimse yok ya da ben çocuk düşünmüyorum diyenler ise başka bir oluşumun içinde kendisini bulabilirler."
+      },
+      "sagittarius": {
+        "love": 0.4,
+        "health": 0.8,
+        "money": 0.9,
+        "content": "Kalbiniz derinden yara alabilir. Büyük bir hayal kırıklığı yaşayabilir ve günü kendinizi kedere hapsederek geçirebilirsiniz. Üçüncü kişilerin etkisiyle ikili ilişkilerinize yazık edebilirsiniz. Size zarar veren bu duygu ve düşünceler size mi ait yoksa üçüncü kişiler mi durumu bu hale getiriyor bunun tahlilini yapmak size oldukça fayda sağlayacaktır. Zira size zarar veren kişiler ve duygulardan arındığınızda düşüncelerinizde oluşan farklılıklar ihtiyacınız olan değişim için size kuvvet verecektir. Pozitif düşünceler ile belki de kendinize yeni başlangıçlar yapabilirsiniz."
+      },
+      "capricorn": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Güçlü ve otoriter bir duruş sergileyebilmek adına o kadar çabalamışsınız ki bugün karşılığını görebilirsiniz. Kararlılığınız ve hedefinize odaklanmanız meyvesini veriyor diyebiliriz. Oh be bu iş de halloldu diyeceğiniz durumlar yaşayabilirsiniz. Bu tamamlanışın verdiği pozitif enerjinin sağlığınıza olan güzel etkisiyle gün içinde hareket halinde olacağınız etkinliklere gönüllü katılım sağlayabilirsiniz. Kendinize yeni yönler ve yeni hedefler belirlemeyi de ihmal etmiyorsunuz tabii ki. Hayatınızdaki fırtınalı dönem sona erdiği için de ikili ilişkilerinize daha fazla zaman ayırma fırsatınız doğacaktır."
+      },
+      "aquarius": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Yaşantınızda sırtınıza binen yüklerin ağırlığı sınırlarınızı epeyce zorluyor olabilir. Bu sürecin geçici olduğunu bilmeniz de fayda var. Dikkatli olmanız gereken nokta ise her şeyi aynı anda yapayım derken bütün işlerin yarım kalmasına sebep olabilirsiniz. Bu durumda hem zamanı daha faydalı kullanmak için hem de sorumluluklarınızı aksaklık olmadan yerine getirebilmek adına iyi bir plana ihtiyacınız var. Etrafınızdaki insanlardan yardım istemek iş yükünüzü hafifletebilir. Ve tabii ki bu kadar emek ve çaba sonrası şunu çok iyi bilin ki mutluluk koşarak size geliyor. Bu mutlulukla beraber aşktaki şans kapınız da açılıyor."
+      },
+      "pisces": {
+        "love": 0.4,
+        "health": 0.6,
+        "money": 0.8,
+        "content": "Etrafınızdaki arkadaşlarınıza çokta fazla güvenmemeniz gereken bir gün. Bir ihanet ile karşı karşıya kalabilirsiniz. Arkanızdan kuyunuzu kazmaya çalışan kişiler tarafınca anlattıklarınız mübalağa edilerek olay çıkmasına sebep olabilirler. Buna sebep olan ise sizde olanların onlarda olmayışı yani kıskançlık... Dostun acısına üzülmek kolaydır, zor olan başarısına sevinebilmektir demişler. Kendinizi yalnız hissederek üzülmek yerine, ne kadar da çok şeye sahip olduğunuzu düşünün."
+      }
+    }
+  },
+  "weekly": {
+    "dateRange": [
+      "2024-04-15",
+      "2024-04-21"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Kaçıp gitmek size göre değil. Aşkınız için, aileniz için, işiniz için, idealleriniz için, önemsediğiniz her şey için savaşacak güce sahipsiniz. Bunlardan hangisinde bir eksiklik varsa onun için bu haftayı mücadele içinde geçirebilirsiniz. Belki hayatınızın aşkı için, belki istekleriniz ve umutlarınız için. Nihayetinde hedeflerinize varacağınızı söyleyebilirim. Güzel haberler sizinle olacak."
+      },
+      "taurus": {
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "Zafer adımlarınızı atıyorsunuz. Zirveye yaklaşmanız muhtemel. Parlak fikirlerinizi uygulamaya koyduğunuz da başarıya ulaşabilirsiniz. Haftaya maddi açıdan sıkıntılarla girseniz de hafta sonuna doğru beklenmedik kazançlar meydana gelebilir. Özel hayatınızda, ilişkilerinizde beklentileriniz konusunda daha net bir tutum sergileyerek hayatı kendinize daha da güzelleştirebilirsiniz. Daha çalışkan ve daha hevesli olmanız size mutluluk kapılarını aralıyor."
       },
       "gemini": {
         "love": 0.5,
-        "health": 0.6,
-        "money": 0.4,
-        "content": "Düşünmeden hareket etmeniz sizi hayal kırıklığına uğratabilir. Aceleci davranmadan hareket etmeniz gereken bir haftadasınız. Kararsızlıklar ve olası dikkatsiz tutumlarınız size özellikle maddi açıdan kaybettirebilir. Eğitim, iş hayatı ya da ev işleri olabilir yetiştirmeniz gereken bir şeyler varsa, odaklanmanız gereken şey zaman değil işin kendisi olduğunu unutmayın. Bu sizi kaygılardan kurtaracaktır.\n\nİnsanlarla iletimlerinizde ise sıkıntılar meydana gelebilir. Ölçülü davranmak ve fevri tepkilerden kaçınmak gerekir. Duygularınızın sesine kulak verdiğiniz bu haftayı sizi sakinleştirecek etkinliklerle geçirmek ise ekstra fayda sağlayabilir, aksi halde çevrenizdeki insanlara da huzursuzluk vererek birçok kayıpla haftayı kapatabilirsiniz."
+        "health": 0.9,
+        "money": 0.7,
+        "content": "Haftayı kalbinizi kıran insanlara üzülerek geçirebilirsiniz. Siz elinizden gelenin fazlasını da yapsanız bazen yürümeyen ilişki yürümüyordur. Şöyle bir rahat nefes alıp düşünecek olursanız, ferahladığınızı hissedebilirsiniz. Kendinize daha fazla zaman ayırabilirsiniz. Stres ve kaygıdan arınmış olduğunuzu fark edeceksiniz. Hatta yanınızda olan ve sizi önemseyen insanlara daha çok vakit ayırabilir ve daha güzel zamanlar geçirebilirsiniz."
       },
       "cancer": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Kendinizi başka alanlarda eğitmek adına yeni ilgi alanlarına yöneleceğiniz bir sürece giriyorsunuz. Ayrıca eskide olmuş bitmiş bir durumun etkisini üzerinizden atmak adına bu yeni ilgi alanları size yeniden başlamak için fırsat sunabilir. Aradığınız yenilik ihtiyacınızı bulduğunuzda önünüzde sıkıntı oluşturan tek bir konu kalacaktır. O da yeterli motivasyonu hissetmemek.\n\nİstiyorsunuz ki birileri sizin elinizden tutsun, yardım etsin ve sizin başlamanıza yardımcı olsun. İnsanlar kendi dertleriyle o kadar meşgul ki siz bizzat talep etmedikçe kimse size durduk yere yardıma yanaşmayacaktır. Bilmeniz gereken bir şey var kimsenin yardımına ihtiyacınız yok. Sadece bir adım atın ve başlayın, gerisi çorap söküğü gibi gelecektir. Başlamak için en uygun zamanı ararken zaman geçip gidiyor unutmayın."
-      },
-      "leo": {
         "love": 0.5,
         "health": 0.7,
-        "money": 0.6,
-        "content": "Motivasyon eksikliği ile pasif kalarak hiçbir etkinliğin içinde yer almak istemeyebilirsiniz. Hatta günlük işlerinizi bile erteleyebilirsiniz. Bunun temel sebeplerinden birisi önceden ilginizi çeken ve oldukça emek harcadığınız bir durumun artık ilginizi çekmiyor oluşu. Yaptığınız onca yatırım için kendinizde pişmanlık hissedebilirsiniz. Bu süreçte size sunulan birçok fırsatı ise görmezden gelebilirsiniz.\n\nSamimiyetsiz ilişkilerden uzaklaşarak kendinizi koruduğunuzu düşünebilirsiniz. Yalanlar ve yalancılar her zaman olacaktır. Uzaklaşmak bir çözüm değil. Zaten bu durumun verdiği negatif enerji ile kaçan motivasyonunuz fırsatları da kaçırıyor. Bunun yerine, gerçekleri olduğu gibi kabul edebilirseniz, değişen şartlara uyum gösterebilir ve fırsatlar kaçmadan değerlendirebilirsiniz."
+        "money": 0.4,
+        "content": "Hafta boyunca maddi kaygılar üst düzeylere çıkabilir. Bu kaygılarla başa çıkmak dışardaki insanlara göre kolay gelse de sizin için zorlayıcı görünüyor. Panik halinden dolayı yanlış yatırımlarda bulunabilirsiniz ya da zaten yeterince açıldım battı balık yan gider diyerek har vurup harman savurabilirsiniz. Bu durum sizin için sakıncalı bir hale gelmeden önce finansal tavsiyelerde bulunan güvendiğiniz insanların sözlerini dikkate almakta fayda var."
+      },
+      "leo": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Bu hafta yeni başlangıçlara hazır olabilirsiniz. Karşınıza değerlendirebileceğiniz büyük fırsatlar çıkabilir. Zihninizi saran belirsizlikler son buluyor ve bu durum hedeflerinize daha emin adımlarla yol alabileceğiniz anlamına geliyor. Size karşı haksızlık edenlerin cezalarını bulduğu, yardımcı olanların ise adeta ödüllendirildiği anlar yaşayabilirsiniz. Hak ettiğiniz güzellikler hayatınıza giriyor, emekleriniz sonuç veriyor."
       },
       "virgo": {
-        "love": 0.7,
-        "health": 0.9,
-        "money": 0.6,
-        "content": "Bir dibe vuruş sonrası yaşanabilecek en kötü olayların çoktan yaşandığı ve artık tek çarenin yükselmek ve güneşi görmenin olacağı dip sonrası zirve anına geldiğinizi söyleyebilirim. Hayatınızda hiçbir şeyin eskisi gibi olmayacağı her şeyi yenisiyle değiştireceğiniz bambaşka bir döneme giriyorsunuz bu hafta. \n\nBoşuna olan çabalarınız, yaptığınız yanlış yatırımlar, yaşadığınız maddi kayıplar... Hepsi geçmişte kalıyor. Yeni bir siz geliyor dünyaya. Ortada emeğiniz varsa karşılığını fazlasıyla alacağınız bir gelecek inşa etme arifesindesiniz. Emeğinize saygısızlık yapan kişileri ise hayatınızdan birer birer çıkarabilirsiniz."
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Uzun süredir görüşemediğiniz sevdiğiniz insanlarla tesadüfler eseri görüşme fırsatları bulabilirsiniz. Mazi gözünüzde canlanabilir ve karar almakta zorlandığınız bazı durumlarda karar almanızı netliğe kavuşturan olaylar yaşayabilirsiniz. Hasretini çektiğiniz ve hep olmasını istediğiniz dileklerinizin gerçekleşmesi muhtemel görünüyor. İç sesiniz sizi doğru yola yönlendirecektir. Sorunların çözümü iç dünyanızda gizli. Kararlarınızda kimsenin etkisi olmadığında daha iyi yol aldığınız kesin."
       },
       "libra": {
-        "love": 0.6,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Bu haftayı aksi bir şekilde geçirebilirsiniz. Kontrolünüzü yitiriyormuş gibi hissedebilirsiniz. Bu içinizden gelen bir şey değil, çevrenizdeki insanların sizde uyandırdığı etkiden kaynaklı. Olumsuz yorumlar ve konuşmalardan uzak durmak ve zamanı kendinize harcamak sizi bu negatiflikten uzak tutabilir. Sorumluluk başkasında değil, sizde.\n\nDuygusal açıdan strese girmenize neden olan durumların yaşanması yukarıda bahsettiğim kontrol kaybının ana sebeplerinden biri olabilir. Sevdiğiniz insanlarla yol ayrımına girebilirsiniz, anlaşmazlıklara düşebilirsiniz. Bu bir bitiş değil belki de yeni hayatınız için bir başlangıçtır bunu göz önüne alarak kendinize yeni planlar oluşturabilirsiniz."
+        "love": 0.8,
+        "health": 0.9,
+        "money": 0.7,
+        "content": "Özellikle finansal konularda aceleci kararlar almayı bırakmanız gerekiyor. Kumar vb. bağımlılıklarınız varsa bu konuda bir adım atmak adına çevrenizden destek isteyebilirsiniz. Yatırımlar konusunda ise sabır göstermeniz gerekebilir. Hayalleriniz suya düşmesin istiyorsanız kontrollü harcamalar yapmalısınız. Belki uzun zamandır aklınızda olan iş girişimleriyle ilgili de sermayesiz işlere odaklanabilirsiniz. Karşınıza bununla ilgili bir fırsat gelebilir ve bu fırsatı değerlendirmek için doğru bir zamandasınız."
       },
       "scorpio": {
-        "love": 0.3,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Haftanın ilk yarısı zafer, güç, cesaret siz de. Atacağınız tüm adımlar ne istediğinizi bilerek olacak. Yolunuza çıkan engelleri kolaylıkla aşabilecek durumdasınız. Kendinizi güven içinde hissederek yolunuza da devam ediyorsunuz; ama burada dikkat etmeniz gereken bir şey var. Konfor alanınızdan çıkmadan yaptığınız bu mücadele size bazı konularda kayıplar da getirebilir.\n\nBu kayıplardan bir tanesi aşk hayatınızda olabilir. Sizi konfor alanınızdan çıkaracak tüm eylemlere hayır demeniz, kararsız kalmanız, kararlarınızı bekletmeniz üzerinizde kara bulutların dolaşmasına sebep olabilir. Haftanın ikinci yarısında karamsar hissetmeniz muhtemel bu yüzden. Gerçekten mutlu olmak istiyorsanız, risk almanız gerektiğini unutmayın. "
-      },
-      "sagittarius": {
         "love": 0.6,
         "health": 0.8,
         "money": 0.7,
-        "content": "Başlangıç yapmak istiyorsunuz; ama alacağınız kararları haftanın sonlarına doğru bırakmanız sizin için daha faydalı olabilir. Kararlarınızda kimseden etkilenmemeniz önem gösteriyor özellikle de aile ve yakın dostlarınızdan. Sizi en iyi siz bilirsiniz ne istediğinizi de... Alacağınız tavsiyeler isteklerinizden vazgeçmenizi neden olabilir. Kendinize ait olan seçimlerinize kim neden karışsın ki?\n\nHaftanın sonlarına doğru mantıklı yanınız merhametli ve duygusal yanınızı sollayarak en doğru kararları almanızı sağlayabilir. Yapacağınız küçük değişiklikler ileride büyük fırsatları yaşama olanağı sunabilir. Bu haftanın genel konusu ben ne istiyorum ve onu nasıl alabilirim üzerine olacağı için atacağınız küçük adımlar bile fazlasıyla yetecektir. "
+        "content": "Bedeninize ve zihninize bir mola lazım. Kararlarınızı uygulamaya geçirmek için belki de uygun bir zaman değil. Biraz daha beklemekte fayda olabilir. Riskli yatırımlar ve riskli adımlar aceleye gelmemeli. Her şeyi yeniden kontrol etmek gerekebilir. Ayrıca sevdiğiniz insanlar tarafından incitilen kalbiniz iyileşme döneminde. Kendinize bu iyileşme dönemi içinde ekstra işler çıkartmamayı başarabilirseniz, sağlığınıza da olumlu yansıyacak bir gidişat içerisine girebilirsiniz."
+      },
+      "sagittarius": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Hayatınızda yeni bir sayfa açmaya hazırlanın. Hafta başladığı gibi mutlu haberler kapınızı çalıyor. Amaçlarınıza ulaşacak, işlerinizi yoluna koyacak ve rahat bir nefes alacaksınız adeta. Yeni hedefler belirleyip, kaç zamandır ertelediğiniz işlerinizi tamamlayacak bir enerjiye sahip oluyorsunuz. Size negatif etki eden tüm olaylar sona eriyor. Yorulmak nedir bilmediğiniz birçok işinizi tamamlamanız çok olası görünüyor."
       },
       "capricorn": {
         "love": 0.7,
         "health": 0.7,
-        "money": 0.8,
-        "content": "Harekete geçmek için daha fazla hevese ihtiyaç durmanız size durgun bir süreç verebilir. Kimisi buna tembellik dese de sizin içinizden hiçbir şey yapmak gelmiyor. Haftanın ilk yarısını bu şekilde geçirirken fayda getirmesi açısından uzun vadeli bir plan yapabilirsiniz. Hiçbir şey uzaktan göründüğü gibi değil, insanların sizin için söylediklerini duymazdan gelmeyi tercih etmek gerekir. Gerçeği sizin bilmeniz kafi.\n\nHaftanın diğer yarısı ise aniden hızlı bir döngünün içinde kendinizi bulabilirsiniz. Yapbozun eksik parçası tamamlanmış edasıyla kendinizi her şeye hazır hissettiğiniz bu süreçte alacağınız kararlar geleceğinizi olumlu bir şekilde değiştirebilir. Kesin bir değişim süreci olacaktır. Kariyer, özel hayat, yaşanılan yer ile ilgili keskin ve radikal bir kararın verildiği bu dönem sizin için en iyi sonucu ortaya çıkarabilir."
+        "money": 0.7,
+        "content": "Hafta çok yoğun geçebilir. Bu yoğunluk sebebiyle ve dilediğiniz gibi dinlenemediğinizden stres faktörünüz yükselebilir. Ansızın gelen öfke krizleri de bundan kaynaklanıyor. Güçlenmek ve yükselmek adına, haftayı başarıyla atlattım diyebilmek için size destek olmak isteyen insanlara alan tanıyabilirsiniz. Her şeyi tek başınıza yapmak zorunda değilsiniz."
       },
       "aquarius": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Hayatınızda askıya aldığınız önemli durumlar için acele etmenin gereksiz olduğunu düşünebilirsiniz. Harekete geçmek adına ise ilahi bir mesaj bekliyor olabilirsiniz. Aslında kendinizi baştan aşağıya değiştirmek için bu sürecin bir inziva olduğunu da söyleyebiliriz. Farklı bakış açıları kazandınız ve bunu kendiniz adına nasıl kullanacağınızı belirlemek adına bu inziva sizin için önemli.\n\nİnziva bitişi sonrası haftanın sonlarına doğru büyük bir hareketlilik içine girecek olan hayatınız size beklentilerinizin gerçek olma fırsatını sağlayabilir. Belki insanlar sert biri olduğunuzu söyleyecek; ama siz tamamen iyi niyetiniz ve barışçıl amaçlarınızla hareket etmeye başlayacaksınız. Bu süreç size neyin doğru olduğunu gösterecek ve sizin için doğru olan adımların atılmasını sağlayacaktır."
+        "love": 0.6,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "Haftaya bütçe açığı vererek başlamanız böyle devam edeceği anlamına gelmiyor. Seyahat planlarınız istediğiniz gibi geçmediyse bir suçlu aramaya gerek yok. Artık daha sonrasını planlamak gerekir. Olan bitene çok takılıp yaşadığınız anı kendinize zehir edebilirsiniz ya da olan oldu deyip anın tadını çıkarırsınız. Ailenizle bazı fikir ayrılıkları yaşanabilir ve etkili bir iletişim ile ortak bir yol bulunabilir."
       },
       "pisces": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Hafta boyunca hedefleriniz dahilinde amacınızdan sapmadan tam yol ileri diyebilirsiniz. Durgun süreç bitiyor ve hareketli bir dönem geliyor sizler için. Kendinizi atılgan ve cesur hissedebilirsiniz. Normalde yapmam dediğiniz şeyleri yaparak başarı elde edebilirsiniz. İçinizdeki heves kendisini gün yüzüne çıkarıyor ve istekleriniz için mücadele etmeye başlıyorsunuz.\n\nYapmanız gereken her şeyi yaparak yenilenen enerjiniz için kendinizi her güzel şeye açıyorsunuz diyebiliriz. Bunun içinde aşkta var, kariyer de, diğer tüm dilekleriniz de. İsteklerinizin size hediye misali geleceği bu hafta hayatınızda yeni sayfalar açabilirsiniz. Maddi anlamda yatırımlar yapmak da buna dahil."
+        "love": 0.9,
+        "health": 0.9,
+        "money": 0.9,
+        "content": "İnat ederek, pireyi deve yaparak olası tartışmaların önünü açabilirsiniz. Haftanın ilk günleri atmaya cesaret edemediğiniz adımları haftanın ortasına doğru atarak aşkta kazanan tarafa geçebilirsiniz. Fakat dikkatli olmanız gereken bir şey var; o da kendinizle, sözlerinizle çelişmemek. Aksi halde kazandığınız gibi kaybı da görebilirsiniz. Kalbinizin sesini dinleyip, duygularınızla hareket ederseniz, kazanan olabilirsiniz."
       }
     }
   },
