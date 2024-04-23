@@ -1,86 +1,6 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-04-22",
-      "2024-04-22"
-    ],
-    "horoscopes": {
-      "aries": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Bazı engellere takılmış olmak pes etme anlamına gelmesin. Biraz mola verip dinlenmenin zamanı. Zihin temizlendiğinde yeniden başladığınızda tecrübeleriniz size yol gösterecektir. Sizi rahatsız eden durumlardan ise kaçınmak adına açık iletişim dilini tercih edebilirsiniz.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "taurus": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Finansal açıdan bolluk dönemi başlıyor diyebiliriz. Mal varlıklarınız artabilir. İşlerinizle ilgili her şey yolunda gidiyor. Kendinizi huzurlu hissedebilirsiniz. Aile arasında önemli konular gündeme gelebilir. Ruh halinizde ise iyileşme süreci başlıyor.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "gemini": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Bugün yaşayacağınız olaylar farklı bakış açılarına sahip olmanıza katkıda bulunabilir. Edineceğiniz bu yeni bakış açıları sayesinde olayları daha iyi analiz edebilirsiniz. Özellikle de sizden saklanan sırlar ya da size söylenen yalanlar konusunda daha iyi tahlil yeteneği kazanabilirsiniz.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "cancer": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Kendinizi yalnızlaştırmak, duygularınızı içinizde yaşamak, hislerinizi paylaşmamak mantıklı gibi görünebilir kimi zaman. Zira duyan yoksa, dinleyen yoksa anlatmak gereksiz gelebilir. Kalbinize yük ettiğiniz ne varsa söyleyin gitsin. Dinleyene ihtiyacınız yok; fakat içinizi ferahlatmaya ihtiyacınız var.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "leo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Kariyer, eğitim ya da buna benzer konularda yeni başlangıçlara imza atabilirsiniz. Sizi heyecanlandıracak gelişmeler yaşanabilir. Kendinizi dinç, zinde hissedebilirsiniz. Sevdiğiniz insanlarla bir araya gelerek ortak planlar yapmanız da çok olası.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "virgo": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Mali açıdan büyük bir fırsat kapınızı çalabilir. Bu fırsatı değerlendirmek isterseniz, ilerleyen zamanlarda para konusunda kendinizi fazlaca şanslı hissedebilirsiniz. Özel hayatınızda ise bazı sürprizlere kendinizi hazırlayabilirsiniz. Mutlu bir gün sizleri bekliyor.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "libra": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
-        "content": "Fırtına öncesi sessizlik dönemi içinde olabilirsiniz. Suskun ve dinlenmiş olduğunuz bu dönem sonrasında herkes hak ettiğini alabilir. Nereden yaralandıysanız iyileştirmişsiniz. Bu iyileşme süreci size fayda sağlarken, yaralarınıza tuz basan insanlar için aynısını söyleyemiyorum.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "scorpio": {
-        "love": 0.5,
-        "health": 0.8,
-        "money": 0.5,
-        "content": "Azla yetinmeyen çoğu bulamaz hesabı maddi açıdan yatırımlarınızda kayıplar yaşayabilirsiniz. Gereksiz harcamalardan ise kaçınmak fayda sağlayabilir. Özel hayatınızda ise özveriden kaçınmanız ve denge sorunları sıkıntıları gözünüzde daha çok büyütebilir. Kişi kendini ön plana çıkararak karşı tarafı yok sayabilir. Bunu siz ya da partneriniz gerçekleştiriyor olabilir.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "sagittarius": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
-        "content": "Duygularınızla hareket ederek, fevri davranarak kayıplar yaşayabilirsiniz. Korkularınızla yüzleşerek mantığınızı devreye koymanız gerekebilir. Kararsızlıklar zaman kaybına neden olacağından, en kötü kararın kararsız kalmaktan iyi olduğunu bilmek gerekir.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "capricorn": {
-        "love": 0.6,
-        "health": 0.8,
-        "money": 0.7,
-        "content": "Hayatınız bir film ise bu filmin başrolü de sizsiniz. Herkes sizden gelecek bir sonraki hamleyi bekliyor olabilir. Bütün gözler üstünüzde, kıskanılıyorsunuz ve harekete geçmenizi bekliyorlar. Aşk hayatınızdaki sorunlar ise aşılmak üzere. Beraber alınacak radikal karar gündeme gelebilir. Rıza göstermek ve istemek arasındaki fark ise düşüncelerinizi karıştırabilir.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "aquarius": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.6,
-        "content": "Duygusal açıdan atmanız gereken adımlar var. Bazı zararlı duyguları zirvede yaşayarak hem kendinize hem de sevdiklerinize haksızlık ediyor olabilirsiniz. İnsanlarda kendimizden yansımalar görürüz. İnsanların size hissettirdikleri duygular sizin enerjinizden ileri geliyor olabilir. Bu durumda ilk odaklanmanız gereken kendiniz olmalı. Önce kendinize şifa olmalısınız.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      },
-      "pisces": {
-        "love": 1,
-        "health": 1,
-        "money": 1,
-        "content": "Hayata tertemiz ve yeni bir sayfa açmak isteyebilirsiniz. Motivasyonunuzu yükseltecek olumlu olaylar yaşamanız muhtemel. Atmak istediğiniz adımları tereddüt etmeden atabilirsiniz. Şans ve fırsatlar sizden yana görünüyor. Macera dolu bir hayatın arifesinde olabilirsiniz.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
-      }
-    }
-  },
-  "daily": {
-    "dateRange": [
       "2024-04-23",
       "2024-04-23"
     ],
@@ -156,6 +76,86 @@
         "health": 0.7,
         "money": 0.9,
         "content": "Aman dikkat edin yağmurdan kaçarken doluya tutulmayın. Canınızı sıkan ortamlar, konular ya da kişilerden kaçmak istiyorsunuz. Bunu yaparken mantığınızın sesini dinleyin. Anlık duygularla tepkilerden kaçınmakta fayda var. Uzun zamandır çok istediğiniz bir ihtiyacınız için kendinizi alışverişe çıkarken bulabilirsiniz ayrıca. Maddi açıdan her şey yolunda en azından.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      }
+    }
+  },
+  "daily": {
+    "dateRange": [
+      "2024-04-24",
+      "2024-04-24"
+    ],
+    "horoscopes": {
+      "aries": {
+        "love": 0.6,
+        "health": 0.6,
+        "money": 0.6,
+        "content": "Daha iyi bir gelecek umut ederek hayatınızdaki rutinleri değiştirebilirsiniz. Hatta konfor alanınızdan çıkma cesareti hissedebilirsiniz. Aklınızda büyük hedefler ve önünüzde güzel bir gelecek var. Ve kararları yalnızca kendiniz aldığınız daha net bir hayat için bugün beklenmedik kararlara imza atabilirsiniz.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "taurus": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Hedeflerinize ulaşmaya belki de hiç bu kadar yakın olmamıştınız. Sadece son bir adım kalmış. Bir kişinin daha desteğiyle her şey güzel sonuçlanabilir. Olumsuz sözlere bugün kulaklarınızı tıkayabilirsiniz. Doğru yere odaklanmak adına, size destek olan insanın nasihatlerini dikkate alın.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "gemini": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Aranızın bozuk olduğu, küs olduğunuz birileri varsa bugün barışma günü. Yalnız bu barışmanın sizi mutlu etmesi gerekirken eksik olan bir şeyler yüzünden günü canınız sıkkın geçirebilirsiniz. Ağzınızdan çıkan söz affettim derken yüreğinizin kızgın olması bunun sebebi olabilir. Ayrıca sağlığınıza ekstra dikkat etmeniz gereken bir gün olduğu için kendinizle ilgilenmek size iyi gelecektir.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "cancer": {
+        "love": 0.7,
+        "health": 0.7,
+        "money": 0.7,
+        "content": "İletişimde olduğunuz insanlara karşı ölçüyü kaçırıp aşırı tepkiler verebilirsiniz. Anlık duygularınızla hareket etmeniz aile, aşk ve arkadaşlık ilişkilerinizde uyum sorunu çıkarabilir. Sakin kalıp bir tepki vermeden önce düşünmekte fayda görünüyor.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "leo": {
+        "love": 0.4,
+        "health": 0.8,
+        "money": 0.7,
+        "content": "Sert ve sinirli bir mizaç ile etrafınızdakileri korkutabilirsiniz. İşlerin istediğiniz gibi gitmediği için içinizdeki siniri yanlış yerlere yönlendirme ihtimaliniz var. Kalp kırmaktan sakınarak, sakin kalarak, karşıdaki kişinin de nihayetinde bir insan olduğunu aklınızda bulundurarak davranmanız ilerleyen günlerde yaşayacağınız olası pişmanlığı engelleyebilir.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "virgo": {
+        "love": 0.5,
+        "health": 0.7,
+        "money": 0.5,
+        "content": "İçinizde büyük bir mücadele var. Ya kazanırım ya kaybederim diye girdiğiniz bu mücadele size farklı bakış açıları kazandırarak bazı gerçeklerin farkına varmanızı sağlayabilir. Çatışmaların gereksiz olduğunu ve huzurunuz için sadece kendinizi dinlemenizin yeterli olduğunu görebilirsiniz. Bu durum finansal açıdan size fırsatların kapısını da açabilir.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "libra": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Hayatınızda engel olarak gördüğünüz ne varsa kalkıyor. Özgürlük duygusu çok derinden gelerek hayatınıza huzur katıyor. Aşk hayatınızda yaşayacağınız ve asla unutmak istemeyeceğiniz en güzel günlerden birisini geçirebilirsiniz. İsteyip de yapamayacağınız bir şey yok diyebiliriz.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "scorpio": {
+        "love": 0.3,
+        "health": 0.8,
+        "money": 0.6,
+        "content": "Özel hayatınızda bazı anlaşmazlıklar gün yüzüne çıkabilir. Ortak noktada buluşmak zor bir hale gelebilir. Güven sorunları açık bir iletişim kurulursa aşılabilir. Sağlığınız yerinde, dinlenme fırsatı yakalıyorsunuz. Ayrıca düşüncelere dalarak hayatınız adına önemli kararlara imza atabilirsiniz.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "sagittarius": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Bütün hayatınızı şekillendirecek bir karar almanın arifesindesiniz. Bu özel hayatınız, işiniz, aileniz, yaşadığınız yer gibi çok önemli bir konuda olabilir. Şansınızın çok yüksek olduğu bugün, gönül rahatlığı ile bu kararı alabilirsiniz. Sizin için en iyisi ne olacaksa, sezgileriniz o karara kendiliğinden çekiliyor zaten.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "capricorn": {
+        "love": 0.8,
+        "health": 0.8,
+        "money": 0.3,
+        "content": "Zihninizi karıştıran bazı durumları göz önüne almaya devam ettikçe motivasyon eksikliği yaşamaya devam etmeniz söz konusu. Belki kariyer ya da eğitimle ilgili planlarınız var; ama başlangıcı bir türlü yapamıyorsanız, sebebi yanlış yerlere odaklanmaktan kaynaklanıyor olabilir. Sizi motive edecek bir dış kaynak yok, bu kaynak kendinizsiniz.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "aquarius": {
+        "love": 0.7,
+        "health": 0.8,
+        "money": 0.8,
+        "content": "Kimse iç dünyanızda olan biteni bilmiyor zira siz kimsenin bunu bilmesine gerek duymuyorsunuz. Onlar da gördükleri kadarıyla değerlendiriyorlar. İnatçı yanınız ağır bassa da insanlara karşı biraz daha şeffaf davranarak belki de onların yanıldıklarını gösterebilirsiniz.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
+      },
+      "pisces": {
+        "love": 1,
+        "health": 1,
+        "money": 1,
+        "content": "Sezgileriniz çok kuvvetli. Bugün atacağınız tüm adımlarınızı sezgilerinizi dinleyerek atarsanız ummadık kısmetlerle karşılaşabilirsiniz. Ayrıca rüyanızı hatırlıyorsanız, orada sizin için bir bilinçaltı mesajı yatıyor olabilir. Uzun süredir düşünüp durduğunuz bir sorun için çare o mesajda olabilir.\n\n*** Mayıs ayından itibaren burç yorumu hizmetimiz sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       }
     }
   },
