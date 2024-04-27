@@ -1,8 +1,8 @@
 {
   "yesterday": {
     "dateRange": [
-      "2024-04-26",
-      "2024-04-26"
+      "2024-04-27",
+      "2024-04-27"
     ],
     "horoscopes": {
       "aries": {
@@ -18,15 +18,15 @@
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "gemini": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
+        "love": 1,
+        "health": 1,
+        "money": 1,
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "cancer": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
+        "love": 1,
+        "health": 1,
+        "money": 1,
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "leo": {
@@ -36,39 +36,39 @@
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "virgo": {
-        "love": 0.7,
-        "health": 0.7,
-        "money": 0.7,
+        "love": 1,
+        "health": 1,
+        "money": 1,
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "libra": {
-        "love": 0.9,
-        "health": 0.9,
-        "money": 0.9,
+        "love": 1,
+        "health": 1,
+        "money": 1,
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "scorpio": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.7,
+        "love": 1,
+        "health": 1,
+        "money": 1,
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "sagittarius": {
-        "love": 0.8,
-        "health": 0.7,
-        "money": 0.8,
+        "love": 1,
+        "health": 1,
+        "money": 1,
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "capricorn": {
-        "love": 0.7,
-        "health": 0.8,
-        "money": 0.8,
+        "love": 1,
+        "health": 1,
+        "money": 1,
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "aquarius": {
-        "love": 0.8,
-        "health": 0.8,
-        "money": 0.8,
+        "love": 1,
+        "health": 1,
+        "money": 1,
         "content": "\"\"\" Burç yorumu hizmetimiz maalesef sona erecektir. Papatya Falı ve Olumlama Çarkı ile beraber Yıldız Rehberi uygulaması hayatına devam edecektir. Tüm kullanıcılarımıza teşekkür ederiz. ***"
       },
       "pisces": {
@@ -81,8 +81,8 @@
   },
   "daily": {
     "dateRange": [
-      "2024-04-27",
-      "2024-04-27"
+      "2024-04-28",
+      "2024-04-28"
     ],
     "horoscopes": {
       "aries": {
